@@ -1,0 +1,87 @@
+Set,DisableScreenShake,true
+Set,DisableFlashes,true
+Set,SpeedrunClock,2
+Set,Everest.ShowModOptionsInGame,false
+EnforceMaingame
+Unsafe
+   1,D
+   1,J
+  60
+   1,D
+   1,F,180
+   1,J
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,J
+   1,U
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,J
+   1,U
+   1,L
+   1,F,270
+   1,J
+   1,D
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,J
+   1,R
+   1,U
+   1,R
+   1,F,90
+   1,R
+   1,J
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,J
+   1,D
+   1,F,180
+   1,J
+   1,U
+   1,R
+   1,U
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,J
+   1,R
+   1,J
+   1,L
+   1,D
+   1,L
+   1,F,270
+   1,L
+   1,J
+   1,R
+   1,U
+   1,R
+   1,J
+   1,S
+  48
+   1,D
+   1,F,180
+   1,J
+   1,U
+   1,F,
+   1,U
+   1,J
+
+#Prologue
+   1,S
+   1,D,J
+  32
