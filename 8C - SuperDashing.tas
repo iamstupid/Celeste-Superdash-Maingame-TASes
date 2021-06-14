@@ -1,0 +1,99 @@
+console rmx2 9
+Set,SuperDashing,true
+
+
+#lvl_intro
+  62
+
+   4,D,X
+   6,R
+   5,R,J
+   5,R,U,X
+  18,R
+  11,J,G
+   1,L,J
+  14,R,K,G
+  11,J,G
+   1,L,J
+  14,R,K,G
+  11,J,G
+   1,L,J
+  14,R,K,G
+  52,R,G
+ 123,R
+   4,D,X
+   6,L,J
+  17,L
+   4,D,X
+  19,L
+   1,R,J
+   5,R,D,X
+   2
+   2,R,D
+   6
+   5,R,U,X
+   4,U
+   4
+   4,R,D
+  15,R,D,X
+   6,R,D,C
+  40
+#lvl_00
+  10
+   5,R,D,X
+   1,R,U
+   1
+   1,R,D
+   4
+   1,R,D
+   9
+   5,R,D,X
+   4
+   1,R,D
+  41
+#lvl_01
+   4
+   5,R,D,X
+   5,D
+ 
+   5
+   5,R,U,X
+  10
+   1,U
+   3
+   2,R,D
+   2
+   1,R,D
+   5,R,D,X
+  40
+#lvl_02
+   2,U
+   9
+   5,R,X
+   1,R,D
+  20
+   6,R,D
+   5,R,D,X
+   1,D
+   3
+   2,R,U
+   5
+   2,R,D
+   6
+   5,R,U,X
+   3,U
+   4
+   4,R,D
+   2
+   3,R,D
+   1,R
+   1,R,D
+   2,R
+   5,R,X
+   2,R,D
+   8
+   1,R,J
+   5,R,U,X
+
+Set,SuperDashing,false
+ 200
