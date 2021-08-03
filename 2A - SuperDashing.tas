@@ -617,9 +617,13 @@ Set,SuperDashing,true
  208
 
 #lvl_end_0
-   6,L,D,X
+   4,D,X
+   1,L
+   1,L,D
+   
    1,R,J
-   8,R
+   1
+   7,R
    1,R,J
    5,R,D,X
    4,R
@@ -631,60 +635,71 @@ Set,SuperDashing,true
    5,R,D,X
    9,R
    1,R,D
+   
    5,R,D,X
    3,R,U
    2,R
    4,R,D
    1,R
-   5,R,U,X
-  40
-
-#lvl_end_2
-   2,R,U
-   2,R
-   1,R,U
-   9,R,D
-   1,R
    5,R,D,X
-   1,R,U
+   1,U
+  40
+#lvl_end_2
+   1,U
+   1,U
+   1
+   1,R
+   1
+   1,R,J,G
+   2,R
+   1
+   5,R,D,X
+   4,D
+   1
+   1
+   1
   40
 
 #lvl_end_3
-   1,R,U
-   3,R
-   5,R,D
-   5,R,D,X
-   2,R,U
-   1,R
-  40
-
-#lvl_end_4
+   3
+   5,R,U,X
+   6,U
    1,R,D
-   1,R
-   4,R,D
+   1,R,D
+   1,R,D
+  40
+   
+#lvl_end_4
+   7,R,D
+   5,R,D,X
+   2,U
    1,R,D
    2,R,D
-   6,R,U,X
-   1,R
-   1,R,D
   40
+   
 #lvl_end_3b
-   4,R
-   5,U
-   6,R
+   2,R,D
+   1
+   1
+   1,R,D
+   5,R,D,X
+   3,U
+   1
+   1,R,D
+   1
   40
 
 #lvl_end_5
-   5,R,X
-   1,R,U
-   2,R
-   6,R,D
+   2,R,D
+   1
+   1,R,D
+   5,R,D,X
+   2
   40
 
 #lvl_end_6
-   3,R
+   1
    1,S
    1,D,J
   18
-
-#72.760
+#72.658(4274)

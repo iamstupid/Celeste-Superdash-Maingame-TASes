@@ -251,37 +251,58 @@ Set,SuperDashing,true
    5,R,D
    6,L,D,X
    1,R,J
-   8,R
+   7,R
+   1,R
    1,R,J
    5,R,U,Z
-   4,U
+   3,U
    1
+   1,U
    3,R
    1,U
    1,R
-   1,R,U
-   2,R
-   1,R,K,G
-  10,R
-  18,R,D,X
    1
-   2,R
+   1
+   1
+   1,R,K,G
+   3
+   
+   1,R
+   4,R
+   1
+   1,R,J
+
+   
+   5,R,D,X
+  11,D
+   1
+   1,R
+   1,R
+   1,R
+   
+   
    5,R,D,X
   40
 
 #lvl_b-01
+
+
+
+
   18,U
-   1,R
-   2,K,G
-   6,R
+   
+   1,K,G
+   5,R
+   1
    3,L
   28,L,J
    1,L,K,G
    5,L,J,G
    5,L,U,X
    3,U
-   1,L
-   3
+   2,L
+   1,U
+   1
 #26.877(1581)
 
 
@@ -299,31 +320,42 @@ Set,SuperDashing,true
    1,L,K,G
    1,L,J,G
    6,R,J
-   8,R
+   7,R
    5,R,D,X
-   6,U
-   3
-  10,R,D
-   1,R,J
-   5,R,D,X
-   1,U
+   5,U
+   5
+   5,R,D
    1
    1,R,D
    1
+   1
+   1,R,J
+   5,R,D,X
+   1,U
+   2
+   1,R,D
+   
   40
 
 #lvl_b-01b
-   6,D
-   5
+   5,D
+   1
+   1,D
+   4
    4,D,X
    1,R,U,Z
-  14,U
+   3,U
+   1,R
+  11
   40
 
 #lvl_b-02
-   2,R
+
+   2
+   
+   
    5,R,D,X
-   1
+   
   14,D
    1,L,J
   15,L,D,X
@@ -410,6 +442,7 @@ Set,SuperDashing,true
   40
 
 #lvl_b-22
+***S
    5,R,U,X
    1,U
    2,R,J,G
@@ -466,4 +499,4 @@ Set,SuperDashing,true
  
 #Return
 
-#44.625
+#44.557
