@@ -1,5 +1,5 @@
-Set,SuperDashing,true
 console hard 1
+Set,SuperDashing,true
    1
 
 #Start
@@ -134,33 +134,24 @@ console hard 1
   10,K,G
    1,R,K
   40
- 
+
 #lvl_03
-***S
    4,R
    1,J,G
    7,R,J,G
    1,L,J
-***
-   8,L,K,G
-   1,R,K
-   1,K
-   1,R,K
-   1,L,K
+  12,L,K,G
    7,J,G
    2,R,J
-  19,R,K
-   1,R,K
+  20,R,K
    1,L,J,G
    7,L
   25,G
-***
    1,K,G
    1,R,K
    1,L,K
    1,J
-   2,K,G
-   1,L,K
+   3,K,G
    1,L,J,G
    5,R,D,X
    4,R
@@ -169,16 +160,14 @@ console hard 1
    2,R,U
    6
   40
-#lvl_04
-***
 
+#lvl_04
    4,D,X
    1,R,U,Z
    1,U
    1
    6,U
   48,R,D
-#16.524(972)
    2,R,J
    5,R,U,Z
    3,R
@@ -209,7 +198,7 @@ console hard 1
    5,J,G
    4,L,J
   40
- 
+
 #lvl_05b
    1,J
    4,L,K,G
@@ -237,7 +226,6 @@ console hard 1
    9,R,J
   40
 
- 
 #lvl_06
   11,R,J
    9,R,X
@@ -357,7 +345,6 @@ console hard 1
   40
  
 #lvl_08b
- 
    6
   27,R,G
    7,J
@@ -593,6 +580,6 @@ console hard 1
   19,L
   12,L,J,G
    8,R,J
-  28,L,K,G
+  37,L,K,G
 
 #58.973

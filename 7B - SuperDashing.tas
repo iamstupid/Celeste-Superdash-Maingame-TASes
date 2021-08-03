@@ -1,10 +1,37 @@
+#console hard 7 2080 -1624
+#Set,SuperDashing,true
+#play,Section 500m,37
+
+#console hard 7 3568 -4336
+#Set,SuperDashing,true
+#play,Section 1000m,37
+
+#console hard 7 6168 -6624
+#Set,SuperDashing,true
+#play,Section 1500m,37
+
+#console hard 7 8424 -7864
+#Set,SuperDashing,true
+#play,Section 2000m,37
+
+#console hard 7 10632 -9384
+#Set,SuperDashing,true
+#play,Section 2500m,37
+
+#console hard 7 12848 -11320
+#Set,SuperDashing,true
+#play,Section 3000m,37
+
 console hard 7
 Set,SuperDashing,true
+   1
 
-#summit_B
- 325
+#Start
+#lvl_a-00-intro
+ 246
+
 #lvl_a-00
-#S0
+  78
    4,D,X
    1,L
    9
@@ -33,7 +60,6 @@ Set,SuperDashing,true
    5,R
    1
    3,R
-
    4,D,C
    1,R
   17
@@ -41,9 +67,7 @@ Set,SuperDashing,true
    6,R
    4,R
    7,R,J
-   
    2,R
-   
   15,L
    4,D,X
    1,L,X
@@ -55,20 +79,13 @@ Set,SuperDashing,true
   40
 
 #lvl_a-01
-
-
   10,R,D
    5,R,U,X
-   
    5,U
-   
-   3,R
-   2,R
-   3,R
+   8,R
    1,R,D
    1,R,U
    1,R,D
-
    4,D,X
    1,R
   12
@@ -78,7 +95,6 @@ Set,SuperDashing,true
   40
 
 #lvl_a-02
-
    9,U
   10,R,D
   12,R
@@ -86,9 +102,7 @@ Set,SuperDashing,true
    4,D,X
    1,R,U
    4
-
-   1,R
-   1,R
+   2,R
    5
    1,R,D
    2
@@ -103,6 +117,7 @@ Set,SuperDashing,true
    7,R,D
    5,R,D,X
   40
+
 #lvl_a-03
    2
   14,U
@@ -134,20 +149,18 @@ Set,SuperDashing,true
   14,R
   37,L
    5,L,U,X
-   
   10,L,D
-
    4,D,X
    1,L,U
    3,L,D
    8
    1,L,D
    1,U
- 350
+ 351
 
-  77
-#S500
 #lvl_b-00
+  76
+#Section 500m
    5,L,D,X
    3
    1,U
@@ -171,13 +184,13 @@ Set,SuperDashing,true
   15,L,J
    5,U,X
    6,L
-   
    4,U
    1,R,U
    7
    1,J
   10,J
   40
+
 #lvl_b-01
    3,R,J
    8,L,K
@@ -187,8 +200,6 @@ Set,SuperDashing,true
    2,L,D
    6
   16,R,J
-   
-   
    2,L,J
    9,L,K
    3,R
@@ -203,7 +214,6 @@ Set,SuperDashing,true
   15,R
   19,R,J,G
   10,R
-
    8,R
    5
    1,R
@@ -233,7 +243,6 @@ Set,SuperDashing,true
    3,L,J
   13,L
   19,L,D
-
    1,L,D
    1,R
    1,L,D
@@ -275,6 +284,7 @@ Set,SuperDashing,true
   23,U,X
   23,U,C
   40
+
 #lvl_b-02
   12,L
    5,L,D,X
@@ -291,15 +301,12 @@ Set,SuperDashing,true
    4,D,X
    1,R,D
    1,D
-  
   17
   19,R,D
    4,D,X
-
    5,R,U
    1
    8,U
-
    5,R,D,X
   15,R
    5,D,X
@@ -310,7 +317,6 @@ Set,SuperDashing,true
    4,X
    1,R,U
    3,R
-   
    3
    2,U
    2
@@ -320,20 +326,14 @@ Set,SuperDashing,true
    4,D,X
    1,R,D
    4,R,U
-   
    5,R,D
    1
    8
   10,R
-
-
   20,R
    4,X
    1,R,U
-   
-  
   18,U
-  
    1,R,J,G
    1,J
    1,R,J
@@ -351,35 +351,29 @@ Set,SuperDashing,true
    5,R,D,X
    1,U
   40
+
 #lvl_b-03
    2,U
    7
    5,R,U,X
    4,U
- 
    8
    1,R,J,G
    6
-
    2,R,G
    5,D,X
    1,L
   17
-
   37,R
    4,D,X
    1,U
    8,R
-   
-   3,U
-   
-   3,U
+   6,U
    3
    1,R,J
    1,J
    8,R,J
    8,L,J
-
   11,L,K
    4,L,J
    4,X
@@ -390,17 +384,11 @@ Set,SuperDashing,true
    4,L
   10
    5,U,X
-   
   12,L
    1,L,J,G
    8,D
   10,L,D
-
   37,L
-
-
-
-   
   23,L,G
   26,L,U,G
    1,L,D,G
@@ -417,11 +405,9 @@ Set,SuperDashing,true
    2,J
   16,R,J
    6,L,K
-
   10,L,J
    3,J
    9,L,K,G
-
   15,R,J
   14,L,K
   14,L,J,G
@@ -433,12 +419,11 @@ Set,SuperDashing,true
    1,J
    5,U,X
   21
-#49.419(2907)
  297
 
-  76
 #lvl_c-01
-#S1000
+  76
+#Section 1000m
    7,R,J
    4,D,X
    1,R
@@ -453,9 +438,7 @@ Set,SuperDashing,true
    4,R,J
    1,R,K
    5,R,U,X
-   7,R,D
-   
-   1,R,D
+   8,R,D
    7
    1,R,D
    2
@@ -469,12 +452,9 @@ Set,SuperDashing,true
    1,R,K
    3,R,K
    5,R,D,X
-   1
-   1
-  27
+  29
    4,R,J
    1,R,K
-
   18,R,X
    4,D,C
    1,R,U
@@ -484,7 +464,6 @@ Set,SuperDashing,true
    2,R,K
    2,R,K
    1
-
    5,R,D,X
    7,D
   11
@@ -496,7 +475,6 @@ Set,SuperDashing,true
   34
    4,R,J
    1,R,K
-
    5,R,U,X
    8,R,D
   11
@@ -532,7 +510,6 @@ Set,SuperDashing,true
    3
    3,R,D
    4
-   
    5,R,D,X
   19,D
    4,R,J
@@ -550,16 +527,14 @@ Set,SuperDashing,true
    1,R,U
   12,U
    3,L,U
-   
   40
+
 #lvl_c-00
    1,L,J
   15,L
-
    4,D,X
    1,R,U
    4,U
-
    9
    4,R,J
    4,R,K
@@ -600,6 +575,7 @@ Set,SuperDashing,true
    3,R
   12,R,D,X
   40
+
 #lvl_c-03
    3
    5,R,D,X
@@ -610,7 +586,6 @@ Set,SuperDashing,true
    5,R,U,X
   10
    5,R,U,X
-   
    5,U
    3
    2,U
@@ -656,9 +631,7 @@ Set,SuperDashing,true
    4,D,X
    1,R,U
    4,R
-   9,U
-   
-   2,U
+  11,U
    2
    1,L,J,G
    3,R,J
@@ -693,9 +666,11 @@ Set,SuperDashing,true
    5,R,U,X
   18,U
  331
-  76
+
 #lvl_d-00
-#S1500
+  41
+#Section 1500m
+  35
   19,U,X
    4,D,C
    1,L
@@ -713,7 +688,6 @@ Set,SuperDashing,true
    1,R,U
    1,R,D
    1,D
-
    3,R
    4,D,X
   11,R
@@ -728,6 +702,7 @@ Set,SuperDashing,true
    1,R,J
   11,R,D,X
   40
+
 #lvl_d-01
    4
    5,R,D,X
@@ -745,19 +720,15 @@ Set,SuperDashing,true
    8
    4,R,D
    6
-
    5,R,X
    1,D
    1
-   
    2,D
   40
-
 
 #lvl_d-02
    7,D
    1,R
-
    4,D,X
    1,R,U
    7,U
@@ -774,7 +745,6 @@ Set,SuperDashing,true
    7
    4,R
    5,R,U,X
-   
    4,R,D
    1
    5,R,D
@@ -800,6 +770,7 @@ Set,SuperDashing,true
    1
    5,R,D,X
   40
+
 #lvl_d-03
   18,U
   18,U,X
@@ -841,7 +812,6 @@ Set,SuperDashing,true
    1
    6
    5,R,U,X
-
    3,U
    4
    2,U
@@ -849,9 +819,10 @@ Set,SuperDashing,true
    5,R,U,X
    7,U
  295
-  78
+
 #lvl_e-00
-#S2000
+  78
+#Section 2000m
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -870,9 +841,7 @@ Set,SuperDashing,true
    5,D
    2
    9,R
-
    5,R,D,X
-
    8,U
    8
    2,R
@@ -884,6 +853,7 @@ Set,SuperDashing,true
    1,J
    9,R,J
   40
+
 #lvl_e-01
    1,R,J
   10,R
@@ -906,7 +876,6 @@ Set,SuperDashing,true
   12
   16,D,X
   11,R
-   
   14,D,X
    6,R
    5
@@ -916,7 +885,6 @@ Set,SuperDashing,true
    3,R
   10
    1,J
-
   49,L,J
   30,L,G
    4,D,X
@@ -947,6 +915,7 @@ Set,SuperDashing,true
    5,R,U,X
   15,U
   40
+
 #lvl_e-02
   12,L,K
    2,L,J,G
@@ -977,6 +946,7 @@ Set,SuperDashing,true
    1,R
    1
   40
+
 #lvl_e-03
    6
    1,R,J
@@ -1008,7 +978,6 @@ Set,SuperDashing,true
    5,R
    5,U,X
   12
-
    4,D,X
    1,L
    2,U
@@ -1016,9 +985,10 @@ Set,SuperDashing,true
    2,L,D
    9
  305
-  76
+
 #lvl_f-00
-#S2500
+  76
+#Section 2500m
   12,R,J
   10,R,K,G
    5,U,X
@@ -1026,18 +996,11 @@ Set,SuperDashing,true
    9
    1,L
    1,J,G
-
    1,L,K,G
    5,R,D,X
    4,R,U
    2
-   6,R,D
-   
-   1,R,D
-   1,R,D
-   
-   1,R,D
-   1,R,D
+  10,R,D
    1
    1,R,U
    4,D,X
@@ -1049,17 +1012,12 @@ Set,SuperDashing,true
    5,R,D,X
    1
    5,R,U
-   
   40
-
 
 #lvl_f-01
    3,R,D
    1
-
-   5,R,U
-   
-   1,R,U
+   6,R,U
    2
    1,R,J,G
    2,R
@@ -1132,10 +1090,10 @@ Set,SuperDashing,true
    1,R,J
    5,R,D,X
   40
+
 #lvl_f-02
    9,U
   10,R,D
-   
    7,R
    5,R,U,X
    5
@@ -1168,31 +1126,24 @@ Set,SuperDashing,true
    1,R,J
    7,R,D
   40
+
 #lvl_f-03
    1,R,D
    1,R,J
    4,D,X
    1,R,U
    6,U
-   
    1,L,U
-   
    1,J,G
    1,K,G
    1,K
    5,R,U,X
    6
    2,U
-  37,L
-
-   7,L
-
-  
-
+  44,L
   12,L,J,G
    6,L,K,G
   11,L
-   
    5,L,D,X
    1,R
    1,J,G
@@ -1200,8 +1151,6 @@ Set,SuperDashing,true
    5,L,U,X
    2,U
    3
-
-
   37,R
    5,R,U,X
    5,U
@@ -1245,7 +1194,6 @@ Set,SuperDashing,true
    5,R,U,X
    7,R,D
   37
-
    5,U,X
    2,R
    2
@@ -1253,7 +1201,6 @@ Set,SuperDashing,true
    5
    5,U,C
    2,R
-   
   16
   18,J
    1,K
@@ -1282,11 +1229,11 @@ Set,SuperDashing,true
    2,R,D
    9,R
  333
-  73
 
 #lvl_g-00
-#S3000
-#F20
+#CP-20
+  73
+#Section 3000m
    4,D,X
    1,L
   11
@@ -1303,8 +1250,8 @@ Set,SuperDashing,true
   31,R,J
    1,R,K,G
    4,R
-#F18
 
+#CP-18
    3,R
   14,R,D,X
    1,L,J
@@ -1318,7 +1265,6 @@ Set,SuperDashing,true
    6,L,J
    3
   15,L,X
-   
    5,L,D,C
   12,L,U
    2
@@ -1343,7 +1289,7 @@ Set,SuperDashing,true
    1,R,J,G
    7,R
 
-#F17
+#CP-17
   14,R,D,X
    1,L,J
    5,L,U,X
@@ -1351,7 +1297,6 @@ Set,SuperDashing,true
   11
    2,U
    1,R,J,G
-
    5,L,U,X
    8,U
    2
@@ -1359,7 +1304,7 @@ Set,SuperDashing,true
    4,R,J,G
    4,R
 
-F16
+#CP-16
    3,R
   14,R,D,X
    1,L,J
@@ -1382,7 +1327,6 @@ F16
    2,R,D
    9
    5,R,U,X
-
    4,R,D
    5
    1,R,D
@@ -1393,7 +1337,7 @@ F16
    8,R,J,G
    4,R
 
-#F15
+#CP-15
    3,R
    5,U,X
    3,R
@@ -1407,7 +1351,6 @@ F16
   10
    1,R
    2
-
    5,L,U,X
   12
    6,L
@@ -1416,14 +1359,12 @@ F16
    9,L
    4
    2,L
-
    5,R,U,X
   10,U
    8
    5,U,X
    8,R
   10
-
    4,R
    1
   23,U,X
@@ -1437,8 +1378,11 @@ F16
   18,U
    5,U,X
    5
- 262
-#F14
+ 153
+
+#lvl_g-01
+#CP-14
+ 109
    5,R,D,X
    7
    3,L,J
@@ -1456,8 +1400,7 @@ F16
   14
    5,U,C
    3,R
-   3
-   7
+  10
    1,R
    7
    4,D,X
@@ -1486,7 +1429,8 @@ F16
    6,R,D
   23,L,D
   12,D
-#F12
+
+#CP-12
    1
    5,R
    1,R,D
@@ -1511,7 +1455,6 @@ F16
    3,R
    4,D,X
    1,R,U
-   
    4,R,D
    1
    5,R,D
@@ -1521,28 +1464,19 @@ F16
    3,U
    1
   11,R,D
-#F11
-   1,R,D
-   1,R,D
 
+#CP-11
+   2,R,D
    5,R,D,X
    5,U
-   
    5,R,D
-   
-   
    4,D,X
    1,R,U
-   1,U
-   2,U
-   
+   3,U
    8,R,D
-
    1
    3,R,U
    4,R,D
-  
-   
    5,R,D,X
    1,R,U
    1,R,D
@@ -1554,7 +1488,6 @@ F16
    4,U
   23,U,X
    5,R
-
    4,D,X
    1,R
   17
@@ -1575,7 +1508,6 @@ F16
    6
    4,L,J
   22,U,X
-
    4,D,C
    1,R
    5
@@ -1589,12 +1521,10 @@ F16
    1,J
    1,L,J
   12,J
-   
   16,R,K
   16,L,J
    3,K,G
   20,R,K
-
    5,R,D,X
    8
    1,L,J,G
@@ -1610,7 +1540,6 @@ F16
    3,L,D
    1,R,J
    5,R,U,X
-   
    9,R
    1,R,D
    1
@@ -1621,12 +1550,10 @@ F16
   19,U,X
    3,R
    4,L,J,G
-   
    3,L
    5,R
    2,R,J
    1,J
-
    1
    1,R
    1
@@ -1650,9 +1577,7 @@ F16
    1
    1,U
    4,L,D
-   1
-   1
-
+   2
    5,L,D,X
    2
    1,D
@@ -1673,7 +1598,6 @@ F16
    1,U
    2
    1,U
-
    5,L,D
    5,L,U,X
    1
@@ -1683,6 +1607,7 @@ F16
   15,U
   40
 
+#lvl_g-02
   11,R
   15,R,X
    5,R,U,C
@@ -1692,8 +1617,8 @@ F16
    3,R,D
    7
    1,R,D
-#F08
-   
+
+#CP-08   
    5,U,X
    2,R
    8
@@ -1721,14 +1646,13 @@ F16
    1,R
    1
    1,R
-   
    5,R,K,G
    6,R
    1,R,J
-#F07
+
+#CP-07
    4,R
    1,R,J
-
    5,R,U,X
   11,U
    1
@@ -1741,7 +1665,8 @@ F16
    1,R,D
    3
    4,D
-#F06
+
+#CP-06
    5,D
    5,L,D,X
    6
@@ -1759,7 +1684,6 @@ F16
    4,D,X
    1,R,U
    3,U
-   
    9,R
   19,R,D
    4,D,X
@@ -1769,7 +1693,8 @@ F16
   11,R
    5,R,U,X
    6,R,D
-#F05
+
+#CP-05
    5,R,D
    1,L,J
    5,L,D,X
@@ -1783,8 +1708,7 @@ F16
    5,R,U,X
    3,U
   15,R
-   1
-   3
+   4
    5,U,X
    2,L
   15
@@ -1794,9 +1718,7 @@ F16
    2,R
   16
    5,U,X
-  12
-   3
-   6
+  21
    5,U,X
    2
    1,L
@@ -1810,7 +1732,6 @@ F16
    1,L
    9
    1,L,J
-
    5,L,D,X
    3,U
    4
@@ -1821,7 +1742,8 @@ F16
    1
    1,L,J,G
    6,L
-   #F04
+
+#CP-04
    5,L
    2,L,J
    5,L,U,X
@@ -1837,11 +1759,11 @@ F16
    7,L
    5,L,D,X
    1,L,D
-#F03
+
+#CP-03
    1,L,J
    8,L,D
    8,L,J
-
    4,D,X
    1,L,U
    1
@@ -1866,9 +1788,7 @@ F16
    6
    2,R,D
    9
-
    5,L,D,X
-   
    5
    1,L,D
    2
@@ -1877,14 +1797,10 @@ F16
    2
    4,U
    1
-   1,R,D
-   
-   4,R,D
-
+   5,R,D
    2
    5,R,D,X
    2,U
-   
    2,R,D
    1
    1,R,U
@@ -1893,12 +1809,10 @@ F16
    1,R,D
    1
    1,R,D
-   1,R,U
-   1,R,U
+   2,R,U
    1,R,D
    3
    1,R,D
-
    4,D,X
    1,R
    1
@@ -1911,8 +1825,7 @@ F16
    8,R,U
    3
    5,R,D,X
-  12,R,U
-   1,R,U
+  13,R,U
    1,R
    4,D,X
    1,R
@@ -1931,9 +1844,9 @@ F16
   18,U
   12,R,J,G
    3,R,K,G
-   6,R
-F01
-   1,R
+   7,R
+
+#CP-01
    4,D,X
    1,R
    9,R,D
@@ -1994,7 +1907,6 @@ F01
   10
    5,R,U,X
    6,U
-   
    4,R
    1,R,J,G
   13,R
@@ -2004,19 +1916,17 @@ F01
   19
    4,D,X
    1,L
-   
    1,U
    5
-   
    1,U
    1
    9,U
- 191
+ 190
    1,S
    1,D,J
  141
+
 #lvl_g-03
-#Heart
   73
    2,R,J
    5,L,D,X
@@ -2028,7 +1938,6 @@ F01
   13,U
    4,R,U
    5,U,X
-   
   18,L
    8,R,D
    4,D,X
@@ -2197,9 +2106,3 @@ F01
    1,L
    1,R
    1,L
-  59
-   1,J
-
-#233.529(13737)
-
- 200

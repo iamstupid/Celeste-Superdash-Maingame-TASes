@@ -497,7 +497,6 @@ Set,SuperDashing,true
    1,L
    1,R
    1,L
-
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -1270,7 +1269,6 @@ Set,SuperDashing,true
    3,L,D
    2,L
   13,L,U,X
-   
    1,S
    1,D,J
   34
@@ -1278,8 +1276,6 @@ Set,SuperDashing,true
   40
 
 #lvl_09-d
-
-#in
    2,R,J
    9,R
    5,L,D,X
@@ -1314,7 +1310,6 @@ Set,SuperDashing,true
    1,J
    4,L,J
    5,L
-
    1,L,J
    2,L
    4,L,Z
@@ -1665,5 +1660,3 @@ Set,SuperDashing,true
    1,S
    1,D,J
   18
-
-#2.30.144

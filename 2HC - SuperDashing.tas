@@ -1,0 +1,231 @@
+console load 2
+Set,SuperDashing,true
+   1
+
+#Start
+ 190
+
+#lvl_start (1)
+   4,D,X
+   1,L
+   1,J,F,160
+   8,R
+   1,R,J
+   5,R,U,X
+   4,U
+  40
+
+#lvl_0
+  11,U
+   2,L,U
+   1
+   4,D,X
+   1,L,U
+   5
+   1,U
+   5
+  40
+
+#lvl_start (2)
+   5
+  18,U,X
+  40
+
+#lvl_s0
+  11,R
+  12,R,J,G
+   1,K,G
+   3,R,K
+   5,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+   6,R,K,G
+   1,J
+   2,K,G
+  23,L,K
+   5,L,U,X
+   2,L
+   8
+   1,L
+   8
+   5,L
+  40
+
+#lvl_s1
+  24,L
+   4,D,X
+   1,L
+   4,L,U
+   5
+   1,L,D
+   8
+   2,L,U
+  11,L
+  12,R,J,G
+  12,R,K,G
+  12,R,J,G
+   8,R,K,G
+   7,R
+   5,R,U,X
+   1,U
+  15
+  40
+
+#lvl_s2
+   3,R
+   1,J
+   6,R
+   1,R,K
+   5,R,U,X
+  12,R,D
+   1,R,J
+   5,R,D,X
+   5,U
+   6
+ 135,R
+
+#Restart
+   1,Q
+   1,J
+  31
+
+Set,SuperDashing,true
+Read,2A,Start,lvl_d2
+
+#lvl_d2
+  10,D
+   9
+   3,L,D
+   5,L,D,X
+   2,L,U
+   3
+   1,L,D
+   3
+   3,L,U
+   1,L,J,G
+   1,L
+   3,L,J,G
+   7,L
+   1,L,J
+   5,L,D,X
+   1
+   6,L,D
+   1
+   4,L,U
+   6,L,D,X
+  13
+   5,L,U,X
+   2,L,D
+   1,L,U
+   1,L,D
+  40
+
+#lvl_d0 (2)
+  27,D
+  34,D,X
+   3,L,D
+   6,D
+  40
+
+#lvl_d9
+   5,D,X
+   7,R
+   4
+   1,R,J
+   6,R,D,X
+   9
+   5,R,D,X
+   4,R,U
+   6
+  26,R,X
+   4,R,J
+   1,R,K
+   5,R,D,X
+   7,D
+   9
+  15,D,X
+  13,R,D,C
+   2,L,J
+   5,L,D,X
+   7,L,D
+   5,L,U
+   3
+   1,L,U
+   3
+   1,L,J
+   6,L,D,X
+   1,L,J
+   1,L
+   1,L,K
+   4,L
+   1,L,J
+   3,L
+   1,L,K
+   4,D,X
+   1,L,U
+   1,U
+   8
+   4,L,J
+   5,L,U,X
+   4,U
+ 258
+   1,J
+#Return
+ 123
+   4,D,X
+   1,L,U
+   7,L
+   2,U
+   9,L,J
+  40
+
+#lvl_d0 (3)
+  11,R,J
+   5,U,X
+   1,R
+  26
+   4,R,J
+   4,D,X
+   1,R
+   1,R,D
+   4
+   5,R,J
+   6,R,K,G
+   4,D,X
+   1,U
+   2,R
+   5
+   1,L,U
+  23
+   6,L
+  21,L,U,X
+   3,L
+  16
+   4,L,J
+   1,L,K
+   3,L
+   1,L,K
+   1,L
+   4,D,X
+   1,U
+   7,L
+   1
+   7,U
+   2,R,U
+   2
+   2,R,J,G
+   7,R
+   5,U,X
+   5,R
+   3
+   1,L,U
+  30
+   5,U,X
+   5,R
+   5
+   3,L,U
+  40
+
+Read,2A,lvl_1 (2)

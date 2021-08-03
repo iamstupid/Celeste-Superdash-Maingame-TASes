@@ -1,0 +1,63 @@
+console load 1 1312 -1040
+Set,SuperDashing,true
+   1
+
+#Start
+#lvl_6
+  36
+   5,R,U,X
+   3,R
+  13,U
+   4,L,U
+   6,L,J,G
+   4,L
+   4
+   4,R
+   4,D,X
+   1,R
+   1,R,D
+   1,L,J
+   2,L
+   5,L
+   1,L,J
+   5,L,D,X
+   1,D
+   1
+  40
+
+#lvl_6z
+  11
+   5,L,D,X
+   2,D
+   1
+   7,L
+   1,L,U
+   3
+   4,D,X
+   1,L,U
+  13,U
+   3,L
+  40
+
+#lvl_7zb
+  11,L,J,G
+   5,L,X
+   1,U
+   4
+   2,L,D
+   2
+   4,L,J
+   5,L,U,X
+  15
+   3
+   5,L,U,X
+   3,U
+   8,L
+   1
+   5,L,J,G
+   9,L
+  22,R
+   1,S
+   1,U,J
+   1,O
+  31

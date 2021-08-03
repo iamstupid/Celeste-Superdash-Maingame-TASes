@@ -44,33 +44,31 @@ Set,SuperDashing,true
    1,R,U
    1,R,J,G
    7,R
-   6,R,D,X
-   1,R,J
-   2,R
-   1,R,J
-   5,R
-   1,R,J
-   5,R,D,X
-  19,U
-   1,R,J,G
-   7,R
-   1,R,J
-   6,R,D,X
-   1,R,J
-   6,R
-  40
-
-#lvl_a-01x
-   2,R
-   1,R,J
-  15,R,D,X
-   5,R,C
-   7,R
+   4,D,X
+   1,R
+   1,R,D,J
+   8,R
+   3,R,J
+   5,R,U,Z
    8,U
    2,R
+   1
+   7,R
+   1,R,J,G
+  47,R
+   5,R
+   5,R,D,X
+   6,R
+   1,R,D
+   4,R
+  10,R,X
+   8,R,U
+   1,R
+   1,R
    1,R,J,G
    1
-  24,R,D,C
+   5,R,D,X
+  19,R,D
    1,R,J
    1,R,K
    1,R,J
@@ -84,7 +82,8 @@ Set,SuperDashing,true
    1,S
    1,D,J
   34
-   8,R
+   1
+   7,R
    9,R,D,X
    1,R
    2,R,D
@@ -98,7 +97,8 @@ Set,SuperDashing,true
    1,R,U
    2
    2,R,U
-   9,R,D
+   8,R,D
+   1
    6,R,D,X
    5
   40
@@ -145,16 +145,23 @@ Set,SuperDashing,true
    5,R
   13
    7,R,D
-   6,R,Z
-   1,R,J
-   7,R
+   4,D,X
+   1,R
+   1,R,D,J
+   8,R
    1,R,J
   40
 
 #lvl_a-07
-   5,R,D,X
-   9,R,U
-   3
+   5,R,U,Z
+   1,R,U
+   1
+   2,R
+   1,R,U
+   1,R
+   1,R,U
+   2,R
+   2,R,U
    5,U,X
    7,L
    3
@@ -416,7 +423,6 @@ Set,SuperDashing,true
    4,U
    3,R
    2,J
-
   12,R,K,G
    4,L
    2,R
@@ -429,8 +435,6 @@ Set,SuperDashing,true
   40
 
 #lvl_c-05
-**
-
   10,R,D
    5,R,U,X
    5,R,D
@@ -550,38 +554,26 @@ Set,SuperDashing,true
   40
 
 #lvl_c-07
-   1,R,K,G
-   6,R
+   1,R
+   3,R,J,G
+   1,R
+   4
+   2,R
+   5,D,X
+   9,R
    1,R,J
-   4,R
-   5,R,J,Z
-   6,R
-  22,R,J
-   1,K
-  11,R,K
-   1,J
-   1,K
-   1,J
-   9,R,J
-   1,R,K,G
-  11,R,J,G
-   3,R
-   2,K,G
-   1,L,K
-   1,R,K
-   1,J
-   1,K
-   6,J,G
-   5
-   3,L
-   4,D,X
-   3,R,J
-   2,J
-   3,R,J
+   5,R,D,X
    5,R
-   1,R,J
-  13,R,J,G
-   3,R,K,G
+   9,R,U
+   4,R,D
+   5,R,U,X
+   9,U
+   9,R
+   5,R,J,G
+   7,R
+   3,R,J
+  11,R,K,G
+   5,R,J,G
    5,R
    2
   10,R,Z
@@ -799,4 +791,4 @@ Set,SuperDashing,true
    1,D,J
   18
 
-#1.15.463
+#1.14.630

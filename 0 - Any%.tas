@@ -20,7 +20,7 @@ Read,4A,Start
 
 Read,LoadANoCollects
 
-Read,5AC,Start,Return
+Read,5HC,Start,Return
 
 Read,LoadBFromA
 
