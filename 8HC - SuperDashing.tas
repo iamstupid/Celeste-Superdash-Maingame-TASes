@@ -1,0 +1,79 @@
+console load 9
+Set,SuperDashing,true
+Set,CheatMode,true
+   1
+
+#Start
+Read,8A,Start,8HC1
+   6,F,88.5
+AnalogMode,Ignore
+   1,R
+   4,D,X
+   1,L
+   3,L,D
+   2,L,U
+   1,R,J
+   4,R
+   1,R,J
+   5,R,D,X
+   3
+  40
+
+#lvl_d-11
+   4
+   1,R,D
+   2
+   5,R,D,X
+   3,R,U
+   2
+   1,R,D
+  10
+   3,R,D
+  22,R
+  15,R,J
+   5,L
+   4,L,K
+   1,L
+   1,L,K
+   7,L
+  12,L,J
+ 257
+   1,J
+ 123
+   5,D,X
+   8,R
+   1,R,J
+   6,R
+  40
+
+#lvl_space
+   1,R
+   1,R,J
+   6,R,D,X
+   9
+   6,R,D,X
+   9
+   6,R,D,X
+   9
+   5,R,D,X
+   2,R,U
+   4
+   1,R,D
+   6
+   2,R,D
+   5,R,D,X
+   1,R,D
+   2
+   1,R,U
+   6
+   5,R,U,X
+   1,U
+   7
+   1,R,D
+   1
+   2,R,D
+   1
+   5,R,D,X
+   6,R,D
+  12,R,U
+ 135,D,X
