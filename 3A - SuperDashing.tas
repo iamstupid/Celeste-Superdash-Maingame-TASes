@@ -1,6 +1,6 @@
 console load 3
-   1
 Set,SuperDashing,true
+   1
 
 #Start
   61
@@ -628,6 +628,7 @@ Set,SuperDashing,true
    1,S
    1,D,J
   34
+#3HC1
    4,D,C
    1,R
    5,R,D
