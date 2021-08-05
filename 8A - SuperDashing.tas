@@ -876,6 +876,7 @@ Set,CheatMode,true
    1,R,U
 AnalogMode,Precise
   88,F,84.06
+#8HC1
    6,F,90
 AnalogMode,Ignore
    4,D,X
