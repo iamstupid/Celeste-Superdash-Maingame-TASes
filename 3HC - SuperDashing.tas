@@ -718,6 +718,8 @@ Read,3A,lvl_09-d,lvl_04-d
   26,L,D
    2,L
    1,L,G
+   6,L,J,G
+   2,L
    6,L,U,Z
    5,U
   12
@@ -807,7 +809,6 @@ Read,3A,lvl_09-d,lvl_04-d
    5,L,U,X
    1,L,U
   40
-***
 
 #lvl_01-c
    1,L,U
