@@ -91,44 +91,58 @@ Set,SuperDashing,true
 
 #lvl_05
    3,U
-   6
-  10,R,D
-   3,R
-   4,D,X
-   1,R,U
-  13,U
-   2,J
-  30,D
-  15,L,D
-  13,R,D
-  36,D
-   2,R,D
-   1,R
-   1,R,D
-   2,R
-   5,U,Z
-   8,R
-   2
-   6,L,U
-   2
-   4
-   4,R,J
-  17,R
-   1,R,J,G
-   1,R,K,G
-   1,J,G
-   8,R,J
-   2,R
-  13,L,D
-  21,R
-   1
-   2,R
-   1
-   1,R
    3
-   6,L
+   7,R,D
+   1
+   3,R,D
+   2,R
+  12,R,D
+   8,L,D
+   5,L,X
+   3
+   1,D
+   1
+   1,U
+   3
+   1,D
+  16,L
+   1,J,G
+   2,L,J
+   6,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+  10,R,J
+  11,D
+  12,R,D
+   1
+  11,D
+   1,R,G
+   6,R,J,G
+   5,R,U,Z
+   2,R
+   7
+   1,R
+   6
+   1,J,G
+   4,R,J
+   5,J
+  12,L
+   5,R
+   2,R,D
+   1,D
+   1,L,D
+   1,D
+  14,R
+   6,R,D
+   5,L,D
+   1,L,J
+   1,L
    5,D,X
    5
+   1,R
+   1
    4,R
    1,R,J
    5,R,D,X
@@ -597,17 +611,20 @@ Set,SuperDashing,true
    3
    5,R,D,X
    7,R,U
-  11
-  12,R,D
-   4,R,J
-   5,R
-   2,R,J
-   9,R
-   5,R,Z
-  11
-   2,R,D
    5
-   9,R,D
-   5,R,U,X
-  10,U
+   1,R,D
+   6
+  10,R,D
+   5,L,Z
+   1,L,D
+   1
+   1,R,J
+   7,R
+   2,R,J
+   1,J
+   6,R,J
+   4,R
+   7,R,Z
+   6,U
+  11,R,D
  135
