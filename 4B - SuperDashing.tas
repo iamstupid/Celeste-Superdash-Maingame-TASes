@@ -1,3 +1,7 @@
+RecordCount: 1
+ChapterTime: 1:33.806(5518)
+FileTime: 1:34.843(5579)
+
 console hard 4
 Set,SuperDashing,true
    1
@@ -227,9 +231,14 @@ Set,SuperDashing,true
   10,R,U
    1,L,J,G
    8,R,J
+   2,R,J
+   3,R
+   5,D,X
    8,D
-  32,L,D
-   2,R,D
+   3,R,D
+   2
+   5,L,D
+   9,D
   13,R,J
    5,R,U,Z
   13,U
@@ -961,5 +970,3 @@ Set,SuperDashing,true
    2,K
   14,J,G
   52,R,J
-
-#1.33.942
