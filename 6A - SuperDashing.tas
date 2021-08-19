@@ -1721,6 +1721,7 @@ AnalogMode,Precise
   22,F,103.78
   10,F,93.43
    8,F,58.75
+AnalogMode,Ignore
    5,L,U,X
    7,U
   17,R
@@ -1872,5 +1873,3 @@ AnalogMode,Precise
    1,S
    1,D,J
   18
-AnalogMode,Ignore
-#226.355(13315)

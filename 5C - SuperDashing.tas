@@ -1,11 +1,12 @@
 console rmx2 5
+Set,SuperDashing,true
    1
 
 #Start
+#Spinner cycle
+   1
 #lvl_00
   67
-#+1f spinner cycle
-   1
    4,D,X
    2,L
    1,L,D

@@ -18,7 +18,6 @@
 
 RecordCount: 1
 ChapterTime: 5:07.598(18094)
-FileTime: 5:07.955(18115)
 
 console load 7
 Set,SuperDashing,true
@@ -174,7 +173,7 @@ Set,SuperDashing,true
    6,R
   40
 
-#lvl_a-06 
+#lvl_a-06
    5,R,D,X
    7,R,D
    1,R,J

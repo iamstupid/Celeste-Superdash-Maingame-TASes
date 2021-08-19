@@ -9,7 +9,9 @@ unsafe
 
 #Start
 Read,6A,Start,6HC1
+
 AnalogMode,Ignore
+#lvl_04 (1)
   10,L,Z
    1,L,J
    4,L
@@ -229,6 +231,7 @@ AnalogMode,Ignore
 
 #lvl_04 (3)
   36
+Set,SuperDashing,true
 #Section Hollows
    5,R,U,X
   14,R,D
@@ -250,4 +253,5 @@ AnalogMode,Ignore
    5,L
    2
 AnalogMode,Precise
+
 Read,6A,6HC1

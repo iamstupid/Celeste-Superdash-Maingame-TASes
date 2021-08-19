@@ -9,15 +9,16 @@ unsafe
 
 #Start
 Read,1A,Start,1HC1
+
+#lvl_6a
    4,D,X
    1,R
    1,R,D
    4
    5,R,J
    5,R,U,X
-  13,U
-   2
-   5,R
+  14,U
+   6,R
    4,D,X
    9,R
    9,R,D,J

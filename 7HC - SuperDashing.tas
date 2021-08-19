@@ -1,14 +1,15 @@
-RecordCount: 1138
+RecordCount: 1141
 ChapterTime: 6:04.939(21467)
 FileTime: 6:05.908(21524)
 
-Set,Everest.ShowModOptionsInGame,false
 console load 7
 Set,SuperDashing,true
    1
 
 #Start
 Read,7A,Start,7HC1
+
+#lvl_a-06
   37,L
    5,U,X
    2,L
@@ -40,6 +41,8 @@ Read,7A,Start,7HC1
  141
 
 Read,7A,lvl_b-00,7HC2
+
+#lvl_b-02 (1)
    5,R,U,X
   13,U
    1
@@ -376,6 +379,7 @@ Read,7A,lvl_b-05,lvl_c-04
    4
    5,R,D
   13
+
 Read,7A,7HC3,lvl_d-02
 
 #lvl_d-02
@@ -636,10 +640,12 @@ Read,7A,7HC3,lvl_d-02
    1,R,J,G
    8,J
    3,L
+
 Read,7A,7HC4,Spinner cycle
 
 #Spinner cycle
    1
+
 Read,7A,Section 2000m,lvl_e-00
 
 #lvl_e-00 (1)
@@ -744,7 +750,10 @@ Read,7A,Section 2000m,lvl_e-00
 
 #lvl_e-02
    2
+
 Read,7A,7HC5,7HC6
+
+#lvl_f-00
   10
    5,R,U,X
    2,R,D
@@ -923,8 +932,6 @@ Read,7A,lvl_f-07,lvl_g-00b
   17,L,U,X
    4,D,C
    8,L
-
-#CP-26
    1,R,J
    8,R
   53,D,X
@@ -991,4 +998,5 @@ Read,SaveandQuit
    5
    1,R
    8,L
+
 Read,7A,7HC7

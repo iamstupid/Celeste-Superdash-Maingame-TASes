@@ -1,0 +1,150 @@
+Read,StartFullGameFile
+
+Read,0 - Prologue.tas,Start
+
+Read,Load1A
+
+Read,1HC0,Start
+
+#Reenter City
+ 165
+   1,J
+  83
+   1,S
+ 194
+   1,L
+   9
+   1,J
+  43
+   1,J
+  30
+   1,R
+   1,F,90
+   1,J
+  46
+
+Read,1HC1,Start
+
+#Enter Site
+  51
+   1,S
+  52
+   1,X
+  42
+   1,R
+   9
+   1,J
+  43
+   1,J
+ 230
+   1,J
+ 136
+
+Read,2HC,Start
+
+Read,LoadA
+
+Read,3HC,Start
+
+Read,LoadA
+
+Read,4HC,Start
+
+Read,LoadA
+
+Read,5HC,Start
+
+Read,LoadA
+
+Read,6HC,Start
+
+#Enter Summit
+ 165
+   1,J
+ 230
+   1,J
+  43
+   1,J
+  45
+   1,J
+  32
+
+Read,7HC,Start
+
+Read,LoadCoreFromSummit
+
+Read,8HC,Start
+
+Read,Load1B
+
+Read,1B,Start
+
+Read,LoadB
+
+Read,2B,Start
+
+Read,LoadB
+
+Read,3B,Start
+
+Read,LoadB
+
+Read,4B,Start
+
+Read,LoadB
+
+Read,5B,Start
+
+Read,LoadB
+
+Read,6B,Start
+
+Read,LoadB
+
+Read,7B,Start
+
+Read,LoadB,Start,Core
+   1,R
+   9
+Read,LoadB,Core
+
+Read,8B,Start
+
+Read,Load1C
+
+Read,1C,Start
+
+Read,LoadC
+
+Read,2C,Start
+
+Read,LoadC
+
+Read,3C,Start
+
+Read,LoadC
+
+Read,4C,Start
+
+Read,LoadC
+
+Read,5C,Start
+
+Read,LoadC
+
+Read,6C,Start
+
+Read,LoadC
+
+Read,7C,Start
+
+Read,LoadC,Start,Core
+   1,R
+   9
+Read,LoadC,Core
+
+Read,8C,Start
+
+Read,Load9From8C
+
+Read,9,Start,EndScreen

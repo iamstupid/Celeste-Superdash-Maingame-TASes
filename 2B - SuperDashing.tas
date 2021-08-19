@@ -1,9 +1,10 @@
 console hard 2
 Set,SuperDashing,true
-  37
+   1
 
+#Start
 #lvl_start
- 154
+ 190
    4,D,X
    1,R,X
    1,R,D,J

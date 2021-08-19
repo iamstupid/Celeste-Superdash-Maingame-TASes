@@ -4,6 +4,8 @@ Set,SuperDashing,true
 
 #Start
 Read,4A,Start,4HC1
+
+#lvl_a-07
    5,L,D,X
    1,D
   12
@@ -112,6 +114,8 @@ Read,4A,Start,4HC1
   14
 
 Read,4A,4HC2,4HC3
+
+#lvl_b-00
    5,R,D,X
    5
    1,R,J
@@ -220,4 +224,5 @@ Read,4A,4HC2,4HC3
 #lvl_b-08b
    9
    2,R
+
 Read,4A,4HC4

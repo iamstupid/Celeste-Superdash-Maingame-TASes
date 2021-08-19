@@ -2,6 +2,7 @@ console load 1 3608 -2040
 Set,SuperDashing,true
    1
 
+#Start
 #lvl_9b
   36
    4,D,X
@@ -84,8 +85,6 @@ Set,SuperDashing,true
  257
    1,J
   62
-
-#Exit
    1,S
    1,U,J
    1,O
