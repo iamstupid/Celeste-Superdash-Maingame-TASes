@@ -1135,18 +1135,18 @@ AnalogMode,Precise
 
 #lvl_boss-07
   12,D
-  12,R,D
-   5,D,X
-   7,R
-   2
+   4,R,D
+   3,R
+   2,R,D
+   5,R,Z
+   6,U
+   3
+   7,R,D
    1,R,J
    5,R,D,X
-   4,R,U
-   5
-   5,R,U
-   1
-   2,R,D
-   4,R,D,K,G
+   3
+   4,D
+   4
   37,R
    5,L,D,X
   10,D
@@ -1227,11 +1227,12 @@ AnalogMode,Precise
   40
 
 #lvl_boss-09
+   1,R,D
    1,L,D
-   3,R,D
+   2,R,D
    1,L,D
   16,R,D
-   1,R,D
+   1,D
    5,R,D,X
    6
    1,D
@@ -1239,10 +1240,10 @@ AnalogMode,Precise
   16,R,J
    5,R,U,X
    1,U
-   5
+   4
    1,U
-  12
-  36,R
+  11
+  37,R
    1,R,J
    5,R,D,X
    3,R,U
@@ -1509,27 +1510,22 @@ AnalogMode,Precise
    2
    1,R,J
    5,R,D,X
-   3,R,U
-   1,R,D
-  12
+   4,R,U
+   2,R,D
+  10
    3,R,D
-   4,R
+   3,R
   37,R
    5,R,D,X
-   2,D
-   1,R
-  17
-   1,R
-   4,R,J
+   4,R
+  15
+   6,R,D
    4,D,X
-   1,R
-   1,R,U
-   1,R,D
-   1,R,D,J
-   8,R
-   1,R,J
+   1,J,F,160
+   6,R
+   4,R,J
    5,R,U,Z
-   7,R,D
+   6,R,D
   37,R
    5,R,D,X
    7,D
@@ -1725,7 +1721,6 @@ AnalogMode,Precise
   22,F,103.78
   10,F,93.43
    8,F,58.75
-AnalogMode,Ignore
    5,L,U,X
    7,U
   17,R
@@ -1877,5 +1872,5 @@ AnalogMode,Ignore
    1,S
    1,D,J
   18
-
-#3:46.542
+AnalogMode,Ignore
+#226.355(13315)
