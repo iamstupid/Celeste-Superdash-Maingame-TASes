@@ -4,7 +4,20 @@ Set,SuperDashing,true
 
 #Start
   88
-read,1A,lvl_1,lvl_2
+  10,R,D,X
+   5,R,J
+  21,R,U,X
+   1,R,J,G
+   8,R
+   1
+   2,R,J
+   5,R,U,Z
+   1,R
+   1
+   6,U
+   1
+   8,U
+  40
 
 #lvl_2
   13,R,J
