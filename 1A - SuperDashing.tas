@@ -1,10 +1,10 @@
+ChapterTime: 0:41.582(2446)
 console load 1
 Set,SuperDashing,true
    1
 
 #Start
   88
-
 #lvl_1
   10,R,D,X
    5,R,J
@@ -412,7 +412,7 @@ Set,SuperDashing,true
    5,R
    3,R,J
    1,R
-   7,R,J   
+   7,R,J
   14,R,Z
    6,R,J
    5,R,U,X

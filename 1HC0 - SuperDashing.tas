@@ -150,9 +150,9 @@ Read,1A,Start,1HC1
   15,D,X
  136
    1,S
-   1,D
-   1,F,180
-   1,D,J
+   1,U
+   1,F,
+   1,U,J
   31
 
 Read,SaveandQuit
