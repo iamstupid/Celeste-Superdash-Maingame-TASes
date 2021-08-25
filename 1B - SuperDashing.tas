@@ -1,4 +1,4 @@
-ChapterTime: 0:57.800(3400)
+ChapterTime: 0:57.783(3399)
 
 console hard 1
 Set,SuperDashing,true
@@ -524,11 +524,13 @@ Set,SuperDashing,true
 #lvl_11
   14,R,U
    4,U
-   7,L,J,G
+   1,L,J,G
+   5,R,J
    5,L,U,X
-   5,L
    1
-   8,L,D
+   9,L,D
+   1
+   3,L,D
    1,R,J
    5,R,U,X
   14,U
@@ -538,10 +540,10 @@ Set,SuperDashing,true
    9,L,J
    5,U,X
    2,L
-  12,U
+  13,U
    1,R,U
-   8,U
-   7,L,G
+   6,U
+   8,L,G
    4,L,J,G
    6
    1,L
