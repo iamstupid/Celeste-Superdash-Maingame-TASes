@@ -2,7 +2,7 @@
 #play,Section Stubbornness,38
 
 console load 10
-ChapterTime: 6:39.908(23524)
+ChapterTime: 6:39.313(23489)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -2596,8 +2596,7 @@ AnalogMode,Precise
 # if get desync on lighting
 # death, one should modify this
 
-#0-2 die in j-14b
-   3
+   0
 #Section Reconciliation
 
    3,R,J
@@ -2929,92 +2928,115 @@ AnalogMode,Precise
   12,R,K,G
    4,R
    3
-   5,R,D,X
-   9
+   6,R,Z
    1,R,J
-   5,R,D,X
-   3,R
+   4,R
+   3
+   1,R,J
+   2,J
   40
 
 #lvl_j-06
-   3
-   1,R,D
-   1
-   2
+   3,J
+   5,D,X
+   2,L,D
+  14
+   1,R,J
    5,R,D,X
+   4
    4,R,D
-   1
-   9,R,U
-   2,R,U
-   3,R,D
-  37,R
-   5,U,X
-  19,R
-  11,R
    5
-  36,R
-   2,R
-   5,R,U,Z
-   4,R
-  11,R,U
-   1,U
+   3,R,U
    2
-  11,R,J,G
-   7,R
-   7,L,Z
-   1,R,J
    6,R
+   5,R,U,Z
+   4
+   1,U
+   5
+   5,R
+   1
+   2,R
+  11,R
+  15,R
+   8,R,D
+   2,D
+   5,R,Z
+   2
+   1,R,U
+   1
+  10,R,U
+  38,R
+   5,R,U,X
+   3
+   1,J,G
+   6,R
+   1,L
+   5,L,Z
+   1,L,D
+   3
+   1,R,J
+   7,R
    1,R,J
    5,R,D,X
-   4,R,D
-   2
-   3,R,U
-   9,D
-  36,R
+   1,R,U
+   5,R,D
+   1
+   1,R,U
+   7,R,D
+  35,R
+   2,R
    5,R,U,X
   12
    7,R,D
-   9,R,J
-  12,J
-  23,R,Z
-  11
-  30,R
-   8,R
-   5,R,U,X
-   5,R,D
-   8
-   1,R,D
-   1,R
-   2,R,D
-   2,R
-   2,R
-   6
-   9,R,X
-   2,D
-  12
+   9,R
    1,R,J
-   3,R
    5,R,D,X
-  13,R
-   5,R,U,X
+   3,R,D
+   3,R,U
+   4,R
+   4,R,U
+   5,R,D
+  20,R
+  12,R,K,G
+   1
+   7,R,J,G
+   7,R
+   9,R,X
+   1,R,D
+   3
+   6
+   2,R,J
+   5,D,X
+   2
+   2,L
+  12
+   6,R
+   5,R,X
+   1,R,D
+   6
+   1,R,U
+   7,R
+   5,R,U,C
    7,R
    2,R,D
-   1
-   2,R
-   4,L,D,X
-   1,R,U,X
    1,R
-   3
-  34
-   6,R,U,X
-   8
+   4,D,X
    1,R,U
+   1,R
+#bird
+  34,R
+   6,R,U,X
+   7
+   1,R,U
+   1
    1,R,D
-  11,R,D
+   8,R,D
+   3,R
    1,R,J
    5,R,D,X
    3,R,U
   40
+
 
 #lvl_j-07
    1
@@ -3044,6 +3066,7 @@ AnalogMode,Precise
    4,R,U
    2,R,D
   40
+#lvl_j-08
    5,R,D,X
    2,R,U
    1,R,D
@@ -3058,7 +3081,6 @@ AnalogMode,Precise
    3,R
 #bird
   35,R
-
   23,R
    5,R,D,X
    3
