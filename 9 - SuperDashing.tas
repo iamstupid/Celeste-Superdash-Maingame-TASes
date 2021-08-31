@@ -2,7 +2,7 @@
 #play,Section Stubbornness,38
 
 console load 10
-ChapterTime: 6:14.561(22033)
+ChapterTime: 6:14.306(22018)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -1197,12 +1197,14 @@ Set,SuperDashing,true
   17
   50,L,G
   16,L,D,G
-   4,R,K
-   7,J
-  21,U,X
+   1,L,J,G
    2,L
-  14
-  13,L,D,X
+   5,R,U,Z
+  14,U
+  10,L,U
+   4,L,J
+   5,L,Z
+   6,L,D
    6,R,J
    1,R,K,G
    2,R
@@ -1426,35 +1428,37 @@ Set,SuperDashing,true
    6,R
    1,R,D
    9
-   1,L,G
-   4,L,J,G
-   1,K
-   6,K
+  10,R
    5,R,Z
-   1,U
-   5
-   1,R,D
-  10
-  12,R
-   5,R,U,X
-  11,R,D
-  15
-   1,R,J
-   4,R,K
+   4
+   3,R,U
+   2,R,D
+  14,R,D
+   5,R,U,Z
+  13,R,D
+   1
+   1,R,U
+   9
+   4,R,J
+   1,R,K
    3,R
    5,R,D,X
    6,D
-  28,R
+  12,R
+   1,R,U
+  15,R
    4,R,J
    1,R,K
    5,R,U,X
    2,U
-  22,R,D
+  13,R,D
+   9,R
    4,R,J
-   1,R,K
-   5,R
+   7,R
    5,R,U,Z
-  34,U
+  31,U
+   1,K
+   1,J
   40
 
 #lvl_g-04
@@ -2232,16 +2236,16 @@ Set,SuperDashing,true
    1
    1,J
    8,L
-  14,L,Z
-#Spinner Cycle
-   1
-#in i-00b
+#Spinner Cycle in i-00b
+  10
+#and Lighting Cycle in i-02
+  17,L,Z
    1,R,J
    5,R,D,X
    8,R
-   8,R,D
-   5,R,D,X
    5,R,D
+   5,R,D,X
+   2,R,D
    3,R
    1
    4,R
