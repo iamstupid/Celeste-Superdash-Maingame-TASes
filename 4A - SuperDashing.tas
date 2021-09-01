@@ -166,6 +166,7 @@ Set,SuperDashing,true
    1,R
    1,U
    9
+#4HC1
    5,L,U,X
    8,U
    1,L
@@ -186,7 +187,6 @@ Set,SuperDashing,true
    1,L,K
   19,L
    5,L,D,X
-#4HC1
    8,D
    3
    1,R,J
@@ -221,7 +221,6 @@ Set,SuperDashing,true
    5,R,U,X
   10,U
    5
-#4HC2
    5,U,X
    1,R
    5
@@ -282,7 +281,7 @@ Set,SuperDashing,true
    3,R,J
    3,R
    8
-#4HC3
+#4HC2
    5,R,D,X
    5
    1,R,J
@@ -311,7 +310,7 @@ Set,SuperDashing,true
 #lvl_b-08b
    4,R
    7
-#4HC4
+#4HC3
    5,D,X
    1,R
    8
