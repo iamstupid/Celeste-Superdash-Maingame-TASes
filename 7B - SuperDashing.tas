@@ -1,3 +1,5 @@
+ChapterTime: 3:53.155(13715)
+
 #console hard 7 2080 -1624
 #Set,SuperDashing,true
 #play,Section 500m,37
@@ -56,30 +58,35 @@ Set,SuperDashing,true
    1
    6,D
    9,R
-  14,U,X
-   5,R
+   5,U,X
+   8
+   1,R
+   1
+   4,R
    1
    3,R
    4,D,C
    1,R
-  17
+  14
+   1,R,U
+   1,R,D
+   1
    1,R,D
    6,R
-   4,R
-   7,R,J
-   2,R
-  15,L
-   4,D,X
-   1,L,X
-   1,L,D
-   3,R,J
-   5,R,D
+   2,L,J
+   6,L
+   3,R
+   5,L,Z
+   3,L,D
+   2,L,U
    1,R,J
-   5,R,D,X
+   4,R
+   1,R,J
+   6,R,D,X
   40
 
 #lvl_a-01
-  10,R,D
+   9
    5,R,U,X
    5,U
    8,R
@@ -90,37 +97,41 @@ Set,SuperDashing,true
    1,R
   12
    5,R,D
-   1
+   1,R
    5,R,D,X
   40
 
 #lvl_a-02
-   9,U
+   8,U
+   1
+   9,R,D
+   1,R
   10,R,D
-  12,R
+   5,R,U,Z
+   1,R,D
+   1
+   2,R,D
+   2
+   3,R,U
    3,R,D
-   4,D,X
-   1,R,U
-   4
-   2,R
    5
    1,R,D
-   2
-   1,R,D
    1,R
+   4,R,D
    5,R,D,X
-   6
-   3,D
+   2
+   4,R,D
    1
+   5,R
+   3,R,D
    2,R
-   3,R
-   7,R,D
    5,R,D,X
   40
 
 #lvl_a-03
-   2
-  14,U
+   3,U
+   1
+  10,U
   37,L
    4,D,X
    1,L
@@ -1984,8 +1995,6 @@ Set,SuperDashing,true
    9,U
    1
   13
-   1,R
-   1,L
    1,R
    1,L
    1,R
