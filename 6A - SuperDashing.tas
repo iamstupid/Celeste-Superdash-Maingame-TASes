@@ -1,3 +1,5 @@
+ChapterTime: 3:46.253(13309)
+
 #console load 6 11412 99.729197502136
 #Set,SuperDashing,true
 #AnalogMode,Precise
@@ -327,25 +329,19 @@ AnalogMode,Precise
 #lvl_09
    5,R,J
    5,R,D,X
-   1,R,U
-   6
-   1,R,U
-   1,R,D
+   9,R,U
   40
 
 #lvl_10b
-   1
+   6,R,U,X
+   5,R
+   5,R,D
    5,R,D,X
-   1,D
-   1
-   6,R,U
+   4,R,U
+  14,R,D
+   6,L,D
    2,R,D
-   1
-   1,R,D
-  23,R,D
-   5,D,X
-   6,R
-  12
+  14,R,D,X
    1,R,J
    5,R,D,X
   40
