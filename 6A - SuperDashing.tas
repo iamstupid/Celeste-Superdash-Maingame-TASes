@@ -1,4 +1,4 @@
-ChapterTime: 3:46.253(13309)
+ChapterTime: 3:46.151(13303)
 
 #console load 6 11412 99.729197502136
 #Set,SuperDashing,true
@@ -844,7 +844,7 @@ AnalogMode,Precise
    3,L,J
   43
 
-#lvl_b-03
+#lvl_boss-00
    9
    4,D,X
    1,R,U
@@ -863,10 +863,11 @@ AnalogMode,Precise
    8,R,U
   10
   44,R
+   5,D,X
+  19,R,D
+   2,R,J
    5,R,D,X
-   3,D
-  20
-  13,R,D
+  12,D
   40
 
 #lvl_boss-01
@@ -1118,8 +1119,7 @@ AnalogMode,Precise
    5,R,X
    1,R,U
   15
-   4,R,D
-  16,R,D
+  20,R,D
    1,R
   24,U,X
   44,R
@@ -1159,15 +1159,19 @@ AnalogMode,Precise
    4,R,U
   14
   44,R
+  12,D,X
+   1,R,D
+  11,D
+   4,R,J
    5,R,D,X
-   1,D
-  22
-  19,R,D
+   2,R
+  14,D
   40
 
 #lvl_boss-08
    8,R,D
-   5,R,X
+   4,D,X
+   1,R
    2,D
    8
    9,D
@@ -1248,16 +1252,20 @@ AnalogMode,Precise
    8
    6,R,D
   27,R,D
-  49,F,101.13
-  10,F,40
-  20,F,352.0846
+  45,F,83
    4,D,X
-   6,L
-   6,L,J
-   1,L,K,G
-   1,L
-   5,L,D,X
-   4
+   1,R
+   2,R,U
+   1,R
+  17,R,U
+   3,R,D
+   5,D
+   4,D,X
+   1,L,J
+   8,L
+   2,L,J
+   5,L,U,X
+   8,L
   36,R
    1,R,J
    7,R
@@ -1368,12 +1376,11 @@ AnalogMode,Precise
   16
   37,L
    5,L,D,X
-   7,L,U
-   6
-   1,L,U
-   6
-  14,L,D
-  15,R,D
+   9,D
+  10,L
+  21,L,D
+  10,L,X
+   4,L,D
   30,R
    7,R
    5,R,D,X
