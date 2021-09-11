@@ -2,7 +2,7 @@
 #play,Section Stubbornness,38
 
 console load 10
-ChapterTime: 6:12.708(21924)
+ChapterTime: 6:10.549(21797)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -692,7 +692,7 @@ Set,SuperDashing,true
    5
   40
 
-#lvl_e-01
+#lvl_e-01  -17F
    4,R,J
    1,L,J
   10,J
@@ -711,34 +711,27 @@ Set,SuperDashing,true
    2,R
    5,L,U,X
    2,L
-  13,R
-   4,D,X
-   1,R,U,X
-   8,R,D
-   6
-   3,R,D
-   7,R
+  28,R
+   5,U,X
+   1,R,U
+   1,L,U
+  18,L
    5,L,U,X
    1
-  12,L,D
-   5
-   5,L,U,X
-   2
-  16,U
-   2,R,U
+   7,U
    1
-   2,L
-  23,U,X
-   2,L
-   7,J
-   5,R,U,X
-   3,U
-   3,R
+   7,U
+   1,R,U
    4
-   4,R
-   1,R,J,G
+  26,U,X
+   5,R,U,C
+   5,U
+ 
   10,R
-  14,U,Z
+   1,R,J,G
+   9,R
+   2,R,J
+  12,U,X
   40
 
 #lvl_e-02
@@ -927,26 +920,27 @@ Set,SuperDashing,true
    2
    5,L,U
   15,L
-   5,R,X
-   6,R,D
-   7,R,U
-   2
-   1,R,D
-   2
-   1,R,D
-  14,R
+   4,R
+   5,L,Z
+   3,L,U
+   1
+   1,L,D
+   6
    5,L,D,X
-  14
-  10,L,Z
-   5,R,J
-   5,R,U,X
-   5,U
-   9,R,D
-   3
-   1,R,D
-   5,R
-   1,R,J
+   6,L
+   8,R,J
    5,R,D,X
+   1
+   5,R,U
+   1
+   5,R,U
+   7,R,D
+  10,R
+   2,R,J
+   2,R,K,G
+   3,R
+   5,R,D,X
+   1
   40
 
 #lvl_e-07
@@ -954,41 +948,40 @@ Set,SuperDashing,true
    1,R,U
    3
    1,R,D
-   3
-   2,R,U
+   3,R,U
    1
-   3,R,D
-  15,R
+   4,R,D
+  17,R
    5,R,U,Z
    1
    1,U
    1
-   2,R,D
+   3,R,D
    1
-   7,R,D
+   6,R,D
    1,R
    5,R,D,X
+   1,R
   40
 
 #lvl_e-08
    4,R,U
    1
-   3,R,D
-   4
-   1,R,U
-   2,R,D
-  40,D,X
-   4,L
+   2,R
    1
-   8
+   1
+   1,R,D
+   3
+   1,R,D
+   5,D,X
+  36
+   5,R
    6,L,J
   12,J
-  12,D
-   1,L,D
+  11,D
+   4,L,D
    1,D
-   1,L,D
-   1,L,D
-   1,L
+   1
    2,D
    5,R,J,Z
    1,R,K,G
@@ -1721,25 +1714,28 @@ Set,SuperDashing,true
   40
 
 #lvl_h-02
+  11,J,G
+   6,D,X
+   8,R
+   1,R,J
+   5,R,D,X
+   4,R,D
+   2
+   8,R,U
+   5,R,D
+  13,R
+   5,R,U,Z
+   4,U
+   2,R
    1,R
-   2,R,J,G
-   1,J
-   7,R,J
-   5,R,U,X
-   4,R
+   2
+   7,R,D
+   2
+   1,R,D
 #Spinner Cycle
-   1
+   2
 
 #in h-06
-  27,R,U,C
-   5,R,X
-   1,R,U
-  11
-  22,R,C
-   5,R,D,X
-   6,R
-  15,D
-  13,R,D
   40,R,X
    5,R,U,Z
    4
@@ -1806,8 +1802,8 @@ Set,SuperDashing,true
    1,G
    1,R,J,G
    1,R,J
-   1,R
-   9,R,J
+   2,R,J
+   8,R
    5,R,U,Z
    7,U
   11,R
@@ -1815,12 +1811,11 @@ Set,SuperDashing,true
    1,R,K,G
    1,R
    1,R,J,G
-   1,K,G
    2
-  26,R,D
-   2,R
-   2,R,D
-   1,R
+  19,R,D
+   1,D
+   6,R,D
+   5,R
   17,R,Z
    1,R,J
    5,R,U,X
@@ -1995,6 +1990,7 @@ Set,SuperDashing,true
    4,R,J,G
    9,R
 #Spinner Cycle in i-00b
+**s
    3
 #and Lighting Cycle in i-02
    7,R,D,J,X
@@ -2511,7 +2507,7 @@ AnalogMode,Precise
    2
   18,D,X
 #Lightning Cycle
-  13
+   8
 
 #in j-14 & j-16
    5,L,D,C
@@ -2812,38 +2808,32 @@ AnalogMode,Precise
   40
 
 #lvl_j-05
-   5
-   1,R,D
-   2,R
-   1,R,D
-   5,R
-   1,R,D
-  17,R
-   5,R,U,Z
-   1,R,U
-   2
-   1,R,U
-  10
-   5,R,D
-  29,R
+   2,R,U
+   1
    2,R,D
-   1,J
-  12,R,K,G
-   4,R
-   3
-   6,R,Z
-   1,R,J
-   4,R
-   3
-   1,R,J
-   2,J
+   1
+   1,R,D
+   6,R
+   2,R,D
+  23,R
+   5,R,U,Z
+   7,U
+   1
+   3,R,D
+   1
+   7,R,D
+  28,R
+   7,R,J,G
+   5,R
   40
-
+  
 #lvl_j-06
-   3,J
-   5,D,X
-   2,L,D
-  14
+   2
+   2,R
+   5,L,D,X
+   1,L
+   6
+   7,D
    1,R,J
    5,R,D,X
    4
@@ -2861,74 +2851,77 @@ AnalogMode,Precise
    2,R
   11,R
   15,R
-   8,R,D
-   2,D
+   7,R,D
+   4
    5,R,Z
-   2
-   1,R,U
-   1
-  10,R,U
+   3,R,U
+   3
+   7,R,U
   38,R
    5,R,U,X
    3
    1,J,G
    6,R
-   1,L
-   5,L,Z
-   1,L,D
-   3
-   1,R,J
-   7,R
-   1,R,J
-   5,R,D,X
-   1,R,U
-   5,R,D
    1
-   1,R,U
-   7,R,D
-  35,R
-   2,R
-   5,R,U,X
-  12
-   7,R,D
-   9,R
-   1,R,J
-   5,R,D,X
-   3,R,D
-   3,R,U
-   4,R
-   4,R,U
-   5,R,D
-   3,R
-   2
-  15,R
-  11,R,K,G
-   2
-   6,R,J,G
-   7,R
-   9,R,X
-   1,R,D
+   3,L,J
    3
-   6
-   2,R,J
-   5,D,X
+   1,L
    2
+   3,R
+   5,R,D,Z
+  14,R
+   4,R,J
+   5,R,U,Z
+   2,R,D
+   2
+   2,R,U
+   3
+   1,R,D
+   1
+   7,R,D
+   
+   4
+   5,R,D,X
+  10,R,U
+   7,R,D
+   1,R,D
+   1,R,U
+   1,R
+   4,D,X
+   1,R,U,Z
+   6,R,D
+   1,R,D
+   1,R,U
+   2
+   5,R,U,X
+  11,R,D
+   6
+   3,R,U
+   4,D,X
+   1,R,U,Z
+  13,R,D
+   7
+   3,R,D
+   4,D
+   3
+   1,R
+   1,L,J
+   5,R,X
+   4
+   1,R,D
+   7
+   1,R,J
+   3,R
+   5,D,X
+   3
    2,L
   12
-   6,R
-   5,R,X
-   1,R,D
+   5,R
+  18,R,X
+   4,D,C
+   1,R,U,Z
+   8,R,D
    6
-   1,R,U
-   7,R
-   5,R,U,C
-   7,R
-   2,R,D
-   1,R
-
-   4,D,X
-   1,R,U
-   1,R
 #bird
   34,R
    6,R,U,X
@@ -2986,7 +2979,6 @@ AnalogMode,Precise
    1,R,K
    5,R,D,X
   22,R
-
 #bird
   35,R
   23,R
@@ -2999,7 +2991,7 @@ AnalogMode,Precise
   27,R,Z
    4,R,J
    9,R,K
-   7,R,K
+   6,R,K
    5,R,U,X
    9,R,D
   10,R
@@ -3089,7 +3081,6 @@ AnalogMode,Precise
    2,D
    5,U,X
    3,L,U
- 
    1,R,U
    1,R,J
   13,R,J
@@ -3184,15 +3175,12 @@ AnalogMode,Precise
    1,R
    1,R,G
    1,R
-   1,R,G
-   1,R
-   2,R,G
-  12,U,G
+  16,U,G
    1,R
    1,R,J,G
    1,R,K,G
    1,R,J,G
-  12,R,K,G
+  11,R,K,G
    7,R
   16,R,J
    7,R,U,Z
@@ -3200,18 +3188,21 @@ AnalogMode,Precise
    8,R
    2,R,D
    4,R
-   2,D
-  14,R,D
-  14,D,X
+   3,D
+  10,R,D
+   3,D
+  12,D,X
    1,L
+   2
    6
    5,L,X
    2,D
   12
    8,R
    5,R,D,X
+   2
    1,R
-  16
+  14
    3,R,D
    2,R,D,J
    5,R,U,X
