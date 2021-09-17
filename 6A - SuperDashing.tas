@@ -1,4 +1,4 @@
-ChapterTime: 3:46.151(13303)
+ChapterTime: 3:46.134(13302)
 
 #console load 6 11412 99.729197502136
 #Set,SuperDashing,true
@@ -1217,22 +1217,21 @@ AnalogMode,Precise
   11,R,D
    7
   44,R
+   9,D,X
+  14,R,D
+   2,R,J
    5,R,D,X
-   2,D
-   8
-   1,D
-  12
-   3,R,D
-   7,L,D
+   9,D
+
   40
 
 #lvl_boss-09
+   
+   4,L,D
    1,R,D
-   1,L,D
-   2,R,D
-   1,L,D
-  16,R,D
-   1,D
+  11,D
+  
+   6,R,D
    5,R,D,X
    6
    1,D
@@ -1242,7 +1241,7 @@ AnalogMode,Precise
    1,U
    4
    1,U
-  11
+  12
   37,R
    1,R,J
    5,R,D,X
