@@ -1,3 +1,5 @@
+FileTime: 2:38.032(9296)
+
 console load 2
 Set,SuperDashing,true
    1
@@ -8,9 +10,7 @@ read,2HC,Start,Restart
 #Restart
    1,Q
    1,J
-  30
-#0:11.747(691)
-   1
+  31
 
 read,2A,Start,lvl_d0 (1)
 
@@ -533,6 +533,7 @@ read,2A,2SHC1,lvl_4
   15
    4,R,J
    5,R,D,X
+   
    8,R,D
    1,R,J
    3,J
@@ -591,6 +592,8 @@ read,2A,2SHC1,lvl_4
    5,R,U,X
   13,U
    3
+   
+   
    2,R,U
    6,J,G
    2,L,J
@@ -1007,5 +1010,3 @@ read,2A,lvl_end_0,lvl_end_3b
    1,S
    1,D,J
   18
-
-ChapterTime: 2:19.451(8203)
