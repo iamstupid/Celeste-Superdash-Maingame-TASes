@@ -571,6 +571,8 @@ Set,SuperDashing,true
   17,L,J
    4,R,K,G
   40
+
+#lvl_c-00
   11,R
    5,R,U,X
    4
@@ -605,7 +607,7 @@ Set,SuperDashing,true
    3,L,U
   40
 
-#lvl_c-00
+#lvl_c-02
    7,R,J,G
    4,L,J
    5,U,X
