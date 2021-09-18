@@ -1,4 +1,4 @@
-ChapterTime: 3:49.585(13505)
+ChapterTime: 3:49.568(13504)
 
 #console hard 7 2080 -1624
 #Set,SuperDashing,true
@@ -1300,16 +1300,16 @@ Set,SuperDashing,true
    4,L,J
   19,L,D
    5,L,D,X
-   5,L
-   5,L,J
-   5,L,U,X
+   9,L
+   1,L,J
+   5,L,U,Z
   11,U
-   1,R,J
    5,R,X
+  10
    1,U
-  16
+   6
    2,R,D
-   9,R
+   8,R
  333
 
 #lvl_g-00
