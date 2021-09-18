@@ -1,4 +1,4 @@
-ChapterTime: 3:49.568(13504)
+ChapterTime: 3:49.296(13488)
 
 #console hard 7 2080 -1624
 #Set,SuperDashing,true
@@ -671,26 +671,30 @@ Set,SuperDashing,true
   10,U
   37,L
    5,L,X
-   4,U
-  21
+   5,U
+   1
+   3,L,D
+  16
    4,L,J
-   1,L,K
+  12,L,K
    5,L,U,Z
-   5,L
-  11,U
-   1,R,J,G
-   8,L,J
-  11,K,G
-   5,R,U,X
-  15,R
+  13,U
+   5,R,U
+   5,R,X
+   1,U
+   7
    4,R,J
    1,R,K
    5,R,U,X
-   7,R,D
-   3
+   1,U
+   1
+   8,R,D
    5,R,D,X
-   3,R,U
-  13
+   4,R,U
+   2,R,D
+   1
+   1,R,U
+   8
   37,R
   18,U,X
    5,L,U,C
@@ -732,13 +736,13 @@ Set,SuperDashing,true
   25
    4,L,J
    1,L,K
-   5,L,U,X
-   2,L
+   1,L,K
+   5,L,U,Z
    1
-  16,U
-   4,D,X
-   1,L
-   9
+  15,U
+   5,L,X
+   5
+   4,L,D
    1,R,J
    5,R,U,X
    4,U
@@ -1305,11 +1309,12 @@ Set,SuperDashing,true
    5,L,U,Z
   11,U
    5,R,X
-  10
    1,U
-   6
-   2,R,D
-   8,R
+   8
+   1,R,D
+   8
+   1,R,D
+   9,R
  333
 
 #lvl_g-00
