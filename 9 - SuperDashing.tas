@@ -1994,7 +1994,6 @@ Set,SuperDashing,true
    9,R
 #Spinner Cycle in i-00b
    5
-
    
 #and Lighting Cycle in i-02
    7,R,D,J,X
@@ -3480,6 +3479,9 @@ AnalogMode,Precise
   40
 
 #lvl_j-16
+
+#9S
+
 #Can get feather
 #   1
 #   1,D
