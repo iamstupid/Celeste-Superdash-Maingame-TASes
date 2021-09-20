@@ -1,5 +1,5 @@
 console load 10
-ChapterTime: 6:44.651(23803)
+ChapterTime: 6:44.192(23776)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -134,17 +134,11 @@ read,9,Start,9S
    1,L,J
    5,L,U,X
   16,U
-   1,R,U
-   1
+   2,L
   40
 
 #lvl_j-18
-   8,R,J
-   3,R
-   5,Z
-   9,R,J
-   4,R,D
-   2,R,J
+   1,J
   19,R,D
   40
 
