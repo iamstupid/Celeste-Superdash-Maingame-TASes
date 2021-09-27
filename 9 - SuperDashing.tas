@@ -3538,6 +3538,8 @@ AnalogMode,Ignore
  
 #Optional Waiting
  100
+   1,J
+ 180
 #
    1,S
    1,D,J
