@@ -413,13 +413,10 @@ Set,SuperDashing,true
    1,R,U
    3
    5,R,U,X
-
-#lvl_c-03
    4,U
    5
    1,R
    1,R,D
-
    4,R,D
    2
    1,R,D
@@ -2193,8 +2190,6 @@ Set,SuperDashing,true
    2,R,Z
    7,R,U
    1,R
-
-#lvl_h-08
    4
    5,R,U,X
    3,R,D
