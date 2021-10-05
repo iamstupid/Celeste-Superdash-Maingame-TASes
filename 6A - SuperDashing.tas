@@ -1628,12 +1628,16 @@ AnalogMode,Precise
   37,L
    5,L,D,X
    8
-   9,L,U
-   3
-  17,L,D
-  23,D
-   3
-   3,R
+   8,L,U
+   4
+   9,L
+  11,L,D
+  15,R,D
+   4,R
+   1
+   1,R,D
+   1
+   2,R
    4,D,X
   11,R,X
    2,R,J
