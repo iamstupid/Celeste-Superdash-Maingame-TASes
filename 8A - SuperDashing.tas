@@ -1,3 +1,5 @@
+ChapterTime: 1:40.453(5909)
+
 console load 9
 Set,SuperDashing,true
 Set,CheatMode,true
@@ -858,6 +860,7 @@ Set,CheatMode,true
   40
 
 #lvl_d-10c
+***S
    2,D
    8
    5,R,X
@@ -875,59 +878,68 @@ Set,CheatMode,true
   26,R
    1,R,U
 AnalogMode,Precise
-  88,F,84.06
-#8HC1
-   6,F,90
+  88,F,83.94
+   7,F,90
 AnalogMode,Ignore
    4,D,X
    1,L
-   1,L,D
-   1
+   3,L,D
+   2,L,U
    1,R,J
-   7,R
+   4,R
    1,R,J
    5,R,D,X
+   3
   40
 
 #lvl_d-11
+   6
    1,R,D
-  17
-   5,R,U,X
-   2,U
+   5,R,D,X
+   6,U
    1
    7,R,D
-   9
-  23,R,D
+   5
+  23,R
    1,R,J
+   3
    5,R,D,X
-   2,U
-  10
-   1,U
-   4,R,D
-   7,R
-   3,R,J
-  31,R
+   3,U
+   4
+   1,R,D
+   1
+   3,R,D
+   6
+   2,R
    1,R,J
+  27,R,D
   40
 
 #lvl_space
+   1,R,D
    5,R,D,X
    9
    1,R,D
    5,R,D,X
-   7
-   3,D
-   5,R,D,X
-   2,D
+   4
+   1,D
+   1
+   1,D
+   2
    1,R,U
-   7
-   5,R,U,X
-   3,U
-   1
-   1,U
-   1
-   8,R,D
    5,R,D,X
-   4,D
-   6,R,U
- 137
+   3
+   2,R,U
+   4
+   2,R,U
+   2
+   7,R,D
+   5,R,D,X
+   1,D
+  10
+  13
+   5,L,Z
+   9,L,U
+  10,L,D
+  30,L
+ 100
