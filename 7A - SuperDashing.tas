@@ -16,7 +16,7 @@
 #console load 7 25600 -13432
 #play,Section 3000m,37
 
-ChapterTime: 5:06.391(18023)
+ChapterTime: 5:06.289(18017)
 
 console load 7
 Set,SuperDashing,true
@@ -272,21 +272,22 @@ Set,SuperDashing,true
   40
 
 #lvl_b-03
-   8,R
-   2,R,D
-   5,R,U,C
-   4,R
+   1,R,D
+  17
+   5,R,U,X
+   7,R,D
+  10
+   1,L,J
+   5,L,U,X
+   8,U
+   1
+   9,L
+   4,L,J,G
+   5,L,U,Z
   15,U
-   1,L
-   1,L,J,G
-   2,L,J
-   1,L,K,G
-   1,L,J,G
-  26,L,K,G
-   4,D,X
-   1,L,U,X
-  21,U
-   9,R,J
+   2,R,U
+   1,L,U
+   5,R,J
   40
 
 #lvl_b-05
@@ -1012,7 +1013,7 @@ Set,SuperDashing,true
 #lvl_e-00b
   78
 #Spinner cycle
-   0
+   2
 #Section 2000m
    9,R,J
    3,R
