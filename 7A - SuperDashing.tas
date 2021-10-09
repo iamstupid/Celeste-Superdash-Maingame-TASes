@@ -16,7 +16,7 @@
 #console load 7 25600 -13432
 #play,Section 3000m,37
 
-ChapterTime: 5:06.289(18017)
+ChapterTime: 5:06.085(18005)
 
 console load 7
 Set,SuperDashing,true
@@ -1013,7 +1013,7 @@ Set,SuperDashing,true
 #lvl_e-00b
   78
 #Spinner cycle
-   2
+
 #Section 2000m
    9,R,J
    3,R
@@ -1169,148 +1169,61 @@ Set,SuperDashing,true
    5,R,D,X
    5,R,U
    6,R,D
-  22,R,U,X
-   1,J,G
-   8,R,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   1
-   1,G
-   5,L
-  11,L,K
-  10,L
-   5,D,X
-   1,L
-  16
-   1,L,J
-   6
-   6,L,J
-   3,J
-   5
-  23,R,X
-   2
-   4,J
-   1,R,J
-   6,L,J
-  13,U,X
-   9,L
-   1
-   4,D,X
-   7,L
-   1,L,J
-   6,L
-   2,L,J
-   5,L,U,X
-  18,U
-   1,L
-  10,R,J
+  20,R,U,X
+   1,J
+   7,R,J
+  17,R
+   1,J
+   8,R,J
+  40,R
+   1,J
+  18,L,J
+  20
+  30,L
+  12,L,D,J
    5,R,U,X
    2,R
-   3
+   2
    1,R
-  12
+   5
+   1,R
+   6
+   5,U,X
+   7
+  23,L
+   4
+   5,R,Z
+   1
+   1,J,F,200
+   8,L
+   1,L,J
+   5,L,U,X
+  18,U
+   1,J
+  10,R,J
+   5,R,U,X
+   4,R
+  13
    3
    4,D,X
-   1,L,U,Z
-   3,U
-   8
-   7,U
-   5,R,U,X
-   1,R
-   1
-   1,R
-   1,R
-   8,U
-   9,L,U
-   4,X
    1,L,U
-   8,U
-   3,R,U
-   4,R,D,X
+   4,U
+  12
+   5,R,U,X
+   1,U
+   5
+   1,U
+   5
+   1,U
+   3
+   5,U,X
+   3,L
+   7
+   8,R,U
+   4,X
    1,R,U
    4,R
-   1
   13,U
-   1,K
-   1,R,K
   40
 
 #lvl_e-08
