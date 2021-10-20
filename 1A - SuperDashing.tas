@@ -1,5 +1,5 @@
 console load 1
-ChapterTime: 0:40.885(2405)
+ChapterTime: 0:40.783(2399)
 Set,SuperDashing,true
    1
 
@@ -125,64 +125,35 @@ Set,SuperDashing,true
    1,R,J
    1
    3,R
-   1,R,D,J
+   1,R,J
    8,R,K,G
    1,R,J,G
-  16,R
+   1
+   3,R
+   1,R,J,G
+   3,R,K,G
+   5,R
+   2,R,K
    5,R,U,Z
-   6,U
-   2
-  10,U
-   1,J
-   4,L,J
-  12,R,J
-
-#   1
-#   5,R,K,G
-#   5,R
-#   6,R,X
-#   1,R,D
-#   6
-#   1,L,J
-#   2,J
-#  13,R,X
-#   1,L,K
-#   6,K
-#   1
-#   1
-#   5,R,Z
-#   1,R,J
-#   1
-#   3,R
-#   1,R,D,J
-#   8,R,K,G
-#   1,R,J,G
-#   1,J
-#   3,R,J,G
-#   2,R,K,G
-#   5,R,U,X
-#   2,R,D
-#   6
-#   5,R,D
-#  14
-#   5,U,X
-#   1,R
-#   8,U
-#   1,L,U
-#   8,U
+  18,U
+  10,L,J
+   4,R,J
   43
 
 #lvl_6
-  11,R
+  11,R,J
    5,R,U,Z
-   8,U
+   5,U
+   2,U
    1
-   6,L,U
-   1,L,U,J,G
-   2,L
-   3
-   2,L
-  13,L,Z
+   7,L,U
+   1,L,J,G
+   5,L
+   1
+   1,L
+   5,L,Z
+   3,L,U
+   5,L,D
    2,R,J
    5,R,U,Z
    4,U
@@ -372,28 +343,29 @@ Set,SuperDashing,true
    1,R,J
    5,R,U,X
   21,U
-   1,R
-   5,R,Z
-   4,R,U
-   6,R,D
-   1,L,J
-   5,L,D,X
-   6,L,U
-   2,L,D
-   2
-   7,L,D
-   8,D
-  15,L,D
-   6,L
-   5,L,U,Z
-   8,U
-   1
-   1,L
-   3
-   1,J
-   5,L
    2,R
-   9,L,J
+   5,R,X
+   3,R,U
+   4,R,D
+   3,L,J
+   5,L,U,X
+   1,U
+   6,L,D
+   2
+  34,L,D
+   5,L,U,Z
+   3,U
+   1,L
+   1
+   4,U
+   1
+   3,U
+   1,J
+   1,R,J
+   1,R
+   6,L
+   6,L,J
+   3,J
   23,U,X
   40
 
@@ -457,8 +429,7 @@ Set,SuperDashing,true
    7,R,J,G
    3,R
    5,L,D,X
-   1,D
-   8,D
+   9,D
    1,R,J
    5,R,D,X
    1,R
