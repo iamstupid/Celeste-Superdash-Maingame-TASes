@@ -1,4 +1,5 @@
 console rmx2 1
+ChapterTime: 0:11.526(678)
 Set,SuperDashing,true
    1
 
@@ -113,29 +114,51 @@ Set,SuperDashing,true
   10,R,K
    5,R,U,X
    1,U
-   5
-   1,R
-   5
-   6,R
-   1,L,J,G
-   7,R,J
+   2,R
+   3,U
+   1
+   2,R,D
+   1
+   9,R,D
+   4,R
+   1,R,J,G
    5,R
-   2,R,K
-  29,R,D
+   3,R,J
+  24,R,D
    4,D,X
    2,R
    1,R,J
    7,R
    6,R,D,J
-   2,R,K,G
-  10,R,J,G
-   5,U,X
+   1,K,G
+   2,R
+   1
+   2,R
+   5,R,U,Z
+  12,U
+   9,L,U
+  35,R
+  26
+   2,R
+   1
    1,R
-   1,L
-  14
-   2,L
-  21,R
-  56
-  30,R
-   1,L,J,G
-  27,L
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+  15,R,D
+  10,L,D
+  30,J,G
+
+ 
