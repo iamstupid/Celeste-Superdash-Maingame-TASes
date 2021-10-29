@@ -1,3 +1,5 @@
+ChapterTime: 2:29.957(8821)
+
 console load 3
 Set,SuperDashing,true
    1
@@ -230,61 +232,51 @@ Set,SuperDashing,true
    1,S
    1,D,J
   34
-   5,R,D
+   5,D
   40
 
 #lvl_05-a
-   1,D
-   5,R,D
+   6,D
    1,R,J
    4,D,X
    1,R,U
    8,U
-   1,U
-   1,R,U
-   1,R
+   2
+   2,R
    1,L,J,G
-  13,R,D
+   4
+   1,R
+   1,R,J
+   9,R,D
   40
 
 #lvl_06-a
-   4,D,X
-   3,R,U,X
-   2,R
-   1,R,U
-   2,R
-   3,R,D
-   2,R
-   1,R,U
+   3,D
+  16,R,D
    1,R
+   3
    1,R
-   1,R,U
-  21,R,D
-   1,G
-   3,R,J,G
-  15,R,D
-   3,R
-   2
-   1,D
-   2,R,J
-   5,D,X
-   9,R
-   1,R,J
+   1,R,D
+   6,R
    5,R,U,Z
-   4,U
-   4
+   3,R
+   8,U
+   1,R
+   7,R,D
+   4,R
+   5,R,U,Z
+   2,R
+  10
   40
 
 #lvl_07-a (1)
    6
-  10,U,X
-   1,L
-   9,U
+   5,U,X
+  19
   40
 
 #lvl_07-b (1)
-   8,J
-   8,J
+  16,J
   14,R,Z
    1,L,J
    5,L,D,X
