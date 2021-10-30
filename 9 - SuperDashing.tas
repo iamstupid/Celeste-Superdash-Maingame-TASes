@@ -2386,6 +2386,46 @@ AnalogMode,Precise
   40
 
 #lvl_i-04
+#   2,R,D
+#   5,R,D,X
+#   3
+#   1,D
+#   2,R,J
+#   5,D,X
+#  10
+#   5,R,X
+#   2,U
+#   1
+#   4,R,D
+#   1
+#   6,R,D
+#  12,D
+#  15,R,X
+#   5,R,U,C
+#   3,R
+#  10
+#   1,K
+#  11,R,K
+#  18,R
+#   6,R,D
+#   2,R
+#   1,R,D
+#   1,R,G
+#  10,R,J,G
+#  15,R,X
+#   4,D,C
+#   1,L
+#   4
+#   3,L,D
+#   2,L,U
+#   1,R,J
+#   5,R
+#   2,R,J
+#   3,R,K,G
+#   1,R
+#   5,R,D,X
+#   3
+   
    2,R,D
    5,R,D,X
    3
@@ -2477,6 +2517,8 @@ AnalogMode,Precise
    1,S
    1,D,J
   34
+#Section Farewell
+
    3,R,J
    5,U,X
    2,R
