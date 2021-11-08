@@ -1272,9 +1272,7 @@ Set,SuperDashing,true
    2,R,J
    9,R
    5,L,D,X
-   5
-   1
-   2
+   8
    1,R,J
    1,J
    5,R,U,X
@@ -1412,6 +1410,7 @@ Set,SuperDashing,true
    1,S
    1,D,J
   34
+#3SHC2
    5,L,J
    2,L
    7,K,G
