@@ -1,8 +1,5 @@
-#console load 10 43607.8071146011 -8754.69005513191 716.5044 160
-#play,Section Stubbornness,38
-
 console load 10
-ChapterTime: 4:07.367(14551)
+ChapterTime: 4:06.347(14491)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -10,8 +7,8 @@ Set,SuperDashing,true
 #Start
   98
 
-#lightning cycle
-  12
+#Lightning Cycle
+   2
 #c-00
 
 #lvl_intro-00-past
@@ -238,32 +235,35 @@ Set,SuperDashing,true
 #lvl_b-01
    5
    1,R,D
-   3
+   2
+   1,R,D
   40
 
 #lvl_b-02
-   4,D,X
-   2,R,Z
-   1,R,J,Z
-  14,R
-   5,D,X
-   9
-   9,L
-   1
-   7,L,D
-  17,L
+   4,L
    5,L,U,X
+  10,L
+   5,L,D,X
+  11,D
+   1
+   1,L
+   3
+   1,L
+   5
+  17,L
+   5,L,U,Z
    2,U
-   2,L
+   3,L
+  10,L,D
+   3
+   1,L,D
+   4,X
+   1,L,U,X
+   1
   10,L,D
    2
    2,L,D
-   5,L,U,X
-  10,L,D
-   4
-   1,L,U
-   1
-   2,L,D
+   3
    1,R,J
    5,R,D,X
   10
@@ -328,6 +328,9 @@ Set,SuperDashing,true
    1,U
    1,R,J,G
    7,R
+
+#Power Source
+
    7,L,Z
    1,L,J
    6,L
@@ -485,11 +488,11 @@ Set,SuperDashing,true
    2,L,U
    3,R
    2,L
-   6,L,J
+   5,L,J
   11,L,Z
    6
-   1,L,J
-   3,L
+   2,L,J
+   2,L
    5,L,Z
    1,L,U
    2
@@ -530,6 +533,11 @@ Set,SuperDashing,true
   10,R,J
    5,R,U,Z
    3
+
+#Spinner Cycle
+   1
+#e-06
+
    5,R,X
   24
    5,U,X
@@ -599,12 +607,14 @@ Set,SuperDashing,true
    5,R,U,X
    3,R
   45,U,C
-#Section Remembered
   60,L,U,X
   40
  
 #lvl_e-00y
   52
+
+#Remembered
+
   21,U,X
   40
 
@@ -701,8 +711,7 @@ Set,SuperDashing,true
    7
    5,R,U,C
    2,R
-   2
-   6
+   8
    5,L,U,X
   18,U
    5,L,U,C
@@ -899,14 +908,12 @@ Set,SuperDashing,true
    1,L
    1
    2,J,G
-   1,R
-   1,R
+   2,R
    5,R,D,X
   40
 
 #lvl_e-05b
-   2,U
-   1,U
+   3,U
    2
    1,R,D
    1
@@ -1010,35 +1017,39 @@ Set,SuperDashing,true
    1,S
    1,D,J
   34
-   5,L,Z
+
+#Event Horizon
+
+   5,R,Z
    1,J,F,160
    8,R
    1,R,J
    5,R,D,X
-   7
+   5
    1,R,D
-   2
+   4
    5,R,D,X
    6,U
-   5,R,D
-   4,R,D,J,G
+   1
+   3,R,D
+   3,R,D,J,G
    5,R,D,X
    3,U
-   3,R,D
-   2
+   4,R,D
+   1
   40
 
 #lvl_f-door
-   1
-   1,R,D
+   2
    5,R,D,X
-   5,R,U
-   2,R,J,G
+   3,U
+   4
+   1,R,J,G
    1,R,K,G
+   1,R
    2,R,J,G
-   3,R,K,G
    5,R,D,X
-   2,R,U
+   2,U
    1,R,D
    6
    2,R,D
@@ -1051,10 +1062,8 @@ Set,SuperDashing,true
   43
 
 #lvl_f-00
-   6
+   8
    1,U
-   1,R,D
-   1
    5,U,X
   21
   18,R,X
@@ -1097,6 +1106,9 @@ Set,SuperDashing,true
    1,S
    1,D,J
   34
+
+#Event Horizon 2
+
    5,L,Z
    2,L,D
   12,L
@@ -1133,69 +1145,55 @@ Set,SuperDashing,true
    1,R,U
    2
    5,R,D,X
-   6,R,U
-   2,R,D
-   1
-   2,R,U
+   2
+   9,R,U
   40
 
 #lvl_f-05
-   3,R,U
-   2
-   1,R,D
-   5,R,U,X
-   6
-   5,R,U
-   2
+   3,U
+   4,R
+   4,R,X
+   1,R,U
+   5,U
    2,R,D
    1
+   7,R,D
   40
 
 #lvl_f-06
-   4,D,X
-   6,R,X
-   2,R,U
-   3,R,D
-   1,L,J
-   5,L,D,X
-  11,D
-   3
-   5,L
-   4,L,D
-  23,L,Z
-   1,L,D
-   2,L
-   1,L,J,G
-   1,L,K,G
-   6,L
-   5
-   3,R
-  25,L
-  10,G
-   1,L,K,G
-   1,L,J,G
-   7,K,G
-   1,R,K
-   1,L,K
+   4,R,D
+   5,D,X
+   3,L
+   1
+   1,L
+  14
+   7,L
+   5,U,X
+  19
+   7
+   3,L
    5,L,Z
-   4,L
-   2,L,D
+   1,J,F,160
+   5,R
+   3
+   1,R,J
+   5,R,D,X
+   3,R,U
+   3,R,D
+   1
+  16,D
+   5,L,D,X
+  10,D
+   4,R,D
+   1,R,J
+   5,R,D,X
    2
-   3,L,D
-   4,D,C
-   1,R
    1,R,D
    1
-   1,R,J
-   4,R
-   1,R,K
-   2,R
-   5,R,D,X
-   2,R,U
-   2,R,D
+   5,R,D
+   1,R,U
    1
-   4,R,D
-   7,R,U
+   6,R,U
   10,R,J
    5,U,X
    3,R,U
@@ -1545,6 +1543,9 @@ Set,SuperDashing,true
    2
    6,L,D
    6,L
+
+#Determination
+
   10,L,Z
    3,L,D
    2,L,U
@@ -1977,8 +1978,8 @@ Set,SuperDashing,true
    7,R
 #Spinner Cycle
 #for h-10
-   2
-#and Stubbornness
+   0
+#
    7,R,D,J,X
    5,R
    1,R,D,J
@@ -2141,7 +2142,7 @@ Set,SuperDashing,true
    2,R,U
   40
 
-#lvl_h-0
+#lvl_h-9
    9,R,D
    5,L,D,X
   23,L
@@ -2274,10 +2275,7 @@ AnalogMode,Precise
    2,R,D
    7
    6,R,D
-  20,R
-
-#Section Stubbornness
-   1,R
+  21,R
  348
   40
 
@@ -2295,6 +2293,9 @@ AnalogMode,Precise
    1,S
    1,D,J
   34
+
+#Stubbornness
+
   11,R,J
   20,R,Z
    1,R,J
@@ -2332,7 +2333,7 @@ AnalogMode,Precise
   12,U
    2
    1,R,J,G
-   1
+   1,R
    5,R,D,X
   40
 
@@ -2350,34 +2351,38 @@ AnalogMode,Precise
    1
    1,R,J
    1,R,K,G
-   1,R,K
-   1,R
+   1,K
+   1
   40
 
 #lvl_i-02
    3
    1,R,K,G
-   5,R,U,Z
+   4,Z
+   1,R,U
    4,U
    1
-   5,R,D
-   6
    4,R,D
-   4,R,U,X
+   1
+   2,R,D
+   3
    1,R,U
-   3,R,U
+   1,R,D
+   4,X
+   1,R,D
+   1,R,U
+   1
+   4,R,U
   40
 
 #lvl_i-03
    1,R,U
-   1
-   3,R
+   4,R
    1,R,J,G
-   1
    1,R
-   5,R,Z
-   1
-   1
+   4,D,X
+   1,R
+   3
    1,R,U
    1
    2,R,U
@@ -2425,11 +2430,10 @@ AnalogMode,Precise
 #   1,R
 #   5,R,D,X
 #   3
-   
+  
    2,R,D
    5,R,D,X
-   3
-   1,D
+   4
    2,R,J
    5,D,X
   10
@@ -2464,6 +2468,45 @@ AnalogMode,Precise
    1,R
    5,R,D,X
    3
+
+#   2,R,D
+#   5,R,D,X
+#   3
+#   1,D
+#   2,R,J
+#   5,D,X
+#  10
+#   5,R,D,X
+#   3,R
+#  15
+#   5,U,X
+#  10
+#   5,R,X
+#  14
+#   5,D,X
+#  10
+#   5,R,U,Z
+#  13,R
+#   1,J
+#   8,R,J
+#   4,R
+#   6,R,J
+#  10,R,D
+#   4,R
+#   1,R,G
+#   6,R,J,G
+#   4,R
+#   4,D,X
+#   1,L
+#   3,L,D
+#   2,L,U
+#   1,R,J
+#   5,R
+#   2,R,J
+#   3,R,K,G
+#   1,R
+#   5,R,D,X
+#   3
   40
 
 #lvl_i-05
@@ -2517,7 +2560,8 @@ AnalogMode,Precise
    1,S
    1,D,J
   34
-#Section Farewell
+
+#Farewell
 
    3,R,J
    5,U,X
@@ -2532,9 +2576,10 @@ AnalogMode,Precise
    5,R,D,X
    3,R
    6
-#Cycle 0~9
-   9
-#
+#Lightning Cycle
+   
+#0~9
+#j-00b j-02 j-07
    1,L,J
    5,L,D,X
    1,L,D
@@ -2550,8 +2595,8 @@ AnalogMode,Precise
   18,L,J
    5,L,D,X
   12
-#alt cycle
-   1
+#alt cycle point
+   
 #
    1,R,J
    5,R,D,X
