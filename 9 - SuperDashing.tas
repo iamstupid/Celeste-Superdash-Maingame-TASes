@@ -1,5 +1,5 @@
 console load 10
-ChapterTime: 4:06.347(14491)
+ChapterTime: 4:06.143(14479)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -1330,31 +1330,29 @@ Set,SuperDashing,true
   40
 
 #lvl_g-01
+   1,L
    1
-   1,K
-   9
+   1,L
+   1,R,J,G
+   1,R,K,G
+   6,R,K
    5,U,X
-  10
-   4,D,X
-   1,R,X
-  14
+   1,R
+  18
+   5,U,X
+  19
+   4,D,Z
+   1,L
+   5
    1,R,J
-   5,R,U,X
-   9,U
-   1
-   7,R
-   4,D,X
-   1,R,Z
-   4,R
-   1,R,D
-   5,R
-   1,L,J
-   5,L,U,X
-  18,U
-   5,U,X
-   3,R
-  12
-   1,L,U
+   4
+   5,R,U,Z
+  12,R,D
+   4,X
+   1,R,U
+  13,U
+   5,L,U
+   1,R,U
   40
 
 #lvl_g-03
@@ -1479,8 +1477,8 @@ Set,SuperDashing,true
    5,L,D,Z
    9
 #Spinner Cycle
-   2
-#g-06,h-00
+   0
+#g-06 h-00
    1,R,J
    5,R,D,X
    1
@@ -2468,45 +2466,6 @@ AnalogMode,Precise
    1,R
    5,R,D,X
    3
-
-#   2,R,D
-#   5,R,D,X
-#   3
-#   1,D
-#   2,R,J
-#   5,D,X
-#  10
-#   5,R,D,X
-#   3,R
-#  15
-#   5,U,X
-#  10
-#   5,R,X
-#  14
-#   5,D,X
-#  10
-#   5,R,U,Z
-#  13,R
-#   1,J
-#   8,R,J
-#   4,R
-#   6,R,J
-#  10,R,D
-#   4,R
-#   1,R,G
-#   6,R,J,G
-#   4,R
-#   4,D,X
-#   1,L
-#   3,L,D
-#   2,L,U
-#   1,R,J
-#   5,R
-#   2,R,J
-#   3,R,K,G
-#   1,R
-#   5,R,D,X
-#   3
   40
 
 #lvl_i-05
