@@ -1,10 +1,13 @@
+ChapterTime: 1:22.484(4852)
+
 console hard 5
 Set,SuperDashing,true
    1
 
 #Start
-#lvl_start
  190
+
+#lvl_start
    6,L,D,X
    1,R,J
    4
@@ -476,73 +479,72 @@ Set,SuperDashing,true
    2,R,J
    1,L,J
    1,R,J
-  17,R,D
-   2,R
-   1,G
-   1,R,J,G
-   5,R
+  14,R,D
+   4,D
+   5,R,Z
    3
-   1,R
-   4,D,X
-   1,R,U
-   3
+   6,U
+   1
+   1,R,D
+   1
    2,R,D
-   1
-   5,R,D
-   1
-   6,R,D
-   1,L,J
-   5,L,D,X
-   1
-   1,L,D
    3
-   1,R,J
+   6,R
+   5,L,Z
+#had to waste this 1f
+   1
+   2,D
    2
+   1,L,U
+   1,R,J
    1,R
-   3,R
+   3
    1,R,J
    5,R,D,X
-   5,R
+   2,U
+   1,R,D
+   1
   40
   
 #lvl_c-03
-   4,R
+   3,R,D
+   3
+   5,R,D,X
    2,R,D
-   5,R,D,X
-   6,R,D
-   2,R
-   5,R,U
-   1,R
+   1
    1,R,D
-   1,R
-   1,R,D
-   9,R
+   1,R,U
+  12
+   9
    5,R,D,X
-   5,R,D
-   9,R
-   4,R,U
+   4,D
+   3
+  10,R,U
+   1
    1,L,J,G
    6,R,J
-   5,R
-   5,R,J
    1,R
-   1,R,J
-   7,R,D,X
+  10,R,J
+   1,R,K
+   5,R,D,X
+   2,U
   40
 
 #lvl_c-04
-   8,R
+   1,U
+   4
+   5,R,D
    5,R,D,X
-   4,R,U
    1
-   1,R,U
-   2,R,D
+   3,R,D
    1
-   6,R,D
+   2,R,U
+   3
    5,R,U,X
-   6,U
+   2
+   1,U
    1
-   7,U
+  11,U
   40
 
 #lvl_d-00
@@ -720,60 +722,50 @@ Set,SuperDashing,true
    1
    1,D
    5,R,U,X
-   2
    1,U
+   1
+   1,R
   13,R,G
-  19,R,J,G
-   2,R
-   9
-   8,L,Z
-   1,L,D,X
-   1,R,J
-   6,R
-   2
-   1,R,J
+  17,R,J,G
+   1,R,D
+   5,L,D,X
+   1
+   2,J,F,160
+  13,R,G
+  22,R,D,G
+   2,D,G
+   1,R,D,J
    6,R,D,X
-   4
-  21,R,G
+   9
+   6,R,D,X
+   9
+   6,R,D,X
+   9
+   6,R,D,X
+   9
+   6,R,D,X
+   9
+   5,R,D,X
+  13,R,G
   40
 
 #lvl_d-04
-  26,R,D,G
-   1,R,G
-   1,R,D,G
-   2,R,G
-   1,R
-   5,R,U,X
-   3,U
-   6
-   1,R,D
-  32,R,G
-   4,R
-   4,D,X
-   1,R,U,X
-   4,R,D
-   2
-   1,R,D
-   1
-   9,R,D
-   1,R,J
-   6,R,D,X
-   9
-   6,R,D,X
-   9
-   6,R,D,X
+   1,R,K,G
   13,R,G
   40
 
 #lvl_d-05
+  17,R,D,G
+   1,L
+   5,R,X
+  26,R,U
+   1,J
+   3,L,J
+   1,R,J
+   1,K
+   1,J
+   9,K,G
+   3,L,K
+  15,L
    1,R,J,G
-  30,R,D,G
-   5,R,J,G
-   1,R
-   5,R,D,X
-   1,R
-   4,R,U
-   4,R
- 138
-
-#1.24.133
+  77,R,D
