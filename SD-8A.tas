@@ -1,14 +1,13 @@
-ChapterTime: 1:18.268(4604)
-
 console load 9
+ChapterTime: 1:17.843(4579)
 Set,SuperDashing,true
 Set,CheatMode,true
    1
 
 #Start
-#lvl_00(1)
   54
-  25
+
+#lvl_00(1)
    4,D,X
    1,L
    1,L,D,J

@@ -1,11 +1,13 @@
 console hard 9
+ChapterTime: 1:17.316(4548)
 Set,SuperDashing,true
 Set,CheatMode,true
    1
 
 #Start
-#lvl_00
   54
+
+#lvl_00
    4,D,X
    1,R
    1,R,D,J
