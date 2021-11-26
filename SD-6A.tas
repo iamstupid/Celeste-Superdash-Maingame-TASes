@@ -1,11 +1,5 @@
-ChapterTime: 3:44.978(13234)
-
-#console load 6 11412 99.729197502136
-#Set,SuperDashing,true
-#AnalogMode,Precise
-#play,Section Rock Bottom,37
-
 console load 6
+ChapterTime: 3:44.927(13231)
 Set,SuperDashing,true
    1
 
@@ -237,7 +231,6 @@ AnalogMode,Precise
    1
    2,L,J,G
    7,L
-#6HC1
   10,L,Z
    1,L,J
    4,L
@@ -630,86 +623,93 @@ AnalogMode,Precise
   40
 
 #lvl_b-02
-   2,R,D
+   3,R,D
    5,D,X
-   1,R
-   4
-   2,R
-   2,R,J
-   1,R
-   4,D,X
-  10,R
+   5,R
+   1,R,J
+   4,R
+   5,R,Z
+   6
    1,U
-   8,L
-  12,R,J,G
-   4,K
-   1,L,J,G
-  13
-   3,L,D
-  10,D
-   2,R,D
-  44,D
-  36,L,D
+   1
+   7,D
+  10,K
+   5,J
+   1,K,G
+   2,D
+   1,J
+   1
+  10,L,D
+   1
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+  21,R,D
+  20,D
+  49,L,D
    5,D,X
-   2,L
-   9
+  11
+   1,L
    1,R,J
    5,R,D,X
   17,D
    2,L,D
-   3,D
-  33,L,D
-   7,R,D
-   1,L,D
-   7,R,D
-  19,L,D
+  10,D
+  18,L,D
+  20,D
+   5,R,D
+  21,L,D
    5,D,X
-   9,L
+   2,L
+   3,R,D
    2,L,J
-  12,L,D
-  25,R,D
-   4,D,X
-   1,R
+  10,L
+  11,R,D
+   1,L,D
+  14,R,D
+   1,L,D
+   5,R,Z
    5
-   2,D
-   1
    1,D
-   8
-  20,R,D
-   2,R,J
-   8,R
-   3
-  19,L,D
-   6,D
+   2
+   1,D
+   1
+   2,D
+   7
+  18,R,D
+   1,R,J
+   7,R
+  24,L,D
+   4,D
+   5,D
    1,R,D
+   3,D
+  10,R,D
+  31,D
+   2,R,D
    9,D
    1,R,D
    1,D
    1,R,D
+   1,D
+   1,R,D
    6,D
-  11,R,D
-  10,L,D
-  32,D
    3,L,D
    5,L,D,X
+   6
    1,L
-  18
-  27,L,D
-  16,R,D
-  14,D
-   1,L
-   2
-   1,R,D
-   1,L
-   1,L,D
-   9,D
-   2
-   2,D
-   2,L
-   2
+  12
+  28,L,D
+  18,R,D
+   4
+   1,D
+   1
    3,D
-   3,R
-   1,L
+   7,L,D
+  16,D
+   5,R,D
+   4,R
    4,D,X
    1,R,J
    1,R,K

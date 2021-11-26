@@ -1,16 +1,28 @@
-#console load 6 -1080 -2632
-#Set,SuperDashing,true
-#play,Section Hollows,37
-
-console load 6
-Set,SuperDashing,true
 unsafe
+console load 6
+FileTime: 4:20.406(15318)
+Set,VariantMode,true
+Set,SuperDashing,true
    1
 
 #Start
-Read,6A,Start,6HC1
+Read,SD-6A,Start,lvl_04
 
 #lvl_04 (1)
+  18,J
+   9,L,K,G
+   4,L,J,G
+  11,L,Z
+   2,L,J
+   4,L,K,G
+   5,L,U,X
+   3,L,U
+   5,U
+   8
+   1,U
+   1
+   2,L,J,G
+   7,L
   10,L,Z
    1,L,J
    4,L
@@ -38,10 +50,9 @@ Read,6A,Start,6HC1
    1,L,J
    1,L,K,G
   10,L,D,X
-  40
+  43
 
 #lvl_04e
-   3
   11
    5,L,D,X
    2,L,U
@@ -215,8 +226,6 @@ AnalogMode,Ignore
 
 #lvl_04 (3)
   36
-Set,SuperDashing,true
-#Section Hollows
    5,R,U,X
   14,R,D
    2
@@ -237,5 +246,30 @@ Set,SuperDashing,true
    5,L
    2
 AnalogMode,Precise
+  10,L,Z
+   1,L,J
+   4,L
+   5,L,D,X
+   9,L
+   7,L,J,G
+   8,L
+  19
+   4,D,X
+   1,L
+   6
+   1,L,D
+   2
+   1,R,J
+   7,R
+   3,R,J
+   1,L,J
+   1,K,G
+   5,R,U,X
+   7,U
+  10,R,D
+   2,R
+   5,R,D,X
+  40
 
-Read,6A,6HC1
+#lvl_05
+Read,SD-6A,lvl_05
