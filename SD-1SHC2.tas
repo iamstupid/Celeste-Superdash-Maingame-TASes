@@ -1,10 +1,12 @@
 console load 1 1312 -1040
+FileTime: 0:05.746(338)
 Set,SuperDashing,true
    1
 
 #Start
-#lvl_6
   36
+
+#lvl_6
    5,R,U,X
    3,R
   13,U
