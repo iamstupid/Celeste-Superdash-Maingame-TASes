@@ -1,0 +1,56 @@
+Read,FullGameNewFileSD
+
+Read,SD-PrologueMenu,Start
+
+Read,Load1A
+
+Read,SD-1A,Start
+
+Read,LoadANoCollects
+
+Read,SD-2A,Start
+
+Read,LoadANoCollects
+
+Read,SD-3A,Start
+
+Read,LoadA
+
+Read,SD-4A,Start
+
+Read,LoadANoCollects
+
+Read,SD-5HC,Start,Return
+
+Read,LoadBFromA
+
+Read,SD-5B,Start
+
+Read,LoadAFromB
+
+Read,SD-6A,Start
+
+#Enter Summit
+ 165
+   1,J
+ 230
+   1,J
+  43
+   1,J
+  45
+   1,J
+  32
+
+Read,SD-7A,Start
+
+#Credits
+ 164
+   1,J
+  32
+   2
+   1,S
+   1,D,J
+  18
+   1
+
+Read,SD-Epilogue,Start

@@ -1,18 +1,18 @@
-FileTime: 2:38.032(9296)
-
 console load 2
+FileTime: 2:37.318(9254)
+Set,VariantMode,true
 Set,SuperDashing,true
    1
 
 #Start
-read,2HC,Start,Restart
+read,SD-2HC,Start,Restart
 
 #Restart
    1,Q
    1,J
   31
 
-read,2A,Start,lvl_d0 (1)
+read,SD-2A,Start,lvl_d0 (1)
 
 #lvl_d0 (1)
    5,D,X
@@ -191,7 +191,7 @@ read,2A,Start,lvl_d0 (1)
   40
 
 #lvl_d9
-read,2HC,lvl_d9,lvl_d0 (3)
+read,SD-2HC,lvl_d9,lvl_d0 (3)
 
 #lvl_d0 (3)
    1,R
@@ -272,8 +272,7 @@ read,2HC,lvl_d9,lvl_d0 (3)
    1,S
    1,D,J
   34
-   7
-   3
+  10
    5,D,X
    4,L
   15,R,D
@@ -517,8 +516,12 @@ read,2HC,lvl_d9,lvl_d0 (3)
    1,L,J,G
    3,R
    4
-#2SHC1
-read,2A,2SHC1,lvl_4
+  23,U,X
+   6,J
+  40
+
+#lvl_3x
+read,SD-2A,lvl_3x,lvl_4
 
 #lvl_4
    1,L,K,G
@@ -592,8 +595,6 @@ read,2A,2SHC1,lvl_4
    5,R,U,X
   13,U
    3
-   
-   
    2,R,U
    6,J,G
    2,L,J
@@ -603,7 +604,7 @@ read,2A,2SHC1,lvl_4
   40
 
 #lvl_6
-read,2A,lvl_6,lvl_8
+read,SD-2A,lvl_6,lvl_8
 
 #lvl_8
    1,L
@@ -735,10 +736,34 @@ read,2A,lvl_6,lvl_8
   14,D
    1,R,J
    2,J
-#2SHC2-1
-read,2A,2SHC2-1,2SHC2-2
+  11,L,D,X
+   1,R,J
+   7,R
+   6,L,D,C
+   1,L,J
+   1
+   7,L
+   2,L,K
+   6,L,U,Z
+   4,L,D
+   1,J,G
+   3,L,D
+   3,D
+   4,L,D
+   5,D,X
+   4,R
+  10,D
+  40
 
-#2SHC2-2
+#lvl_10
+   3,R
+   5,L,D,X
+  25,L
+  14,D,C
+  13,L,D,C
+   6,L,D,J
+  12,L,D
+   1,J
   25,D
    5,R,D,X
    5,D
@@ -771,8 +796,73 @@ read,2A,2SHC2-1,2SHC2-2
    4
    1,D
    2
-#2SHC3
-read,2A,2SHC3,lvl_12b
+   1,R,J
+   5,R,D,X
+   3,R,U
+   4,R
+  14,R
+   4,R,J
+   2,R,K
+  13,R,D,X
+   1,L,J
+   6,L,J
+   5,L,D,X
+   1,L,D
+  22
+   4,L,K
+   1,L,J
+   5,L,D,X
+   6,L
+   2,L,U
+   2,L,D
+   5
+   4,D,X
+   1,R
+   7
+   1,R,J
+   2,R
+   5,R,D,X
+   1,U
+  19
+   4,R,J
+   2,R,K
+   5,R,D,X
+   5,R
+  11,R,D
+   1,L,J
+   7,L
+   1,L,J
+   5,L,D,X
+   4,U
+   2
+  15,L,D
+   8,R,G
+   5,R,D,X
+   5,R,D
+   4,R,J
+   1,R,K
+   5,D,X
+   5,R
+  10
+   5,R,D,X
+  14,D
+   1,L,D
+   3
+   2,D
+   1,L,D
+   2,D
+   8,L,D
+   1,L
+   6,L,D
+   8,L,D,X
+   9,L,X
+   3,L,J
+   5,L,D,X
+  10,D,X
+  40
+
+#lvl_2
+read,SD-2A,lvl_2,lvl_12b
 
 #lvl_12b (1)
    5
@@ -905,7 +995,7 @@ read,2A,2SHC3,lvl_12b
  208
 
 #lvl_end_0
-read,2A,lvl_end_0,lvl_end_3b
+read,SD-2A,lvl_end_0,lvl_end_3b
 
 #lvl_end_3b (1)
    1,R,D

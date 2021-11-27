@@ -1,4 +1,6 @@
 console load 2
+FileTime: 1:43.649(6097)
+Set,VariantMode,true
 Set,SuperDashing,true
    1
 
@@ -7,44 +9,39 @@ Set,SuperDashing,true
 
 #lvl_start (1)
    4,D,X
-   1,L
-   1,J,F,160
-   8,R
-   1,R,J
-   5,R,U,X
-   4,U
-  40
-
-#lvl_0
-  11,U
-   2,L,U
+   2,L,J
+   2,L,K,G
+   8,L,J,G
+   9,L
+   5,L,D,X
+   3,L
+   2,L,D
    1
-   4,D,X
    1,L,U
-   5
-   1,U
-   5
-  40
-
-#lvl_start (2)
-   5
-  18,U,X
+   1,R,J
+   4,R
+   5,R,D,X
+   5,R
+  13,U
+   5,R,U,X
+  10,U
+   6,L,U
+   2,R,U
+   2,R
+  22,R,J
   40
 
 #lvl_s0
-  11,R
-  12,R,J,G
-   1,K,G
-   3,R,K
-   5,K
-   1,R,K
-   1,L,K
-   1,R,K
-  13,R,J,G
-   6,R,K,G
-   1,J
-   2,K,G
-  23,L,K
+  16,R
+  12,R,K,G
+  10,J,G
+   1,L,J
+   1
+  15,R,K,G
+   2,R,J,G
+   1,K
+   3,J,G
+  22,L,K
    5,L,U,X
    2,L
    8
@@ -91,8 +88,8 @@ Set,SuperDashing,true
    1,J
   31
 
-Set,SuperDashing,true
-Read,2A,Start,lvl_d2
+#Set,SuperDashing,true
+Read,SD-2A,Start,lvl_d2
 
 #lvl_d2
   10,D
@@ -227,4 +224,5 @@ Read,2A,Start,lvl_d2
    3,L,U
   40
 
-Read,2A,lvl_1 (2)
+#lvl_1 (2) 
+Read,SD-2A,lvl_1 (2)

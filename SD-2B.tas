@@ -1,12 +1,12 @@
-ChapterTime: 1:03.393(3729)
-
 console hard 2
+ChapterTime: 1:03.393(3729)
 Set,SuperDashing,true
    1
 
 #Start
-#lvl_start
  190
+
+#lvl_start
    4,D,X
    1,R,X
    1,R,D,J
