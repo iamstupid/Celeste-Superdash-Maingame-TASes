@@ -1,5 +1,5 @@
 console load 10
-ChapterTime: 4:06.143(14479)
+ChapterTime: 4:06.092(14476)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -1386,23 +1386,29 @@ Set,SuperDashing,true
    5
    1,R,D
   14,R
-   4,L,J
-   5,R,D,X
-  10,R,U
-   5,L,U,X
-  11,L,D
-  15
+   4,J
+   4,X
+   1,R,D
+  10,D
+   4,D,X
+   1,L,U
+  22,L,D
    4,L,J
    1,L,K
    5,L,D,X
-   9,D
-  10,L
-   5,L,D,X
+   6,D
+  11,L
+   4,L,U,X
+   1,L,D
+   2
+   1,L
+   1
+   3,L
+   1
+   1,L
+   1
    1,L,U
-   4
-   6,L,U
-   3
-  11
+  12
    4,L,J
    1,L,K
    5,L,U,X
@@ -1412,10 +1418,9 @@ Set,SuperDashing,true
    4,R,D,X
    1,L,U
    1
-   6,L,D
+   5,L,D
    1
-   1,L,D
-   1
+   3,L,D
    5,L,U,X
   17,U
    5,U,X
@@ -1477,7 +1482,7 @@ Set,SuperDashing,true
    5,L,D,Z
    9
 #Spinner Cycle
-   0
+   2
 #g-06 h-00
    1,R,J
    5,R,D,X
@@ -2536,7 +2541,7 @@ AnalogMode,Precise
    3,R
    6
 #Lightning Cycle
-   
+   3
 #0~9
 #j-00b j-02 j-07
    1,L,J
@@ -2556,7 +2561,7 @@ AnalogMode,Precise
   12
 #alt cycle point
    
-#
+#0~5
    1,R,J
    5,R,D,X
    1,R,D
@@ -2634,7 +2639,6 @@ AnalogMode,Precise
    2
    5,R,U,X
   40
-
 
 #lvl_j-02
    1,R,U
@@ -2793,7 +2797,7 @@ AnalogMode,Precise
   23,U,X
 
 #Optional Waiting
- 100
+ 150
    1,J
  180
 #
@@ -2803,6 +2807,8 @@ AnalogMode,Precise
 
 #end-granny
  122
+
+#granny-dialogue
 # 800
 #   1,O
 # 200
@@ -2854,6 +2860,7 @@ AnalogMode,Precise
 # 200
 #   1,O
 # 200
+
    1,S
    1,D,J
   18
