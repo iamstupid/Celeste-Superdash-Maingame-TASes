@@ -1,5 +1,5 @@
 console load 10
-ChapterTime: 4:41.656(16568)
+ChapterTime: 4:41.401(16553)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -23,7 +23,7 @@ Read,SD-9.tas,Start,Farewell
    3,R
    6
 #Lightning Cycle
-   9
+   3
 #0~9
 #j-00b j-02 j-07
    1,L,J
@@ -42,7 +42,7 @@ Read,SD-9.tas,Start,Farewell
    5,L,D,X
   12
 #alt cycle point
-   3
+
 #
    1,R,J
    5,R,D,X
@@ -593,10 +593,9 @@ Read,SD-9.tas,Start,Farewell
    5,R,J
    5,U,X
   18
-  38
 
 #Optional Waiting
- 100
+ 120
    1,J
  180
 #
