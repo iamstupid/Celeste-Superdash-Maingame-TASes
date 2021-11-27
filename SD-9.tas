@@ -2282,16 +2282,6 @@ AnalogMode,Precise
  348
   40
 
-#Time comments
-#in stubbornness:
-#Timer(IGT/RTA frames)
-#starting from the
-#Play command
-# use RTA frames for
-# cassette cycles
-# (including room
-#  entry / exit)
-
 #lvl_i-00
    1,S
    1,D,J

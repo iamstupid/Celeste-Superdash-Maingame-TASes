@@ -1,6 +1,3 @@
-#console load 10 43574 -8719 250 -250
-#play,Section Stubbornness,38
-
 console load 10
 ChapterTime: 4:42.795(16635)
 Set,VariantMode,True
@@ -2253,21 +2250,9 @@ AnalogMode,Precise
    7,U
    1
   11,R,D
-  19,R
-#Section Stubbornness
-  13,R
+  32,R
  348
   40
-
-#Time comments
-#in stubbornness:
-#Timer(IGT/RTA frames)
-#starting from the
-#Play command
-# use RTA frames for
-# cassette cycles
-# (including room
-#  entry / exit)
 
 #lvl_i-00
    1,S
