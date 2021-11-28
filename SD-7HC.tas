@@ -1,5 +1,5 @@
 console load 7
-ChapterTime: 6:03.902(21406)
+ChapterTime: 6:02.372(21316)
 Set,SuperDashing,true
    1
 
@@ -170,73 +170,93 @@ Read,SD-7A,lvl_b-00,lvl_b-02
    8,L,U
    1
   14,L,D
-  11,D,X
-   4,R
+   5,D,X
+   9
+   1,R
    5,R,D,X
    1,R
-   8
-  10,R,U
+   7
+   5,R,U
+   1
+   5,R,U
    1
    6,R
    5,R,U,X
    1,U
+   6,R,D
+   1,R,D,J,G
+   2,R
+   5,R,U,X
+  13,R,D
+   5
+   8,R
+   1,S
+   1,D,J
+   1,O
+  68
+   5,U,Z
+   9,R
+   5,L,U
+  40
+
+#lvl_b-02c
+   1,J
+   1,K
+   5,R,K
+   1,J
+   2,L,J
    1
-   9,R,D
+   5,U,X
+  12
+   1,R
+   5,R,U,X
+   6,R,D
+   1
+   6,R,D
+   5,R,D,X
+   1,R,D,J
+   3,R
+  40
+
+#lvl_b-05
+   5,R
+   3,R,D,J
    5,R,D,X
    3,D
+   1
+   6,R
+   5,R,D,X
+   1,D
    6,R,U
-   5
-   1,R,J
-   5,J
-   8,L,D,X
-   5,D
-   2
-   7,L,U
-  10
-  10,D,X
-  40
-
-#lvl_b-02 (2)
-   7,R,D
-   5,R,D,X
-   9,R,U
-   1,R,J
-   5,R,D,X
-   3
-   1,R,D
-   6
-   5,R,D,X
-  40
-
-#1v1_b-03
-  10
-   5,R,U,X
-   1,R
-   4,U
-   7,U
-   1,J
-  20,L,K,G
-   4,D,X
+  12
+  22,R,D
+   2,R
+   5,L,U,X
+   9,L,D
+   3,L
    1,L,U
-   4,L
+   5,L,J,G
+   5,L
+  13
+   5,R,U,X
+   3,R
+   1,R,J,G
    6
-   9,U
-   2,R,J,G
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-   1,R,J
-   1,L,J
-  12,L,K
-  12,R,J
-   2,R,K,G
+   1,J
+   3,R,J
+  10,R
+   3
+  23,R,U,X
+   4,D,C
+   1,R,U,C
+   7,R
+   9,R,J,G
+   3,R,K,G
+   5,R,J,G
   40
 
-Read,SD-7A,lvl_b-05,lvl_c-04
+#lvl_b-06
+Read,SD-7A,lvl_b-06,lvl_c-04
 
 #lvl_c-04
    2,R
@@ -721,7 +741,8 @@ Read,SD-7A,lvl_d-09,lvl_e-00b
 #lvl_e-00b
   78
 #Spinner Cycle
-   1
+
+#
 
 Read,SD-7A,Section 2000m,lvl_e-00
 
