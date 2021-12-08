@@ -1,5 +1,5 @@
 console load 5
-ChapterTime: 3:28.165(12245)
+ChapterTime: 3:27.587(12211)
 Set,SuperDashing,true
    1
 
@@ -7,12 +7,14 @@ Set,SuperDashing,true
 Read,SD-5A,Start,lvl_b-02
 
 #lvl_b-02 (1)
-   2
    5,R,D,X
-  14,D
+   3,D
+   1
+   8,R
    1,L,J
-  15,L,D,X
-  13,L,D,C
+   5,L,D,X
+   8,D
+  19,L
    4,R,X
   50
    5,R,Z
