@@ -1,5 +1,5 @@
 console load 5
-ChapterTime: 2:43.846(9638)
+ChapterTime: 2:43.812(9636)
 Set,SuperDashing,true
    1
 
@@ -246,13 +246,12 @@ Set,SuperDashing,true
    1,S
    1,D,J
   34
-   2,J
-   5,R,D,X
-   9
+   7,R,D,X
+   7
    1,R,J
    5,R,D,X
   10,D
-   5,R,D
+   5
    6,L,D,X
    1,R,J
    7,R
