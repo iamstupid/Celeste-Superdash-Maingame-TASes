@@ -1,5 +1,5 @@
 console load 10
-ChapterTime: 4:06.092(14476)
+ChapterTime: 4:03.525(14325)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -607,14 +607,14 @@ Set,SuperDashing,true
    5,R,U,X
    3,R
   45,U,C
+
+#Remembered
+
   60,L,U,X
   40
  
 #lvl_e-00y
   52
-
-#Remembered
-
   21,U,X
   40
 
@@ -773,36 +773,37 @@ Set,SuperDashing,true
   40
 
 #lvl_e-02
-  11,L
-   1,L,J,G
-  15,L,Z
-   1,D
+  12,L
+   5,L,Z
+   1,L,D
+   8
    1,R,J
-   8,R
-   2,R,J
-   5,R,U,X
-   6,U
+   5,R,D,X
+   5
+   3,U
    1
-   2,R
-   9,R,D
+   1,R,D
+   4,R,D,X
+   1,R,U
+   7,U
+  11,R
   21,R,G
    1,L
    5,R,D,X
-  12,R
-   1,R,U
-   5
-   1,R,U
+   5,R,U
+  15
+   2,R,D
+  14,R,D
+   5,R,U,Z
+  19,U
+  29,L
+   5,R,Z
+   1,U
    1
-  18,R,D
-
-   5,R,U,X
-  15,U
-  22,L
-   9
-  18,R,Z
-   2,R,U
-   3,R,D
-   5,R
+   1,R,D
+  12
+   1,R,D
+   4,R
    1,R,J
    5,R,U,X
    8,R,D
@@ -1981,7 +1982,7 @@ Set,SuperDashing,true
    7,R
 #Spinner Cycle
 #for h-10
-   0
+   2
 #
    7,R,D,J,X
    5,R
@@ -2175,110 +2176,88 @@ Set,SuperDashing,true
    1
    1,R,K,G
    4,R
+   1
    1,K
    1
-   5,R
+   4,R
    5,R,Z
    2
    2,R,D
    2,R,U
    6
-   5,R,D,X
-  12
-   1,R,U
+   4,R,X
+   1,R,D
+  13
+   2,R,U
    1
    1,R,U
-   3
-   7
+   1,R,D
+   4
+   1
+   2,R
    5,R,U,Z
   13,U
-   1
-   1,R
+   2,R
    4,R,J,G
    1,R
    5,R,D,X
    3,R,D
+   1
+   1,R,U
+   1
+   1,R,U
    2
-   2,R,U
-   3
   43
 
 #lvl_h-10
-   5
-   5,R,D,X
-   5,R,U
-   5,R,D
-   1
-   3,R,U
-   1,R,D
-   1
-   3,R,D
-   5,R,U,Z
    4
-   1,R,D
-   1
-   1,R,D
-   1
-   6,R,D
-   5,R,U
-   1,R
-  65
-   7,R,U
-AnalogMode,Precise
-   5,R,U,X
-   9,R,D
-   1
-   5,R,U,X
-   8,R,D
-  30
-   7,R,D
-   5,R,U,X
-   8,R,D
-   2
    5,R,D,X
-   9,R,U
-  28
-   7,R,D
-   5,R,D,X
-   9,R,U
-   1
-   5,R,U,X
-  13,R,D
-   5,R,U
-  21
-   7,R,D
-   5,R,D,X
-   3
-   9,R,U
-   4,R,D,X
-   1,R,U,X
+   2,R,U
+   8
    1,R,U
-  13,R,D
-   4,R,U
-   1,J,G
-  10,R
-   4,L
-   4
+   2
+   2,R,D
+   2
+   2,R,D
+  31,R
+   5,R,U,Z
+   5,U
+   3
+   6,R
+   2,R,D
+   3
+   5,R
+  71
+   1,R,U
+   5,R,U,Z
+   1,U
+   2
+   9,R,D
+   4,R,D,X
+   1,R,U
+  14,R,D
+   2,R
+   5,R,D,X
+   1
+   9,D
    5,L,D,X
    6,L
-   1,J
-   3,R,J
-   5,R,D,X
-   3,R,U
-   1
+   4,R,J
+   5,R,U,X
+   7,R,D
    1,R,U
    3
    1,R,J,G
-   1,R,K,G
-   1,R
+   2,R,K,G
    1,R,J,G
    1,R,K,G
    5,R,U,X
-   4,R,U
+   6,R,U
    2,R,D
-   7
-   6,R,D
-  21,R
+   2
+   8,R,D
+   1
+  22,R
  348
   40
 
@@ -2531,7 +2510,7 @@ AnalogMode,Precise
    3,R
    6
 #Lightning Cycle
-   3
+   2
 #0~9
 #j-00b j-02 j-07
    1,L,J
