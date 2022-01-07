@@ -1,10 +1,12 @@
 console hard 6
+ChapterTime: 2:52.244(10132)
 Set,SuperDashing,true
    1
 
 #Start
-#Spinner cycle
+#Spinner Cycle
    0
+
 #lvl_a-00
    4,D,X
   10,L
@@ -1036,24 +1038,17 @@ AnalogMode,Precise
    1,K,G
    1,R,K
    6,L,K
-   4,J,G
+   6,R,J
+   2,K
+   4,R
    1,R,J
-   2,R,J
-   1,R
-   2,R
-   1,L
-   1,K,G
-   1,R
-   3,R
-   1,L
-   1,J,G
-  35,R,D
-   4,D,X
-   1,R
-   3
-  15
-   1,R,D
-  10,R
+  27,R,D
+   5,R,D,X
+   2,D
+  11,R
+   2,R,U
+   4
+  17,R,D
   48,L
    5,R,D,X
    1,R
@@ -1577,4 +1572,3 @@ AnalogMode,Ignore
    5,R,U,X
    7,R,D
  143,R
-#172.346(10138)
