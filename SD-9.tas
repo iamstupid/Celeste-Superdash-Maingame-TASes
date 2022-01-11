@@ -1,5 +1,5 @@
 console load 10
-ChapterTime: 4:03.525(14325)
+ChapterTime: 4:03.270(14310)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -540,7 +540,7 @@ Set,SuperDashing,true
    3
 
 #Spinner Cycle
-   1
+   0
 #e-06
 
    5,R,X
@@ -558,59 +558,63 @@ Set,SuperDashing,true
    1,R,K,G
    9,R
    5,L,D,Z
-   6
+   7
    1,L,U
-   1
    2,R,J
    5,R,U,Z
    5,U
    2
    9,R
-   5,R,D
+   3,R,D
    1,R,G
    1,R,J,G
-   1,R,K,G
    1,R
+   1,R,K,G
    1,R,J,G
-   2,R,K,G
+   1,R
+   1,R,K,G
    5,R,U,X
    7,R,D
   40
 
 #lvl_e-00yb
-   9,R,D
+   7,R,D
+   1
+   1,R
    5,R,D,X
-   3,R,D
-   3,R,U
-   1
-   3,R,U
-   2,R,D
-   5,R,U,X
-   1
-  10,U
-   1
-   4,U
-   1
-   4,U
-   5,U,X
-   4,L,U
-  17
-   4,D,C
-   1,U,C
-   4,L,U
-  13
-   5,L,X
-   5,L,U
-   1
-   5,L,D
-   2
-   4,D,X
+   2,D
+   2,R,U
+   6
+   4,X
+   1,R,U
+  20,U
    1,L,U
-   3,U
-   6,U
-   9,R,U
+   5,U,X
+   1,R
+   2
+  10,R
+   8,L,U
+   4,J
+   5,L,Z
+   2,U
+   1,L,J,G
+   2,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,K
+   2
+   5,L,U,X
+   2,U
+   1
+  11,L,D
+   4,L,D,X
+   1,L,U
+   2
+  12,U
    5,R,U,X
-   3,R
+   3
+   1,R
+   4
   45,U,C
 
 #Remembered
@@ -1088,27 +1092,37 @@ Set,SuperDashing,true
    1,R,D
    3,R
    5,R,D,X
-   8,R,U
-   6,R,D
+   7,R,U
+   2
+   7,R,D
+   1,R,J,G
    5,R,U,X
+   2
    2,R,D
-   6
-   4,R,D
-   7,R,D,X
+   1
+   2,R,D
+   2
+   1,R,D
+   5,R,D,X
+   2
   40
 
 #lvl_f-01
-   8
+   2
+   1,R,D
+   5
    5,R,U,X
    9,U
-   7,R
-   5,R,U,X
+   1
+   4,R
+   4,R,X
+   1,R,U
    3,U
   40
 
 #lvl_f-02
-   6,U
-   1
+   4,U
+   3
    1,S
    1,D,J
   34
@@ -1485,7 +1499,7 @@ Set,SuperDashing,true
    5,L,D,Z
    9
 #Spinner Cycle
-   1
+   2
 #g-06 h-00
    1,R,J
    5,R,D,X
@@ -2234,32 +2248,29 @@ Set,SuperDashing,true
    5,R,U,Z
    1,U
    2
-   9,R,D
+   7,R,D
    4,R,D,X
    1,R,U
-  14,R,D
-   2,R
+  10,R,D
+   7
    5,R,D,X
-   1
-   9,D
+   3,D
+   7
    5,L,D,X
-   6,L
-   4,R,J
-   5,R,U,X
-   7,R,D
-   1,R,U
+   3,L
    3
-   1,R,J,G
-   2,R,K,G
-   1,R,J,G
-   1,R,K,G
+   1,J
+   3
    5,R,U,X
-   6,R,U
-   2,R,D
-   2
-   8,R,D
-   1
-  22,R
+   1,U
+   5,R,D
+  12
+   4,X
+   1,R,U
+   5,U
+   9,R,D
+   5
+  19,R
  348
   40
 
@@ -2512,7 +2523,7 @@ Set,SuperDashing,true
    3,R
    6
 #Lightning Cycle
-   8
+   4
 #0~9
 #j-00b j-02 j-07
    1,L,J
