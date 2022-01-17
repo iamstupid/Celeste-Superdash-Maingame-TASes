@@ -741,11 +741,11 @@ Read,SD-7A,lvl_d-09,lvl_e-00b
 
 #lvl_e-00b
   78
-#Spinner Cycle
+#wait-1
 
-#
+#wait-1-end
 
-Read,SD-7A,Section 2000m,lvl_e-00
+Read,SD-7A,wait-1-end,lvl_e-00
 
 #lvl_e-00 (1)
    1,J,G
@@ -998,6 +998,7 @@ Read,SD-7A,lvl_e-02,lvl_f-00
   15,U,X
   40
 
+#lvl_f-07
 Read,SD-7A,lvl_f-07,lvl_g-00b
 
 #lvl_g-00b
