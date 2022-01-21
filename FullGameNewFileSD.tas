@@ -1,3 +1,5 @@
+#at a new file
+
 Set,DisableScreenShake,true
 Set,DisableFlashes,true
 Set,SpeedrunClock,2
@@ -7,6 +9,8 @@ Unsafe
    1,D
    1,J
   60
+#Filename:
+#SuperDashing
    1,D
    1,F,180
    1,J

@@ -181,10 +181,10 @@ Set,SuperDashing,true
  158
    1,S
    1,D,J
- 141
+ 145
 
 #lvl_b-00
-  76
+  72
 #Section 500m
    1,R,J
    6,J
@@ -411,10 +411,10 @@ Set,SuperDashing,true
  216
    1,S
    1,D,J
- 141
+ 145
 
 #lvl_c-00
-  76
+  72
 #Section 1000m
    2,R,J
   13,R,Z
@@ -707,10 +707,10 @@ Set,SuperDashing,true
  194
    1,S
    1,D,J
- 141
+ 145
 
 #lvl_d-00
-  81
+  77
 #Section 1500m
    5,R,D,X
    5
@@ -1027,10 +1027,10 @@ Set,SuperDashing,true
  216
    1,S
    1,D,J
- 141
+ 145
 
 #lvl_e-00b
-  78
+  74
 #wait-1
 
 #wait-1-end
@@ -1413,10 +1413,10 @@ Set,SuperDashing,true
  198
    1,S
    1,D,J
- 141
+ 145
 
 #lvl_f-00
-  78
+  74
 #Section 2500m
    5,L,U,X
    1,L
@@ -1810,10 +1810,10 @@ Set,SuperDashing,true
  176
    1,S
    1,D,J
- 142
+ 145
 
 #lvl_g-00
-  75
+  72
 #Section 3000m
 #CP-30
   19,U,X
