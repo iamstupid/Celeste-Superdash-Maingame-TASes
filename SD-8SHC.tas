@@ -1,0 +1,13 @@
+console load 9
+ChapterTime: 1:43.564(6092)
+Set,SuperDashing,true
+   1
+
+#Start
+read,SD-8SH.tas,Start,lvl_d-07
+
+#lvl_d-07
+read,SD-8A.tas,lvl_d-07,lvl_d-10c
+
+#lvl_d-10c
+read,SD-8HC.tas,lvl_d-10c
