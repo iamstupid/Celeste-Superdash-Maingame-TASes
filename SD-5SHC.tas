@@ -1,6 +1,6 @@
 #console wipedebug
 console load 5
-ChapterTime: 6:10.872(21816)
+ChapterTime: 6:10.821(21813)
 Set,SuperDashing,true
    1
 
@@ -360,6 +360,6 @@ read,SD-5A.tas,lvl_void,lvl_c-08b
 #lvl_c-08b
 read,SD-5S.tas,lvl_c-08b,wait-1
 #wait-1
-   0
+   1
 #wait-1-end
 read,SD-5S.tas,wait-1-end
