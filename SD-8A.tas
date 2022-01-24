@@ -7,7 +7,7 @@ Set,CheatMode,true
 #Start
   54
 
-#lvl_00(1)
+#lvl_00 (1)
    4,D,X
    1,L
    1,L,D,J
@@ -41,7 +41,7 @@ Set,CheatMode,true
    5,R,D,X
   40
 
-#lvl_00(2)
+#lvl_00 (2)
    2,R,U
    2
    2,R,D
