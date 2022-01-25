@@ -1,6 +1,6 @@
 #console wipedebug
 console load 7
-ChapterTime: 7:17.597(25741)
+ChapterTime: 7:05.833(25049)
 Set,SuperDashing,true
    1
 
@@ -1337,91 +1337,19 @@ read,SD-7A,lvl_c-00,lvl_c-03
    5
   40
 
-#lvl_d-03 (1)
+#lvl_d-03
    2
    1,R,D
    2
    5,R,D,X
-  10,U
-   5,L,U,X
-   6
-  16,U
-  40
-   
-#lvl_d-03b
-   2,L
-   7,R,J
-   2,R
-   5,D,X
-   1,R,J,G
-   5,R
-   4
-   4,D,X
-   1,R
-   1,R,D,J
-   8,R
-   1,R,J
-   5,R,D,X
-   5
-   3,R,U
-   4,R,D
-   4,L,D,X
-   1,R,U
-   1,U
-   4,R,D
+   7,U
+   3,R,D
    1
-   1,R,D
-   2,R,U
-   6
-   4,R,D
-   5,R,D,X
-   6,R,D
-   1,R,U
-   4
-   7,R,U
-   1,L,J,G
-   5,R,J
-   5,R,U,X
-   3,U
-   5
-   1,R,D
-   4
-   6,R,D
-   3,R
-   6,R,J
- 257
-   1,J
- 123
-   5,L,D,X
-   1,D
+  10,R,D
+   5,D,X
    9
-   5,L,J
-   6,L
-   9,D,X
-  40
-   
-#lvl_d-03 (2)
-  27,L,D
-   5,L,D,X
-   4,L
-   5
-   1,R,J
-   5,R,D,X
-   3
-   1,R,D
-  11
-   5,R,U,X
-   4,U
-   1
-   9,R,D
-   1
-   2,R,D
-   2
-   5,R,J
-   4,R
-   5,D,X
-  14
    1,L
+   2
    1,R,J
    5,R,D,X
    2,R,D
@@ -1446,42 +1374,42 @@ read,SD-7A,lvl_c-00,lvl_c-03
    4,R
    2
    1,R
-   2
-   1,R,J
-   5,R,D,X
-   5
-   6,U
-   1
-   8,R,D
-  12,R,J,G
-  10,R,K,G
-   1,J
-   1,L,J
-   4,R,J
-   1,R
+   3
    5,R,Z
-   9
+   1,R,D,J
+   8,R
+  15,R,J
+  12,R,K,G
+   4,R,J,G
+   8,K
+   5,R,Z
    1,U
-   5,D,X
    2
+   1,R,D
+   4
+   2,U
+   5,D,X
+   6
    1,L
-   1
-   1,L,J,G
-   1,L
-   1
-   1,L
+   8,L,J,G
    4
    1,L
+   2
+   1,L
    1,R
-  14,R,D
-  14,R
+  25,R,D
    5,R,U,Z
+   1,R
    1
   11,U
-   1,L,U
-   4
-   7,R,J
-  10,L,Z
+   3,L,U
+   1,R,U
+   1
+   4,L,J
+  13
+   1,J
+   2
+  11,L,Z
    5,R,J
    5,R,U,X
    8,R,D
@@ -1491,7 +1419,19 @@ read,SD-7A,lvl_c-00,lvl_c-03
   40
 
 #lvl_d-04
-read,SD-7HC,lvl_d-04,lvl_d-05 (1)
+   4,R,D
+   5,R,D,X
+   1,R,U
+   6
+   2,R,D
+   1
+   4,L,D,X
+   1,R
+   3
+   1,R,D
+   6
+   5,R,D,X
+  40
 
 #lvl_d-05
    4
@@ -1786,7 +1726,7 @@ read,SD-7HC,lvl_d-04,lvl_d-05 (1)
   74
 #Section 2000m
 #wait-1
-   1
+   0
 #wait-1-end
 read,SD-7A,wait-1-end,lvl_e-05
 
