@@ -1,6 +1,6 @@
 #console wipedebug
 console load 5
-ChapterTime: 5:43.723(20219)
+ChapterTime: 5:42.907(20171)
 Set,SuperDashing,true
    1
 
@@ -1793,49 +1793,7 @@ Set,SuperDashing,true
   40
 
 #lvl_b-19
-read,SD-5A.tas,lvl_b-19,lvl_c-08b
-
-#lvl_c-08b
-   1,R
-   5,R,D,X
-  16,D
-   5,R,U,X
-   3,R
-   1
-   8,U
-   1,J
-  11,D
-   6,R,D
-   2,D
-   5,L,D,X
-   2
-   1,L,D
-   2
-   5,R,J
-   5,R,U,X
-   1,R
-   1
-   7,U
-   6
-   1,R,J,G
-  11,R
-  19,D,X
-   1,R
-   2
-   1,R,J
-   4,D,X
-   1,R,U
-   2,R
-   4,U
-   1
-   7,U
-   3
-   1,R,J,G
-   7,R
-   4,D,X
-   1,R,J
-   2,R
-  40
+read,SD-5A.tas,lvl_b-19,lvl_c-08
  
 #lvl_c-08
    5,R
