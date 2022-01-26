@@ -1,6 +1,6 @@
 #console wipedebug
 console load 5
-ChapterTime: 5:42.907(20171)
+ChapterTime: 5:42.499(20147)
 Set,SuperDashing,true
    1
 
@@ -1144,24 +1144,25 @@ Set,SuperDashing,true
    7
    1,D
    6
-   5,R,J
-   5,R,U,Z
-   9,U
+   7,R,J
+   5,U,Z
+   3,R,U
+   1
+   2,L,U
+   1
+   1,L,U
+   1
   40
 
 #lvl_b-20 (4)
-   2,L
-   1,R,J,G
-   5,J
-   3
-   5,R,U,X
-   4,R
-   1,R,J,G
-   7,R
-   5,L,Z
-   2
-   1,L,D
+   1,J
+  11,R,J
+   3,R
    1
+   5,L,Z
+   1
+   1,L,D
+   2
    1,R,J
    7,R
    1,R,J
@@ -1185,6 +1186,7 @@ Set,SuperDashing,true
    2,L
    1,L,J
    2,L
+#1:51.758(6574)
    5,R,Z
    1,D
    1
@@ -1267,20 +1269,24 @@ Set,SuperDashing,true
    4
    1,L,J,G
    7,L
+   5,L,X
+   5
+   7,L,J
    5,U,X
    2,L
-   6
-   1,L
-   9
-   9,L,J,G
-   1
-   4,L,K,G
-   7,L
-   4,L,Z
-   2,L,J
-   9,L
+   5
+   2,R,U
+   4
+   2,R
+   4
+   2,R,J,G
+   2
+   5,L
    5,L,Z
-   1,J,F,160
+   1
+   1,L,D
+   2
+   1,R,J
    7,R
    6,R,J
    5,R,U,X
@@ -1320,32 +1326,27 @@ Set,SuperDashing,true
    3,R,D
    1
    2,R
-   7
-   1,L,J
-   5,L,D,X
-   8,D
-  11,L
-   8,L,D
-  18,R,D,X
-   5,D,C
-   9,R
-   7
+   4
+   5,D,X
+   5,L,D
+   5
+   5,R,D
    1,L,D
-   1
-  26,L,D
-   6,R,D
-   2
+   3
+   6,L,D
+  30,R,D
+  31,L,D
+   4,D
   40
 
 #lvl_b-10
    5,D,X
-   2
+   5
    7,L
-   1
-  11,D
-   9,L,D
-  34,L
-   
+   4,R,D
+   3
+  11,L,D
+  32,L
   11,L,D
    1,D
    1
@@ -1378,8 +1379,8 @@ Set,SuperDashing,true
    1,G
    1
    1,G
-   2
-   7,D,J
+   5
+   6,D,J
    1,K
   13,L,Z
    2,L,J
@@ -1400,8 +1401,7 @@ Set,SuperDashing,true
    1,D
    1
    1,D
-   1
-   1,D
+   2
    1,S
    1,D,J
   69,O
@@ -1796,6 +1796,7 @@ Set,SuperDashing,true
 read,SD-5A.tas,lvl_b-19,lvl_c-08
  
 #lvl_c-08
+***
    5,R
    7,R,J
    1,R,K,G
@@ -1823,6 +1824,7 @@ read,SD-5A.tas,lvl_b-19,lvl_c-08
    6,R
   40
 
+#lvl_c-10
    2,R
    1,R,J
    2,R,K,G
@@ -2192,7 +2194,7 @@ read,SD-5A.tas,lvl_b-19,lvl_c-08
    3,R,J,G
    7,R
 #wait-1
-   2
+   0
 #wait-1-end
    4,D,X
    3,R,J
