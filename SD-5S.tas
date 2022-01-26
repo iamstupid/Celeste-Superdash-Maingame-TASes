@@ -1087,13 +1087,16 @@ Set,SuperDashing,true
    1,R
    1,R,J
    5,R,D,X
-   1,U
-   1
+   2
   40
 
 #lvl_b-20 (2)
-  17,D
-  14,R,D
+   1
+   5,D
+   1
+   1,R,U
+   5,R,D,X
+  19,D
    1,L,J
   10,L
    5,D,X
@@ -1101,10 +1104,9 @@ Set,SuperDashing,true
   40
 
 #lvl_b-01 (2)
-   3
-   1,R
-   1
-   1,R
+   2
+   2,R
+   2
    5,Z
   17
    1,R,U
@@ -2193,7 +2195,7 @@ read,SD-5A.tas,lvl_b-19,lvl_c-08
    3,R,J,G
    7,R
 #wait-1
-   0
+   2
 #wait-1-end
    4,D,X
    3,R,J

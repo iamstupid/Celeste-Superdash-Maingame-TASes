@@ -360,6 +360,6 @@ read,SD-5A.tas,lvl_void,lvl_c-08
 #lvl_c-08
 read,SD-5S.tas,lvl_c-08,wait-1
 #wait-1
-   2
+   1
 #wait-1-end
 read,SD-5S.tas,wait-1-end
