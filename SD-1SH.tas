@@ -1,9 +1,17 @@
 console load 1 1312 -1040
-FileTime: 0:05.525(325)
+FileTime: 0:22.899(1347)
 Set,SuperDashing,true
    1
 
 #Start
+
+Read,SD-1HC0.tas,lvl_6 (2),lvl_6a (2)
+
+Read,SD-1HC0.tas,lvl_6a (1),Return to Map
+#Restart
+   1,Q
+   1,J
+  31
   36
 
 #lvl_6
@@ -60,6 +68,7 @@ Set,SuperDashing,true
    5,R,D,X
   15
    5,L,D,X
+#Return
    1,S
    1,U,J
    1,O
