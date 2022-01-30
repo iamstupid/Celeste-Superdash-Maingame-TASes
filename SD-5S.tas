@@ -565,7 +565,7 @@ Set,SuperDashing,true
    1
   40
 
-#lvl_a-12
+#lvl_a-12 (1)
    2
    3,R,U
    1
@@ -623,7 +623,7 @@ Set,SuperDashing,true
    1
   40
 
-#lvl_a-12
+#lvl_a-12 (2)
    1
    4,D
    2,R,U
@@ -695,7 +695,7 @@ Set,SuperDashing,true
   11,L,D
   40
 
-#lvl_a-12
+#lvl_a-12 (3)
   11,D
    5,L,D
   39,D
@@ -1188,7 +1188,6 @@ Set,SuperDashing,true
    2,L
    1,L,J
    2,L
-#1:51.758(6574)
    5,R,Z
    1,D
    1
@@ -1608,7 +1607,7 @@ Set,SuperDashing,true
    2,U
   40
 
-#lvl_b-11 (2)
+#lvl_b-11 (3)
    2,U
    2,L,D
    1
@@ -2592,7 +2591,7 @@ read,SD-5A.tas,lvl_b-19,lvl_c-08
    1,L
   40
 
-#lvl_d-19b
+#lvl_d-19b (1)
    5,L,D,X
   10,D
    1,R,J
@@ -2700,7 +2699,7 @@ read,SD-5A.tas,lvl_b-19,lvl_c-08
   11,R,J
   40
 
-#lvl_d-19b
+#lvl_d-19b (2)
 read,SD-5A,lvl_d-19b (2),lvl_e-06
 
 #lvl_e-06
