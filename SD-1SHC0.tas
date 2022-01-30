@@ -1,6 +1,6 @@
 #console wipedebug
 console load 1
-FileTime: 1:20.070(4710)
+FileTime: 1:20.036(4708)
 Set,SuperDashing,true
    1
 
@@ -59,14 +59,15 @@ Set,SuperDashing,true
    3,U
    1
    5,U
-   1
-   2,R,D
-   7,R,J,G
-   5,R
-   1,R,J
-
+   1,R,D
+   2
+   2,R,J,G
+   1,J
+   4,R,J,G
    1,R
-   5,J
+   5,R,J
+   3,R,J
+   3,J
    3,R,K,G
    1,J,G
    2,L,J
@@ -75,7 +76,7 @@ Set,SuperDashing,true
    2,R,K
    1,J
   11,L,K
-   8,J,G
+   7,J,G
    7,L
   14,U,X
    5,L
