@@ -147,4 +147,22 @@ Read,SD-8C,Start
 
 Read,Load9From8C
 
-Read,SD-9.tas,Start,EndScreen
+Read,SD-9.tas,Start
+
+#Epilogue
+  51
+Add 58
+   1,S
+  52
+   1,X
+  42
+   1,L
+   9
+   1,L
+   9
+   1,J
+  43
+   1,J
+  46
+
+Read,SD-Epilogue,Start
