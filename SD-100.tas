@@ -156,12 +156,7 @@ Read,LoadC,Core
 
 Read,SD-8C,Start
 
-Read,Load9From8C,Start,Postcard
-
-#Uncomment if variants aren't unlocked
-#Read,Load9From8C,Postcard,Resume
-
-Read,Load9From8C,Resume
+Read,Load9From8C
 
 Read,SD-9S.tas,Start
 

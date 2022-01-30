@@ -206,7 +206,9 @@ Read,SD-1A,Start,lvl_6
   31
 
 #go to Crossing
- 121
+  51
+   1,S
+  52
    1,J
   30
    1,R
