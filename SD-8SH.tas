@@ -1,6 +1,7 @@
 console load 9
 ChapterTime: 1:35.574(5622)
 Set,SuperDashing,true
+Set,CheatMode,true
    1
 
 #Start
