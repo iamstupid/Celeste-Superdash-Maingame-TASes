@@ -1,5 +1,5 @@
 console load 3
-ChapterTime: 3:56.079(13887)
+ChapterTime: 3:56.062(13886)
 Set,SuperDashing,true
    1
 
@@ -1067,7 +1067,7 @@ read,SD-3HC,lvl_09-b (1),lvl_13-b (1)
   40
 
 #lvl_11-b (3)
-   4,J
+   6,U,X
   40
 
 #lvl_11-c (2)
