@@ -623,8 +623,11 @@ Set,SuperDashing,true
   40
  
 #lvl_e-00y
-  52
-  21,U,X
+  39
+   5,L,U,Z
+   4,U
+  13
+  14,U,X
   40
 
 #lvl_e-00z
@@ -1990,7 +1993,7 @@ Set,SuperDashing,true
    1,R,J
 #Spinner Cycle
 #for h-10
-   1
+   2
 #
    4,D,X
    3,R,J
@@ -2148,7 +2151,7 @@ Set,SuperDashing,true
    2,R,U
   40
 
-#lvl_h-9
+#lvl_h-09
    9,R,D
    5,L,D,X
   23,L
