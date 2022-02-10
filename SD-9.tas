@@ -1,5 +1,5 @@
 console load 10
-ChapterTime: 4:01.740(14220)
+ChapterTime: 4:01.485(14205)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -2434,34 +2434,40 @@ Set,SuperDashing,true
    5,R,J
    1
   17,R
-   7,R,J,G
-  31,R
-   5,R,U,Z
-   8,U
-  11
-   3,J,G
-   3
-   4,R
-   5,R,Z
-   1,J,F,160
-   8,R
+   8,R,J,G
+   5,R
+   2,R,J
+   2,R
    1,R,J
-   5,R,D,X
+   1,R
+   1,R,J
+  19,R
+   5,R,U,Z
+  11,U
+   7,R
+   3,R,J,G
+  11,R
   40
 
 #lvl_j-00
-   1,R,D
-  10
+   1,R
+   1,R,J
+   6,R,D,X
+  17
    5,R,U,X
-   4,R,U
-  14,R,D
-   1,R,U
-   7,R
-   2,R,J
+   2,R,D
+   3
+   1,R,D
+   1
+   1,R,D
+   6
+   1,R,D
    5,R,U,X
    4,U
    1
-  12,R,D
+   6,R,D
+   1
+   5,R,D
    1,S
    1,D,J
   34
@@ -2482,7 +2488,7 @@ Set,SuperDashing,true
    3,R
    6
 #Lightning Cycle
-   4
+   5
 #0~9
 #j-00b j-02 j-07
    1,L,J
@@ -2497,9 +2503,10 @@ Set,SuperDashing,true
    3,L,U
    9
   22,L,D
-  18,L,J
+  11,L,J
+   7,L
    5,L,D,X
-  12
+  11
 #alt cycle point
    
 #0~5
