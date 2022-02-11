@@ -1,5 +1,5 @@
 console load 10
-ChapterTime: 4:01.485(14205)
+ChapterTime: 4:01.332(14196)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -8,7 +8,7 @@ Set,SuperDashing,true
   98
 
 #Lightning Cycle
-   2
+   3
 #c-00
 
 #lvl_intro-00-past
@@ -303,15 +303,24 @@ Set,SuperDashing,true
    2,R,D
    1
    2,R,U
-   3
-   1,L,J
-   5,L,D,X
-   3,U
-  11,L,D
-   1
-  11,L
    2
-   9,L
+   1,D
+   1
+   1,L,J
+   4,L
+   5,L,D,X
+   2,U
+   1
+  13,L,D
+   3,L
+   1
+   4,L
+   1,L,D
+   1,L
+   1,D
+   2,L,D
+   1,L
+   1,L,D
    5,R,U,Z
    2
    2,R
@@ -323,9 +332,8 @@ Set,SuperDashing,true
    4,U
    1
    3,R
-   1
-   1,R,D
-   1,U
+   2
+   1,R
    1,R,J,G
    7,R
 
@@ -446,39 +454,33 @@ Set,SuperDashing,true
    1,S
    1,D,J
   34
-   1,R,J
    1,K
-   2,J,G
-   7,L,J
-   5,R,Z
-   1,U
-   1,R,D
-   3
-   5,L,J
-   5,L,U,Z
-   8,U
-   5,L
-   2,L,J,G
-   1,L,K,G
-   5,L,U,X
-   7,U
-   1
-   2,U
-   1
-   1,U
-   5
-   1,J,G
-   7
+   1,J
+   1,K
+   8,L,K
    5,U,X
    2,L
-  14
-   1,L
-   1
+   3
+   5,L,U,X
+  16
    5,U,X
-   9,R
-   1,R,J,G
-   7,R
-  10,R,Z
+   1,L
+  17
+   4,X
+   1,L
+   9
+   1,L,J
+   5,L,U,X
+  14,U
+   4,R,U
+   5,R,U,X
+   4,R
+   8,R,D
+   1,R,U
+   1,R,D
+   4,D,X
+   1,R
+   5
    1,R,J
    2,R,K,G
    1,R,J,G
@@ -492,7 +494,8 @@ Set,SuperDashing,true
    2,L
   12,L,X
    6
-   3
+   1
+   2,L,J
    5,L,Z
    1,L,U
    2
@@ -506,21 +509,24 @@ Set,SuperDashing,true
    8,D
    1,L,D
    2
-   3,L,D
-   1
-   3,L,D
+   2,L,D
+   2
+   1,L,D
+   2,D
    5,L,D,X
    3,L,D
-   1,L,U
-   1
-   8,L,U
+  10,L,U
    4,X
    1,L,D
-   2,L,D
+   3,L,D
+   8,L,U
    1
-  10,L,U
-   5
+   1,L,U
+   1
+   1,L,U
+   1
    1,L,D
+   2
    1,L,J
    5,L,D,X
    5,L
@@ -530,7 +536,7 @@ Set,SuperDashing,true
    1,L,U,Z
   16,U
    2
-  20,U,X
+  19,U,X
   43
 
 #lvl_d-05
@@ -540,7 +546,7 @@ Set,SuperDashing,true
    3
 
 #Spinner Cycle
-   2
+   0
 #e-06
 
    5,R,X
@@ -2488,7 +2494,7 @@ Set,SuperDashing,true
    3,R
    6
 #Lightning Cycle
-   5
+   2
 #0~9
 #j-00b j-02 j-07
    1,L,J
