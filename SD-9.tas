@@ -1,5 +1,5 @@
 console load 10
-ChapterTime: 4:01.332(14196)
+ChapterTime: 4:00.975(14175)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
@@ -753,44 +753,47 @@ Set,SuperDashing,true
 
 #lvl_e-01
    2,R,J
-   9,J
+   6,J
+   3,R,J
+   5,U,X
+   2,R
+   2
+   2,R
+   2,L,U
+  10
+   5,U,X
+   1,R
+   5
+   1,R
+   8
    5,U,X
    2,R
   16
    5,U,X
    2,R
-   5
-   1,R
-   6
-   5,U,X
-   3
-   2,R
-  13
-   5,U,X
-   2,R
-   5
-   1,R
-   1,U
-   1,R
-   1,U
-   4
+  12
    5,L,U,X
-   4,L,D
-  10,U
-   7,L,D
-   4,L,D,X
-   1,L,U,X
+   4,L
+  11,U
+   6,L
+   4,L,X
+   1,L,U
   13,U
-   2,R,U
+   1
+   1,R,U
    3
    5,U,X
-  21
+  11
+   1,R
+   3
+   3,R
+   4,L,U
    4,D,X
-   1,R,U,X
+   1,R,U
    1,U
-   1
-  10,R
-  10,R,J,G
+   2
+   7,R
+   8,R,J,G
    5,U,X
    3,R
    2,L,U
@@ -1505,7 +1508,7 @@ Set,SuperDashing,true
    5,R,D,X
    1
    3,U
-   1,R,J,G
+   1,R,D,J,G
    4,R
    1
    5,R,D,X
@@ -1516,25 +1519,23 @@ Set,SuperDashing,true
    1,R,U,Z
    4,R,D
    2
-  12,R,U
+  10,R,U
    4,R,U,X
-   1,R,D,X
+   1,R,X
    1
-   3,R,D
-  15,R,U
-   6,L
-  11,L,D
-   1,R,D
-   3,D
-   1,R,D
-   1,D
-   1,R,D
-   1,R
+   6,R,D
+   1
+   5,R,U
+   1
+   1,R,U
+   5
+  14,R,D
    1,R,J
    5,D,X
-   5,R
-   2,L,D
-   2
+   4,R
+   4
+   1,R
+   1
    1,R,J
    5,R,D,X
    9,U
@@ -1545,24 +1546,24 @@ Set,SuperDashing,true
    2,R,D
    1
    6,R,D
-   1,R,J
+   1,R,D,J
    5,R,D,X
-   3,U
+   2,U
   40
  
 #lvl_g-05
+   3
+  10,R,D
+   5,D,X
+   1
+   4,R,D
    1
    5,R,D
+   9,L,D
+   2,D
    1
-   6,R,D
-   5,D,X
-   2
    1,R,D
-   1
-   7,R,D
-   2
-   6,L,D
-   6,L
+   1,R
 
 #Determination
 
@@ -2242,19 +2243,10 @@ Set,SuperDashing,true
    1,R,D
    1
    2,R
-   8
-   1,R
-  65
+  73
    1,R,U
    5,R,Z
-   2
-   1,R,U
-   1
-   1,R,D
-   2
-   1,R,D
-   1,R,U
-   1
+  10
    5,R,D,X
    1,D
    1
@@ -2262,19 +2254,22 @@ Set,SuperDashing,true
    1
   10,R,U
    1,J
-   3
-   5,L,U,X
+   5,U,X
+   1
+   6,L
+   3,R,J
+   5,R,D,X
+   4,R,U
    4
-   6,R,J
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
    5,R,U,X
-   3,U
-   7,R,D
-   9
-   5,R,U,X
-   3,U
-   7,R,D
-   9
-  17,R
+   6,U
+  10,R,D
+   3
+  21,R
  348
   40
 
@@ -2749,9 +2744,11 @@ Set,SuperDashing,true
 AnalogMode,Precise
  196,F,1.4
   23,U,X
+  38
+#IGT end
 
 #Optional Waiting
- 150
+ 120
    1,J
  180
 #
