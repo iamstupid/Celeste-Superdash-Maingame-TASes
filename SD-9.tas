@@ -657,23 +657,22 @@ Set,SuperDashing,true
    6,L,Z
    1,L,J
    1,J
-   3,L,K,G
+   1,K,G
+   2,L,K
    5,L,U,X
   10,U
-   7,R,U
-   5,R,U,X
-   1,U
+   8,R,U
+   5,U,X
+   3,R
+   3
+   2,L,U
    1
-   7,U
-   5,L,U
-   2
-   1,R,U
-   1
+   1,L,U
+   6
   40
 
 #lvl_e-00
-   1,K
-  10,L,K
+  11,L,K
    5,U,X
    5
    1,L
@@ -812,25 +811,28 @@ Set,SuperDashing,true
    1,R,D
    4,R,D,X
    1,R,U
-   7,U
-  11,R
-  21,R,G
+   6,U
+  10,R
+  21,R,D,G
    1,L
    5,R,D,X
-   5,R,U
-  15
+   6,R,U
+   1,R,D
+  13
    2,R,D
-  14,R,D
+  13,R,D
    5,R,U,Z
   19,U
-  29,L
+   5
+  13,L
+   2
+   4,L
+   4,L,D
    5,R,Z
-   1,U
-   1
+  14
    1,R,D
-  12
-   1,R,D
-   4,R
+   4
+   3,R
    1,R,J
    5,R,U,X
    8,R,D
@@ -838,8 +840,8 @@ Set,SuperDashing,true
  
 #lvl_e-03
    2,R,D
-   1,R,U
    1
+   1,R,U
    5,R,D,X
    8,R,U
    7,R,D
@@ -2489,7 +2491,7 @@ Set,SuperDashing,true
    3,R
    6
 #Lightning Cycle
-   2
+   5
 #0~9
 #j-00b j-02 j-07
    1,L,J
