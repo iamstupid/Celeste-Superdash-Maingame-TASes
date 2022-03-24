@@ -1,5 +1,5 @@
 console hard 7
-ChapterTime: 3:46.338(13314)
+ChapterTime: 3:45.267(13251)
 Set,SuperDashing,true
    1
 
@@ -963,18 +963,30 @@ Set,SuperDashing,true
    7
   40,D
   14,R,D
-   8,R,U,G
-  16,R,G
+   7,R,U,G
+   1,R,G
+   1,R,U,G
+   1,R,G
+   1,R,U,G
+  11,R,G
+   1,R,U,G
+   1,R
+
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   2,R,K,G
+   1,R,K,G
+   1,K,G
    4,D,X
    1,R,U
-   7
-   3,R
-   1,R,D
-   1,R,U
+
+   2,R,U
+   1,R
+   2
+   1,R
+   1,R
+   1,R
+   2,R,D
    5,R,U,X
   15,U
   40
@@ -1056,43 +1068,47 @@ Set,SuperDashing,true
   10,R,K,G
    5,U,X
    2
-   9
+   6
    1,L
    1,J,G
    1,L,K,G
-   5,R,D,X
-   4,R,U
-   2
-  10,R,D
+   5,R,U,X
+   4
+   4,R,D
    1
-   1,R,U
+  10,R,D
+   1,R,D
+   1,R,J
    4,D,X
    1,R,U
-   1,R
-   1
-   7,R,U
-   5
-   5,R,D,X
+   2,R,U
    1
    5,R,U
+   1,U
+   3
+   5,R,D,X
+   1
+   4,R,U
   40
 
 #lvl_f-01
-   3,R,D
    1
-   6,R,U
-   2
+   3,R,D
+   1,R,U
+   1
+   5,R,U
+   1,R,U
+   1,R,D
    1,R,J,G
    2,R
-   1
    4,D,X
    1,R,U
    2,U
    1
-   7,U
+   4,U
+   3
    5,R,D,X
-   1,D
-   4
+   4,D
    5,D,X
   10
    5,R,D,X
@@ -1268,36 +1284,30 @@ Set,SuperDashing,true
    2
    1,R
    5
+   1,L,U
+   7
    5,U,C
    2,R
   16
-  18,J
-   1,K
+   8,J
+   2
    1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,K
-   1,J
-   1,L,K
-  15,L
-   4,L,J
-  19,L,D
-   5,L,D,X
-   9,L
+   7
+  14,R,D,X
    1,L,J
+   5,L,D,X
+   3,L,U
+  10,L,D
+   6,L,U
+   1,L,J
+   5,L
    5,L,U,Z
+   1
   11,U
-   5,R,X
-   1,U
-   8
-   1,R,D
-   8
-   1,R,D
-   9,R
+   5,R,U,X
+  17,R
+   2,R,D
+   4,R
  333
 
 #lvl_g-00
@@ -1714,14 +1724,10 @@ Set,SuperDashing,true
    3
    5,L,D,X
    5,U
-   5,L,D
-   1
-   1,L,D
+   2,U
+   7,L,D
    5,L,U,X
-   1,U
-   9
-   5,L,U,X
-  15,U
+  16,U
   40
 
 #lvl_g-02
@@ -1775,19 +1781,15 @@ Set,SuperDashing,true
 #   9,R,D
 
   11,R
-  15,R,X
-   5,R,U,C
-   1
-   4,R,D
-   1
+
+   2,R
+   5,R,X
+   1,R,U
    1,R,D
-   1
-   3,R,D
-   7
-   1,R,D
+   5,R
 
 #CP-08
-   4,L,J
+   4,J
   25,U,X
   12,L,J,G
    1,K
@@ -2052,26 +2054,54 @@ Set,SuperDashing,true
    3,R,D
    1
    5,R,D
+
+#v.A - updash glide
    4,X
    1,R,U
-  10,U
+   8,U
+   5,R
+   5,U,X
+   7,U
    3,R
-   4,R,X
-   1,R,U
-   6,U
    1
+   2,R
+   2,R,J,G
+   5,R
+   2,R,J
    8,R
-   6,R,J,G
-  16,R
+#v.B - land ultra
+#   1,R,D
+#   5,R,U,X
+#  11,U
+#   7
+#   4,X
+#   1,R,U
+#   2,U
+#   3
+#   4,R,J,G
+#  15,R
+
    5,D,X
-  16
-   4,D,X
-   1,L
-   8
-   1,L,U
-   1,K
-   5,L,K
+   1,L,D
+   9
+   5,D,C
+   6
+   2,L,D
+
+#v.A - upleft
+   1,L,J
+   3,L
+   5,L,U,Z
+   6,U
  190
+#v.B - medboost
+#   7,L,J
+#   1,R,K,G
+#   5,U,X
+#   3
+#   1,J
+#   188
+
    1,S
    1,D,J
  141
