@@ -1,6 +1,6 @@
 #console wipedebug
 console load 1
-FileTime: 1:20.036(4708)
+FileTime: 1:19.866(4698)
 Set,SuperDashing,true
    1
 
@@ -268,27 +268,23 @@ Set,SuperDashing,true
 #lvl_6
   17,R,J
    5,U,X
-  10
-   7,L
-   1
-   1,L,J,G
-   7,L
-   4,D,X
-   5,R,J
-  30,R,D
+   5
+  13,R
+   5,R,K,G
+  33,R,D
    5,R,D,X
    6,R
    5,D
    1
    1,D
-   2
+   1
    5,R,D,X
    2,R,U
    2
    1,R,D
    1
    1,R,D
-   3
+   4
    4,D,X
    1,R,U
    3,R
@@ -588,19 +584,26 @@ Set,SuperDashing,true
    3,L,J
    1,K,G
    1,J,G
-   8,K,G
+   7,K,G
+   1,R,K
    1,J
-   4,K
-   3,J
-   3,K
+   2,K
+   3,L,K
+   2,J
+   1,K
+   2,R,K
    5,L,Z
    1,L,U
-   2,L,J,G
+   1,L,K,G
+   1,J,G
    5,L
-  10,L,J
-  11,R,K
-   2,R,J,G
-   7,R
+   5,J
+   2,R,J
+   6,R,K,G
+   2
+   1,J
+   3,L,J
+   7,L
    4,D,X
    1,L
    1,L,D

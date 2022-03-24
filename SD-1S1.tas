@@ -1,5 +1,5 @@
 console load 1 3608 -2040
-FileTime: 0:13.124(772)
+FileTime: 0:12.920(760)
 Set,SuperDashing,true
    1
 
@@ -21,32 +21,32 @@ read,SD-1HC1,Start,lvl_11
    1,R,D
    1
    6,R,D
-   1,R,J,G
-  18,R,D
+   2,R,J,G
+  14,R,D
+   6,L
   10,L,D
-   3,L,J
-   3,L
-   5,L,D,X
-   2,D
-   1
-   6,D
+   5,D
   40
 
 #lvl_10
   10,L,D
-   6,D
+   1,D
+   1
+   1,L
    1,J
-   9,D
+  10,D
   17,D,X
+
    2,L
    6
-   2,L
+   2
    6,D
    1
    2,D
    4,L,D
+   1
    1,L
-   2,L,D
+   1,L,D
    5,R,Z
    3,R,D
    2,R,U
