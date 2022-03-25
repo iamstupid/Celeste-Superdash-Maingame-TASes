@@ -1,5 +1,5 @@
 console hard 7
-ChapterTime: 3:45.267(13251)
+ChapterTime: 3:44.655(13215)
 Set,SuperDashing,true
    1
 
@@ -303,143 +303,40 @@ Set,SuperDashing,true
    6,D
    1,R,D
    5,R,U,Z
-  11,U
-   4
+  10,U
+   5
    1,R,J,G
-   9,R
-   5,L,Z
-   3,L,D
-   2,L,U
+   7,R
+   5,R,Z
+   1,R,D,J
+   8,R
    1,R,J
-   5,R
-   1,R,J
-   5,R,D,X
-   4,U
-
-#   9,R
-#   2
-#   5,L,X
-#   1
-#   9,L,D
-#   1,R,J
-#   5,R,D,X
-#   1,U
-#   1
-#   3,U
-#   1
-#   4,R,D
-#   5,R,U,X
-#   3,U
-#  10,R,D
-#   3
-#   5,R,D,X
-#   3,R,D
-#  14
-#   1,R,J,G
-#  18,R
-#   5,R,U,Z
-#   1
-#   1,R
-#   9,U
-#   1,J
-#   5,R,D,X
-#   8,R,U
-#   7
-#   5,D,X
-#   3
-#   4,L,D
-#   1
-#   1,L,D
-#   1
-#   1,R,J
-#   5,R,D,X
-#   8,U
-#   1
-#   8,R,D
-#   1
-#   1,R,D
-#   1
-#   9,R,J
-#  23,R
-#   6,R,J,G
-#   5,R,U,X
-#   2,U
-#   1
-#   3,U
-#   1
-#   1,R
-#  11,R,D
-#   1,D
-#  10,R,D
-#   6,R,Z
-#   1,R,U
-#   2,L,J,G
-#   3,R
-#   1,R,K,G
-#  10,R
-#   1,R,J
-#   5,R,D,X
-#   2,R,U
   40
 
 #lvl_b-03
-   4,U
-   3,R,D
-   5,R,U,X
-   1,U
-   3
-   1,R,D
-   8
-   1,R,J,G
-   8,R,G
-   5,D,X
-   7
+   6,R,D,X
+  12
+  55,R
+   4,G
+   1
    1,L
-   9
-
-#   5,R,U
-#   5,R
-#   5,R,U,X
-#   2,R,U
-#   1,R,D
-#   1,R,U
-#   1,R,D
-#   9
-#   1,R,J,G
-#   8,R,G
-#  11,D,X
-#   1,L,D
-#  10,D
-
-#need further compare
-  37,R
-   4,D,X
-   1,U
-   8,R
-   6,U
-   3
-   1,R,J
+   1,R
+  19,G
+   4,R,J,G
+   1,K
    1,J
-   8,R,J
-   7,L,J
-   1,R,J
-  10,L,K
-   1,L
-   4,J
-   9,L,X
-   1,L,U
-   1,R,J
-   4,J
+   6,U,X
+   1,J
+   5,R,J
+  23,L,J
    5,U,X
    4,L
-   5
+   6
    1,L
-   4
-   5,U,X
-  11,L
+   2
+   5,L
    1,L,J,G
-   8
-  10,L
+  18,L
   37,L
   22,L,G
   26,L,U,G
@@ -1731,58 +1628,7 @@ Set,SuperDashing,true
   40
 
 #lvl_g-02
-#  11,R
-#  15,R,X
-#   5,R,U,C
-#   1
-#   4,R,D
-#   1
-#   1,R,D
-#   1
-#   3,R,D
-#   7
-#   1,R,D
-#   1,R,J
-#   5,U,X
-#   1,R
-#   8
-#   1,R
-#   8
-#   7,U,X
-#   1,J
-#  13,R,J
-#   8,R
-#   4,R,J
-#   2,R
-#   1,R,J
-#   2,R
-#   5,L,Z
-#   3,L,D
-#   2,L,U
-#   1,R,J
-#   2
-#   3,R
-#   1,R,J
-#   5,R,D,X
-#   2,R,D
-#   1
-#   3,R,J,G
-#   6,R
-#   1,R,J
-#   3,R
-#   1
-#   1,R,J
-#   5,R,U,X
-#  20,U
-#   8,R,J
-#   4,R
-#   5,R,Z
-#   4
-#   9,R,D
-
-  11,R
-
-   2,R
+  13,R
    5,R,X
    1,R,U
    1,R,D
