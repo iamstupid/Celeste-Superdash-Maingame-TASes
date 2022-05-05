@@ -1,5 +1,5 @@
 console rmx2 5
-ChapterTime: 0:07.429(437)
+ChapterTime: 0:07.327(431)
 Set,SuperDashing,true
    1
 
@@ -7,7 +7,7 @@ Set,SuperDashing,true
 #Spinner cycle
    1
 #lvl_00
-  67
+  61
    4,D,X
    2,L
    1,L,D
