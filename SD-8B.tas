@@ -1,5 +1,5 @@
 console hard 9
-ChapterTime: 1:17.316(4548)
+ChapterTime: 1:14.613(4389)
 Set,SuperDashing,true
 Set,CheatMode,true
    1
@@ -26,7 +26,8 @@ Set,CheatMode,true
 
 #lvl_01
    9
- 215,D,X
+   5,D,X
+ 210
    4,D,C
    1,L,J
   19,L
@@ -90,28 +91,35 @@ Set,CheatMode,true
    6,R,D
    1,L,J
    5,L,D,X
+   2,L,U
+   3,L,D
+   1
+   9,L,D
+   5,L,U
+   1
    1,L,U
-   8
-   1,L,D
-  10
-   1,L,D
-   5,L,U,X
-   4,L,D
+   3,L
+   5,L,U,Z
+   5,L,D
   13
-   2,L,D
-  10,L
-  23,L,J
-  17,U,X
+   3,L,D,J,G
+   1,L
+   6,L,J
+   1,J
+   1,L,J
+   8,L
+   5,L,U,X
+  15,U
+   3,R,U
+   1,L,U
   40
 
 #lvl_a-03
-   1,R
-   1
-   9,R,J
+   3,R
+   8,R,J
    4,D,X
-   5,R
-   1,R,D
-   1,R,J
+   6,R
+   1,R,D,J
    8,R
    9,R,J
   50,R
@@ -127,82 +135,74 @@ Set,CheatMode,true
    1,R,U
    9
    1,R,D
-   6
+   3
    1,R,D,J
-   2,R
+   4,R
   40
 
 #lvl_a-04
-   6,R
+   3,R,D
+   1,R,D,J
+   5,R,D,X
    2,R,D
-   4,R,D,J
-   6,R
-   2,R,K
-   4,D,X
+   1
+   1,R,U
+   1
+   1,R,U
+   5
+   1,R,J,G
+   7,R
+   5,R,U,Z
+   4,R,D
+   1
+   5,R,D
+   2,R,U
+   1
+   1,R,U
+   4
+   1,R,U
+   8,R
+   5,R,U,Z
    1,R,U
    5,R,D
    4
-   1,R,D
-   8
-   1,R,D
-   5,R,D,X
-   2,R,U
-   5
    1,R,U
-   8
-   6,R,U
-   4,D,X
-   1,R,U
-   1,R,D
-   2
-   4,R,D
-   2
-   4,R,D
-   3
-   3,R,U
-  18,R,D
+   1
+  20,R,D
    1,R,J
-   5,R,D,X
+   5,R,U,X
   40
 
 #lvl_a-05
-   4,R,U
-   6
-   1,R,D
-   1
-   3,R,D
-   3
-   1,R,D
-   3,R
-   5,U,X
-   3,R
-   9
-   4,D,X
    1,R
-   1,R,U
-   1,R,D
-   5
-  10
-   3,L,J
-   5,L
-   2,L,K
-   1,K
-   1,L,K
    1
-   1,L,K
+   9,U
+   1,R
    1
-  24,R
-   5,R,D,X
-   9,D
-   1
-   6,L,D
-   3
    5,R
+   4,R,D,X
+   1,R,U
+   3,U
+   5,R,D
+   3
+   4,U
+   1
+   4,R,X
+   1,R,D
+  19,D
+   2,L,D
+   2,R,D
+   1,D
    5,R,D,X
-  11,R,U
-   8
-  16,R
-  83,G
+   2,D
+   1,R
+   2
+   6,R
+   5,R,U,X
+  13,R,D
+   4,U
+   5,R,D
+  75,R,G
    4
    4,J,G
   40
@@ -268,8 +268,7 @@ Set,CheatMode,true
    4,D,X
    3,R
    3,R,D,J
-  16,R
-   8,R
+  24,R
   10,R,J
    7,R
    1,R,J
@@ -664,77 +663,73 @@ Set,CheatMode,true
   12
    3,R,D
    5,R
-   1,R,J
-   5,R,D,X
-   2,R,D
-   2
+   1,L,J
+   5,R,Z
+   3
+   3,R,D
   40
 
 #lvl_c-08
-   2
-   3,R,D
+   5,D
    1
-   4,R,D,X
+   4,L,D,X
    1,R,U
-   3,U
-   1,R
+   1
+   1,U
+   1
+   5,U
+   1
+   1,U
+   4,U,X
+   1,R,D
+  15,D
+   4,L,D,X
+   1,R,U
+   4,U
    6
-   5,D,X
-   4,L
-  10
-   1,R,J
-  18,R,D
-   4,D,X
-   1,R,U
-   5,R,D
-   2
-   3,R,U
-   9,U
    5,R,D,X
-   1,R,D,J
-  11,R
+   2,D
+   2,R,U
   40
 
 #lvl_c-07
-   2,R
-   1,R,J
-   6,R,D,X
-  17
+   6,R,U
    5,R,U,X
-   6
+  14
+   3,R,D
+   1
    1,R,D
-   8
-   4,R,D
-  12,R,K
+  10,R
    1,R,J
-   6,R
+   5,R,D,X
+   2,D
   40
 
 #lvl_space
-   5,R,D,X
-   2
-   3,R,U
-   5
-   5,R,D,X
-   9
-   1,R,D
-   5,R,D,X
-   9
-   1,R,D
-   5,R,D,X
-   4
+   1
    1,R,U
-   4
-   1,R,D
-   4,X
-   1,R,U
-   1,R,D
-   5
-   2,R,D
-   2
-   5,R,D,X
    6
-   2,R,U
-   9
-  14,D,X
- 121,D
+   5,R,D,X
+   1,U
+   1
+   1,R,D
+   5
+   1,R,D
+   2
+   5,R,D,X
+   6,D
+   3,R,U
+   1
+   3,R,U
+   3
+   1,R,D
+   2
+   5,R,D,X
+   4,D
+   1,R,U
+   1
+   3,R,U
+   1
+  14,L,U,X
+  26,L,D
+  95,L
