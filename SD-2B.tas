@@ -1,5 +1,5 @@
 console hard 2
-ChapterTime: 1:02.526(3678)
+ChapterTime: 1:02.458(3674)
 Set,SuperDashing,true
    1
 
@@ -192,29 +192,29 @@ Set,SuperDashing,true
    1,L
   13
    4,L,J
-   4,L,K
+   3,L,K
+   1,L
    5,U,X
   14
    3,L,U
    2
    2,L,J,G
-   5,L
-   2
-   5,L,D,X
-   5
-   3,R,J
-   2,R
-   5,D,X
-   8,R
-   1
-   6,L,D
-   1
-   3,L,D
+   3,L
+   3
    1,L
-   1,R
-   7,R,D
-   5,R,Z
-  10
+  11,L,X
+   1,R,J
+   3,R
+   5,R,D,X
+   4,D
+   1
+   4,D
+   6,L,D
+   2
+   1,L,D
+   1,R,D
+   5,D
+  16,R,Z
    4,R,J
    5,R,D,X
    4,R,U
@@ -456,13 +456,11 @@ Set,SuperDashing,true
    3,R
    1,L,J
   31,L,D
-  11,D
-   2,L,D
-   2,D
-   2,L,D
-   1,D
+   8,D
+   4,L,D
+   4,D
    1,L,D
-   1,D
+   2,D
    5,R,Z
   23
    4,R,J
