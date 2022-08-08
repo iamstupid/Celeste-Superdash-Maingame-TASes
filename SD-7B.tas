@@ -141,7 +141,7 @@ Set,SuperDashing,true
 
 #lvl_b-00
   76
-#Section 500m
+#500m
    5,L,D,X
    3
    1,U
@@ -372,7 +372,7 @@ Set,SuperDashing,true
 
 #lvl_c-01
   76
-#Section 1000m
+#1000m
    5,L,Z
    1,L,D
    8
@@ -634,7 +634,7 @@ Set,SuperDashing,true
 
 #lvl_d-00
   76
-#Section 1500m
+#1500m
   19,U,X
    4,D,C
    1,L
@@ -786,7 +786,7 @@ Set,SuperDashing,true
 
 #lvl_e-00
   78
-#Section 2000m
+#2000m
   14,L,D,X
    1,R,J
    5,R,D,X
@@ -960,7 +960,7 @@ Set,SuperDashing,true
 
 #lvl_f-00
   76
-#Section 2500m
+#2500m
   12,R,J
   10,R,K,G
    5,U,X
@@ -1104,9 +1104,8 @@ Set,SuperDashing,true
    2,U
    4,D,X
    1,R
-   1,R,D
-   1,R,J
-   7,R
+   1,R,D,J
+   8,R
   40
 
 #lvl_f-03
@@ -1210,7 +1209,7 @@ Set,SuperDashing,true
 #lvl_g-00
 #CP-20
   73
-#Section 3000m
+#3000m
    4,D,X
    1,L
   11
@@ -1915,6 +1914,7 @@ Set,SuperDashing,true
    5,R
    2,R,J
    8,R
+
 #v.B - land ultra
 #   1,R,D
 #   5,R,U,X
@@ -1984,7 +1984,6 @@ Set,SuperDashing,true
    2,L,J
    5,L,U,X
   14,U
-**
    5,U,X
    1,L
    5
@@ -1998,7 +1997,6 @@ Set,SuperDashing,true
    9
    8,L,J
   14,R,J
-
    5,U,X
    1,L
    1,R,U
