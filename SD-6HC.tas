@@ -1,6 +1,6 @@
 unsafe
 console load 6
-FileTime: 4:19.488(15264)
+FileTime: 4:19.046(15238)
 Set,VariantMode,true
 Set,SuperDashing,true
    1
@@ -29,39 +29,50 @@ Read,SD-6A,Start,lvl_04
    5,L,D,X
    9,L
    1,J
-  28,D
-  16
-   9,U,Z
-   6,L,D
-  33,D
-  19,R,G
-  17,U,G
+  28,L,D
+  11
+   1,K
+   1,J
+   7,U,X
+   1,R
+   6,L
+  45
+  22,R,G
    5,R,X
    1,R,J,G
-   1,R,K,G
-   3,R,J,G
-  10,R
-   8
-  14,R,Z
-   1,R,D
+   4,R,K,G
+   5,R
+   3,R,J
+   3,R
+   1,R,J
+   2,R
+   5,R,Z
+   4
+   2,R,D
+   1,R,U
    1,L,J
-   3,L
-   5,L,D
+   7,L
    1,L,J
    1,L,K,G
-  10,L,D,X
+   1,L
+   5,L,D,X
+   8
   43
 
 #lvl_04e
-  11
+   2
    5,L,D,X
-   2,L,U
-   8
+   9
    1,L,D
-   4,L,U
-   4
-   3,L,D
-   6,L
+   5,L,D,X
+   7
+   3,U
+   1,L,D
+   4,L,D,X
+   1,L,U
+   2,L,U
+   4,L,D
+   5
  257
    1,J
  123
