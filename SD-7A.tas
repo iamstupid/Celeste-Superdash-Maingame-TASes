@@ -1,5 +1,5 @@
 console load 7
-ChapterTime: 5:02.124(17772)
+ChapterTime: 5:01.784(17752)
 Set,SuperDashing,true
    1
 
@@ -302,24 +302,24 @@ Set,SuperDashing,true
   40
 
 #lvl_b-05
-   1,L
-   1,J
-   1,K
+   8,L
+   3,R
+   5,D,X
    5,R
-   1,J,G
-   2,L
-  10,L,D,X
-   3,R,J
-   3,R,K,G
+   1,R,J
+   4,R,K,G
    5,R,U,X
    6,U
-   2,R
-   1,R,U
-   1,R
+   1
+   3,R
    1,R,J,G
+   5,R,U,X
+   2,U
+   1
+   1,R,D
+   1
+  28,R,D
    1,R
-   8,R,U,X
-  31,R,D
    5,L,U,X
    9,L,D
    3,L
@@ -345,7 +345,7 @@ Set,SuperDashing,true
   40
 
 #lvl_b-06
-   6,R,J,G
+   6,R,J
    7
    2,R
    9
@@ -361,7 +361,7 @@ Set,SuperDashing,true
    1,K
    5,R,U,X
   14,U
-   4,R,U
+   4,R
    1,R,J,G
    3,R
    5,R,D,X
@@ -381,29 +381,32 @@ Set,SuperDashing,true
    3
    4,D,X
    1,R,U,X
-   1,R,U
+   1,U
    7
   40
 
 #lvl_b-08
-   3
+   2
    5,R,D,X
-   4,R,D
-   7,R,U
-   4
-   1,R,J,G
+   4,D
+   9,R,U
+   1
+   2,R,D
+   1,R,U,J,G
    2,J
    7,R,J
+   5,R
+   2,R,J
    1,R
-   5,R,J
+   3,R,J
    1,R
-   6,R,J
-  10,R,D
+   1,R,J
+  10,R
    3,R,J,G
    5,R,U,X
    8,U
   10,R
-   2,R,D,J,G
+   2,R,J,G
    7,R
   40
 
@@ -1108,7 +1111,6 @@ Set,SuperDashing,true
 #lvl_e-00b
   74
 #wait-1
-   1
 #wait-1-end
 #2000M
    9,R,J
@@ -1149,121 +1151,131 @@ Set,SuperDashing,true
    3,R
   15
    5,U,X
-   2,R
-  14
+   1,R
+   2
+   1,R
+  12
   40
 
 #lvl_e-02
-   2,L
-   7,R,J
-  14,R
+   1,J
+   8,R
+   1,L
+   1
+   1,L
    5,L,Z
+   2
    2,L,D
    2
    1,L,U
    1,R,J
-   4,R
+   1
+   3,R
    1,R,J
+   2,R,K,G
+   1,K
+   3,R,K
+   2,R,J,G
+   1,R
    5,R,D,X
-   4,R,U
-   4,R,D
-   1
-   1,R,D
-   5,R,D,X
-   4,R,U
-   3,R,D
-   1
+   1,U
+   7
    2,R,D
    5,R,D,X
-   9,R,U
-   3,R
-   1,R,J,G
+   3,U
+   1
+   4,R,D
+   2
+   5,R,U,X
+   1
+   2,U
+   1
+   4,U
+   2,R
+   4,R,J,G
    5,R,D,X
-   1,R
+   1
   40
 
 #lvl_e-03
-   1,R
-   2,R,D
-   1
-   2,R,U
-   2
    1,R,D
+   8
    5,R,D,X
-   2,R
-   3,R,D
+   1
+   2,R,D
+   2
   40
 
 #lvl_e-04
+   1,R,U
+   3,R,D
+   2,R,U
    1
-   2,R
-   2,R,D
-   3,R,U
-   2
-   4,D,X
-   1,R,U,Z
-   1,R
-   5,U
+   1,R,U
+   4,L,D,X
+   1,R,U
+   3
+   4,U
    1
-   6,R
-   4,R,J,G
+   2,U
+   3
+   2,R,J,G
    5,R,D,X
   40,R
 
 #lvl_e-05
    1,R
-   4,R,D
-   1
-   3,R,D
-   2,R
-   5,R,D,X
-   1,R,U
-   2
    2,R,D
-   5,R,U
-   5
+   1
+   5,R,D
+   2
+   5,R,D,X
+   1,U
+   2
+   1,R,D
+   4
+   5,U
+   3
    5,R,U,X
-   2,R,U
-   1,R,D
-   1,R,D
+   1,U
+   4
   40
 
 #lvl_e-06
-   1
-   4,R,D
-   1,R
    2,R,D
-   5,R,X
-   1,R,D
    2
-   1,R,U
-   1
-   1,R,U
-   1
-   1,R,D
-   2
-   1,R,U
-   4,D,C
-   1,R
-   6,R,U
-   1,R
-   5,L,J
-   5,U,Z
-   1,L
-   5,U
-   1,L,J
-   1,R
-   3,R,K,G
-   7,L
+   6,R,D
    4,D,X
+   1,R,U
+   1
+   3,R,D
+   1
+   2,R,D
+   1
+   1,R,U
+   1
+   1,R,U
+   5,R,U,X
+   6,U
+   1
    1,R
+   2,J
+   5,L,U,X
+   7,U
+   1,R,U
+   1
+   1,J
+   1,L,J
+   5,R
+   1,L,J
+   2,L
+   5,R,D,X
    1,R,D,J
    8,R
    1,R,J
    5,R,D,X
    5,R,D
   40
- 
 
 #lvl_e-07
    3,R,D
@@ -1299,23 +1311,16 @@ Set,SuperDashing,true
    2,R
    1
    5,U,X
-  19,L
-   3
-   1,L
-   5,R,Z
-   1
-   1,J,F,200
-   8,L
-   1,L,D,J
-   5,L,U,X
-  18,U
-   1,J
-   9,R,J
-   1,J
-   5,R,U,X
-   5,R
-   1,U
-  11
+  23,L
+   5,L,J
+   4,J
+   1,L,J
+   5,U,X
+  19
+   5,U,X
+   2,R
+  16
+   1,L,U
    3
    4,D,X
    1,L,U
@@ -1329,13 +1334,15 @@ Set,SuperDashing,true
    1,U
    3
    5,U,X
-   3,L
-   7
+   4,L
+   1,R,U
+   5
    8,R,U
    4,X
    1,R,U
    4,R
-  13,U
+  12,U
+   1
   40
 
 #lvl_e-08
@@ -1348,69 +1355,71 @@ Set,SuperDashing,true
    1,R,U
   16,R,D
    1,D
-  14,L,D,X
+   4,D,X
+   1,L
+   1,L,D
+   2
    1,R,J
-   5,R,D,X
-   3,R,U
-   1,R,U
+   5,R
   40
 
 #lvl_e-10
-   1,R,D
-   3,R,D
-   1
-   1,R,D
-   5,R,D,X
-   1,R,U
-   1
-   3,R,U
-   8
-   4,R,D
-   1,R
-   1,R,D
+   3,R
    1,R,J
+   3,R,K,G
+   1,R
    5,R,D,X
-   6,R,U
+   7
+   1,R,D
+   2
+   5,R,U,X
+   3,U
    1,R,D
    1
-   6,R,D
+   7,R,D
    5,R,D,X
-   2,R,U
-   2,R,D
+   5,U
+   2
    1,R,D
    1
    5,R,D
+   5,R,D,X
+   2,U
+   8,R,D
    3
    4,D,X
-   1,R,U,Z
+   1,R,U
+   1,U
    1,R,D
-  14
+   3
    1,R,D
-   1,R
-   1,R,D
-   1,R
+   7
+   2,R,D
+   3
    5,R,D,X
   40
 
 #lvl_e-10b
-   2,R
-   1,R,U
    2
-   4,U
-   7
-   5,U,X
-  15,R
-   1
    1,U
+   2
+  11,U
+   5,U,X
+  16,R
   13,L
    5,L,U,Z
-   5,L
-  13,U
+   4,L
+   2
+  12,U
    1,R
    1,J
    5,R,X
-   5,R,J,G
-  11,R
+   3,R,J,G
+   5,R
+   1,R,J
+   2,R
+   1,R,J
+   2,R
    2,R,K,G
   28,R,D
    2,R
