@@ -1,5 +1,5 @@
 console load 7
-ChapterTime: 5:01.784(17752)
+ChapterTime: 5:01.750(17750)
 Set,SuperDashing,true
    1
 
@@ -1425,20 +1425,19 @@ Set,SuperDashing,true
    2,R
   12,R,D
    5,R,Z
-   1,R,D
-   1,R,J
+   1,R,D,J
    8,R
+   1,R,J
    5,R,D,X
    3
   40
 
 #lvl_e-13
+   5
    1,R,D
-   6
+   1
    5,R,D,X
-  10
-   8
-   1,R,D
+  17
   38,R
    5,U,X
    4,R
@@ -1446,34 +1445,34 @@ Set,SuperDashing,true
   37,L
    5,L,D,X
   14,L
-   1,L,U
-   4,R,D,X
-   1,L,U
-   3,L
+   3,L,U
+   3,L,D
    5,L,D,X
-  11,L
-   4,R,X
+  10,L
+   4,L,U,X
    1,L,D
-   7,L
-   2,L,U
+   9,L,U
    9
+   1,L,D
   37,L
    5,L,U,X
    6,U
    3
   37,R
    5,R,U,X
-   4,R
-  10
+   9
+   1,R
    4,D,X
-  11,R,X
+   1,R
+   8
+   2,R,D,J,G
+   5,R
    1,R,J
    5,R,D,X
   10
-   4,X
-   1,R,U
-   5,R,D
-   5
+   5,R,U,X
+   6,R,D
+   3
   38,L
    5,U,X
    3,L
