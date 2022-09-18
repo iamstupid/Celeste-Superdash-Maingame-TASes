@@ -10,7 +10,7 @@ Set,SuperDashing,true
 
 #lvl_a-00
   78
-#Section 0m
+#0M
   14,L,Z
    1,R,J
    5,R,U,X
@@ -298,7 +298,7 @@ Set,SuperDashing,true
  145
 
 #lvl_b-00
-#Section 500m
+#500M
 read,SD-7A,lvl_b-00,lvl_b-02
 
 #lvl_b-02 (1)
@@ -652,7 +652,7 @@ read,SD-7A,lvl_b-05,lvl_b-07
  145
 
 #lvl_c-00
-#Section 1000m
+#1000M
 read,SD-7A,lvl_c-00,lvl_c-03
 
 #lvl_c-03 (1)
@@ -1137,7 +1137,7 @@ read,SD-7A,lvl_c-00,lvl_c-03
 
 #lvl_d-00
   74
-#Section 1500m
+#1500M
    5,L,D,X
    5
    5,R,J
@@ -1724,7 +1724,7 @@ read,SD-7A,lvl_c-00,lvl_c-03
 
 #lvl_e-00b
   74
-#Section 2000m
+#2000M
 #wait-1
    0
 #wait-1-end
@@ -2140,7 +2140,7 @@ read,SD-7A,lvl_e-07,lvl_e-08
 
 #lvl_f-00 (1)
   74
-#Section 2500m
+#2500M
    2,L,J
    5,R,Z
    1,U
@@ -2789,7 +2789,7 @@ read,SD-7A.tas,lvl_f-04,lvl_f-03
  145
 
 #lvl_g-00
-#Section 3000m
+#3000M
 #CP-30
 read,SD-7A,lvl_g-00,CP-26
 
