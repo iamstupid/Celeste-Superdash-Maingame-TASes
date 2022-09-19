@@ -1,5 +1,5 @@
 console hard 5
-ChapterTime: 1:21.447(4791)
+ChapterTime: 1:21.209(4777)
 Set,SuperDashing,true
    1
 
@@ -40,22 +40,22 @@ Set,SuperDashing,true
    1,R,J,G
    5,R,K,G
   15,R
-  21,R,U,X
-   4,D,C
-   3,R
-   1,R,D
+  19,R,U,X
+   5,R,Z
+   1,R,U
+   8,R,D
    1,R,J
-   5,R
+   5,R,D,X
   40
 
 #lvl_a-01
-   3,R
-   5,R,J
+   1,R,D
+   9
    5,R,D,X
-   4,R
+   1
    5,D
    1
-  11,D
+   6,D
   57,R,X
    4,D,C
    1,R,U
@@ -92,18 +92,17 @@ Set,SuperDashing,true
    1
    9,R
    2,R,D
-   3,R,J,G
-   5,R,D,X
-   6,R,U
-   3
-   1,R,U
-   7
-   2,R,D
-  15,R
+   1,R,D,J,G
+   5,R,U,X
+   4,R,D
+   5
+   1,R,D
+   8
+   1,R,D
+  16,R
    5,R,U,X
   13,U
    1,J
-   1,R,K,G
   40
 
 #lvl_b-00
@@ -159,9 +158,8 @@ Set,SuperDashing,true
    5,L,U,X
    4
    7,U
-   4,R,U
-   1,R,U
-   3
+   5,R,U
+   2
    9,J
   40
 
@@ -297,15 +295,12 @@ Set,SuperDashing,true
    3,R,J
    4,R
    7,L
-   4,D,X
-   1,L,J
-   7,L
-   3,L,J
-   1,J
+   5,L,D,X
+   1,L,D,J
+   8,L
+   1,L,D,J
    5,L,U,X
-   1
-   6,U
-   2
+   9,U
   40
 
 #lvl_b-09
@@ -413,24 +408,24 @@ Set,SuperDashing,true
 
 #lvl_c-00
  206
-   4,D,X
-   3,L,X
-   1,R,J
-   8
-  20,D
-   7,R,D
-  13,R
-   3,L
-   7,L,D
-  18,L,D,X
+   5,R,D,X
+   6
+   2,R,D
+  21,D
+   5,R,D
+   9,R
+   8,R,D
+   1,R
+   6,L,D
+   5,L,D,X
+  18
    1,L
-   5
-   1,D
-  12,L,D
+  15,L,D
   21,R,D
-   7,R
-   8,R,Z
-   2,U
+   5,R
+   5,R,Z
+   3
+   3,U
    1,J
   30,D
   30,L,D
@@ -695,45 +690,50 @@ Set,SuperDashing,true
   40
 
 #lvl_d-02
-   1,R
+   3,R
    1,J
-   6
+   4
    1,D
    5,L,D,X
-   4,L
-   5,L
+   2,L
+   7
    1,R,J
    5,R,D,X
+   2
    1,R,D
-   4
+   2
   13,R,G
    1,R,J,G
-   1,R
   40
 
 #lvl_d-03
-   8,R,G
-   3,R
-  10,R,G
-   4,R,J,G
-   9,R
-   1,R,K
-   6,R
-  16,R,X
-  13,R,G
-   8,R,D,G
-   1,D,G
+   7,R,G
+   1,R
+   7,R,G
+   5,R,J,G
+   5,R
+   2,R,J
+   1,J
+   1
+   1,J
+   4,R
+   2
+   5,R
+  14,R,Z
+  19,R,G
+   2,R,D,G
+   9,D,G
    1,R,D,G
-  10,D,G
-  16,R,G
+  18,R,G
    1,D
    1,R,D
    1,R
-   6,R,X
-  37,R,G
-   2,R,D,G
-   2,R,G
-  11,R,G
+   5,R,X
+   1,R,U
+  13,R,D,G
+  24,R,G
+   3,R,D,G
+  12,R,G
    1,R
    7,R,U,X
    1,U
@@ -798,5 +798,5 @@ Set,SuperDashing,true
    9,K,G
    3,L,K
   15,L
-   1,R,J,G
+   1,J
   77,R,D
