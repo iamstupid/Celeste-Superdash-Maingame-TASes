@@ -588,25 +588,20 @@ Set,SuperDashing,true
    2,R,D
    4,R
    2,R,D
+   9,R,Z
+   1,R,D,J
+   1,J
    2,R,J
-   5,D,X
-   9,R
+  10,R
    1,R,J
    5,R,D,X
-   8,R
-   2,D
-   1,R,U
-   5,R,D,X
-   1,R,U
-   2
-   2,R,D
-   1,R,U
-   2
-   9,R,U
-   1,L,J
-   2,L,K
-  16,L,U,X
-   7,L
+  12
+   6,U
+   3,J,G
+   5,L,J
+   5,L,U,X
+   2,L
+  16
   30,L,D
   50,L
   55,L,D,C
