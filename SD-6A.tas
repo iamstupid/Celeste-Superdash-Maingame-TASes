@@ -5,11 +5,11 @@ Set,SuperDashing,true
 
 #Start
  110
+
+#lvl_start
    1,S
    1,D,J
   34
-
-#lvl_start
    5,L,D,X
    1,L,D
    1
