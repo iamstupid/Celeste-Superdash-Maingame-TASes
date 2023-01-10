@@ -1,5 +1,5 @@
 console hard 7
-ChapterTime: 3:41.612(13036)
+ChapterTime: 3:35.339(12667)
 Set,SuperDashing,true
    1
 
@@ -782,83 +782,71 @@ Set,SuperDashing,true
    2,R
    1
   14,R,D
-   1,R,J
+   3,R,J
    5,R,U,Z
-   1,U
-   3,R
-  14,U
+   1,R
+   2
+  12,U
    5,L,U,X
-   4,L
-  10,U
-   5
+   1,L
+   4,U
+   1
+   7,U
+   3
+   1,R,U
+   2
   40
 
 #lvl_e-01
-   4,R,J
-   7,R
-   9,R,Z
-   2,R,J
-   5,R,G
-  16,R,J,G
-   4,D,X
+   1,R,J,G
    1,R
-  66,R
-  23,R,X
-   5,L,D,C
-   4,D
-  14
-  40
-   5,R,X
-   6,U
-  12
-  16,D,X
-  11,R
-  14,D,X
+   2,R,K,G
+   7,R
+   7,R,Z
+   1,R,J
+   4,R
+   1,R,J
+   1,R,G
+   4,R
+   1,G
+   1
+  18,G
+   8,R,Z
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   3,R,J,G
+   8,R,D,X
+   1,R,J,G
+   2,R,K,G
+   3,K
+   1,R,J,G
+   2,R,K,G
+   5,K
+   1,R,J,G
    6,R
-   5
-  15,R,X
-   5,D,C
-   3
-   3,R
-  10
-   1,J
-  49,L,J
-  30,L,G
-   4,D,X
-   1,L
-  17
-  61,L,G
-   4,D,X
-   1,L
-  17
-  24,L,U,G
-  55,L,G
-   1,L,J,G
-   3,J
-   7,R
-   2
-   1,R
+   1,R,J
    1
-   1,R
-   1,L
-   7
-  10,G
-   1
-   1,J
-  14,R,J
-   5,R,Z
-   1,U
-   7
-   1,R,D
-   6
-   1,U
-   1
-   1,R,D
-   4,X
-   1,R,U
-   2,R
-  16,U
-  14,R,J
+AutoInput,2
+   1,S
+  10,O
+StartAutoInput
+   1,R,J
+SkipAutoInput,3,1
+   5,R,U,Z
+   2,U
+SkipAutoInput,3,4
+   7,R,D
+   8
+SkipAutoInput,9,2
+   2,R,U
+  10,R
+SkipAutoInput,3,1
+   5,R,U,Z
+   4,U
+EndAutoInput
+  11,U
   40
 
 #lvl_e-02
