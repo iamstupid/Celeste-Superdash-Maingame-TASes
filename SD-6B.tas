@@ -1,5 +1,5 @@
 console hard 6
-ChapterTime: 2:44.696(9688)
+ChapterTime: 2:43.880(9640)
 Set,SuperDashing,true
    1
 
@@ -1101,30 +1101,22 @@ AnalogMode,Precise
   14,R,D
   37,L
    5,L,D,X
-   7,L,U
-  10
-   3,L,U
-   7,L
-  17,L,X
-   7,L,U
-  27,R,D
-  35,F,95.59
-  10,F,160
-  10,F,220
-  32,F,257.7
-  10,F,200
-  10,F,140
-   5,R,D,X
-   1,D
-  15
-   1,R,J
-   5,R,D,X
-   4,R,U
-  11
+   1
+  11,D
+   2
    3,R,D
-   1,L,J,G
-   2,R,J
-   8,R
+AutoInput,2
+   1,S,N
+  10,O
+StartAutoInput
+  13,R,D
+   6,R
+   2,R,D
+EndAutoInput
+   2,R,D
+   5,R,Z
+  11,R,D
+   7
   44,R
    5,R,D,X
    1,R
