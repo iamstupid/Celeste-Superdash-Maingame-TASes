@@ -829,7 +829,7 @@ Set,SuperDashing,true
    1,R,J
    1
 AutoInput,2
-   1,S
+   1,S,N
   10,O
 StartAutoInput
    1,R,J
