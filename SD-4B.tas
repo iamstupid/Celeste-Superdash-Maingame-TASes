@@ -1,5 +1,5 @@
 console hard 4
-ChapterTime: 1:25.425(5025)
+ChapterTime: 1:25.340(5020)
 Set,SuperDashing,true
    1
 
@@ -880,34 +880,30 @@ Set,SuperDashing,true
    6
    3,R
    1,L,D,J
-  15,R,J
+  16,R,J
    5,R,U,X
-  12
+   2,U
+  10
    1,U
    5
-   1,R,J,G
+   2,R,J,G
    7,R
-   4,D,X
-   1,L
-   2,L,D
-   1,L,U
+   5,L,Z
+   3,L,D
+   2,L,U
    1,R,J
    4,R
    1,R,J
-   3,R,K,G
-   2,R
    6,R,D,X
-   1
   40
 
 #lvl_d-03
-   8
+   9
    5,R,D,X
-   1
-   6,R,D
-   8
-   4,R,U
-  10,R,D
+   6,D
+  10
+   3,R,U
+   6,R
    5,R,U,X
   10,R,D
    4,X
