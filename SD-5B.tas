@@ -1,5 +1,5 @@
 console hard 5
-ChapterTime: 1:21.107(4771)
+ChapterTime: 1:20.563(4739)
 Set,SuperDashing,true
    1
 
@@ -703,62 +703,63 @@ Set,SuperDashing,true
    2
    1,R,D
    2
-  13,R,G
-   1,R,J,G
+  14,R,G
   40
 
 #lvl_d-03
    7,R,G
+   3,R
+   1,R,J
    1,R
-   7,R,G
-   5,R,J,G
-   5,R
-   2,R,J
    1,J
+  24,L
+   1,L,D
+   1,L
    1
-   1,J
-   4,R
-   2
+   1,L
+   8,L,Z
+   1,J,F,160
+   8,R
+   1,R,J
+   5,R,U,X
+   5,U
+   1
+   1,R
+   1
    5,R
-  14,R,Z
-  19,R,G
-   2,R,D,G
-   9,D,G
-   1,R,D,G
-  18,R,G
-   1,D
-   1,R,D
+  13,R,G
+   1,G
+  10,R,G
+   1,G
+  23,R,D,G
+  11,R,G
    1,R
-   5,R,X
-   1,R,U
-  13,R,D,G
-  24,R,G
-   3,R,D,G
-  12,R,G
-   1,R
-   7,R,U,X
+   5,R,U,X
    1,U
    1
-  12,G
-   9,R,G
-   2,R
-   3,R,J,G
+   1,U
+  13,U,G
+   8,R,G
+   1,R
+   1,R,J,G
+   2,R,J
    7,R
-   4,D,X
+   4,R,Z
    1,R,J
-   7
    1,R
-  21,D
+   5
+  23,D
    3,R,D
-   1,R
-   1
+   1,D
+   1,R,D
    1,D
    5,R,U,X
    1,U
    1
    1,R
   13,R,G
-  17,R,J,G
+  14,R,J,G
+   2,R,G
    1,R,D
    5,L,D,X
    1
