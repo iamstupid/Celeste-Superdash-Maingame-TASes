@@ -1,5 +1,5 @@
 console load 6
-ChapterTime: 3:43.703(13159)
+ChapterTime: 3:43.601(13153)
 Set,SuperDashing,true
    1
 
@@ -58,18 +58,27 @@ AnalogMode,Precise
    4
    5,L,U,X
    3,U
-   4
+  16
+   2,L,U
+   5,L,U,X
+   5
    1,U
-   7
-   5,U,X
-   7,L
   13
-  18,U,X
-  23,U,C
-   1,J
-  30,L,J
-  12,L,K,G
-   2,L,J,G
+   2,L,U
+   1,L,K
+   1,L,J
+   1,L,K
+   5,U,X
+   1,L
+   1
+   1,R,U
+  19
+  20,R,J
+   5,U,X
+   1,R
+   1,L,U
+  15
+   1,L
   40
 
 #lvl_01
