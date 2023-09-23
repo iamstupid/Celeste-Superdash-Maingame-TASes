@@ -1,5 +1,5 @@
 console load 6
-ChapterTime: 3:43.601(13153)
+ChapterTime: 3:43.584(13152)
 Set,SuperDashing,true
    1
 
@@ -55,7 +55,7 @@ AnalogMode,Precise
   34
 
 #lvl_00
-   4
+   3
    5,L,U,X
    3,U
   16
