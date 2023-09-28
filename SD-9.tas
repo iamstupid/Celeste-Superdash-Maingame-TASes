@@ -1,12 +1,11 @@
 console load 10
-ChapterTime: 3:59.734(14102)
+ChapterTime: 3:58.748(14044)
 Set,VariantMode,True
 Set,SuperDashing,true
    1
 
 #Start
   98
-
 #Lightning Cycle
 #wait-1
    0
@@ -343,9 +342,7 @@ Set,SuperDashing,true
    1,R,J
    3,R
    1
-
 #Power Source
-
    5,R,D,X
    8
    1,R,D
@@ -538,13 +535,11 @@ Set,SuperDashing,true
   10,R,J
    5,R,U,Z
    3
-
 #Spinner Cycle
 #wait-3
-   0
+   2
 #wait-3-end
 #e-06
-
    5,R,X
   24
    5,U,X
@@ -620,9 +615,7 @@ Set,SuperDashing,true
    2,U
    8
   45,U,C
-
 #Remembered
-
   60,L,U,X
   40
  
@@ -857,64 +850,51 @@ Set,SuperDashing,true
   40
 
 #lvl_e-04
-   3,R
-   4,R,D
-   3,R,U
-   7,R
-   4,D,X
-   1,R,U,Z
-   7,R
-   2,R,D
-   2
-   7,R,D
-   2,G
-   2
-   4,K,G
-   2,L,K
-   1,R,J,G
-   5,L,J
-  10,L
-   5
-   5,R,Z
-   3,D
    3
+   2,D
+   8
+   1,R,U
+   1
+   1,R,U
+   4,L,D,X
+   1,R,U
+   2,R,D
+   5
    1,R,D
-   1,R,J
-   2,R
-   5,R,U,Z
-   6,U
-   1,R
-   1
-  10,R
-   5,R,D,X
-   7,D
-   5,R
-   1
-   5,R
-   1
-   8,R,D
-   5,R,U,X
+   3
    2,U
-   5,R
+StunPause
+   1,R,D
+   3
+EndStunPause
+   2,R,D
+   5,R,D,X
+   3,U
    1
+  13,R,D
+   4,D,X
+   1,R,D
   40
 
 #lvl_e-05
-   1,R
+   3,D
    1
-   5,R,D,X
-  16,D
-   7,L,D
-   5,U,Z
-   1,R
+   7,D
+   1
+   5,L,D,X
    3
-   1,R
-  12
-   1,R
-   2,R,J,G
-   8
-   3,R
-   2
+   1,D
+  14
+   4,D,X
+   1,U
+   1,R,U
+  16
+   1,L,U
+   1
+   1,R,J,G
+   5
+   5,R
+   3
    2,R
    5
    2,L
@@ -1052,9 +1032,7 @@ Set,SuperDashing,true
    1,S
    1,D,J
   34
-
 #Event Horizon
-
    5,L,D,X
    1,J,F,160
    8,R
@@ -1572,9 +1550,7 @@ Set,SuperDashing,true
    1
    1,R,D
    1,R
-
 #Determination
-
   10,L,Z
    3,L,D
    2,L,U
@@ -2514,9 +2490,7 @@ Set,SuperDashing,true
    1,S
    1,D,J
   34
-
 #Farewell
-
    3,R,J
    5,U,X
    2,R
@@ -2534,7 +2508,7 @@ Set,SuperDashing,true
    2
 #Lightning Cycle
 #wait-5-1
-   8
+   2
 #wait-5-1-end
 #0~9
 #j-00b j-02 j-07
