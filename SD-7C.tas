@@ -1,5 +1,5 @@
 console rmx2 7
-ChapterTime: 0:22.219(1307)
+ChapterTime: 0:18.207(1071)
 Set,SuperDashing,true
    1
 
@@ -7,59 +7,47 @@ Set,SuperDashing,true
   61
 
 #lvl_01
-   4,D,X
-   7,L
-   3,R,J
-   1,R
    5,R,U,X
-  13,U
-   5,L,U
-   5,U,X
-   3,L
-   6
-   3,R,U
-   6
-  11,R,J
-   4
-   5,U,X
-   2,R
-   8
-   4,R
    1
-   4,D,X
-   7,L
+  11,L,U
+   2,R,J
+  10,J
+   3,R,J
+  23,U,X
+   1,J
+  15,R,J
+   5,U,X
+   1,R
+  10
+   1,R
+   3
+   4,D,C
+   1,L
+   6
    1,R,J
    3,R
-   4,D,X
-   7,R
-   3,R,D
-   5
-   1,R,U
-   3
-   1,R,U
-   2,R
-   8,R,U,X
-  11,U
-   7,R
+  11,R,Z
+   7,R,D
+   6,R,U
    5,R,U,X
-  11,U
    1
-   6,R
+  11,U
+   9,R
+   4,R,X
+   1,R,U
+   7,U
+  11,L,U
+   5,U,X
+  12,R
+   9,L,U
+  12,R,J
    5,R,U,X
+   6
    6,U
-  11
-   4,U
-   1,U,J
-  10,R,J
-   5,R,U,X
+   1
    5,U
-   9
-   4,U
-   1,U,J
-   2,R,J
-   5,R
-   4,D,X
-   6,L
+   7,R,J
+  10,L,Z
    1,R,J
    4,R
    5,R,D,X
@@ -114,175 +102,92 @@ Set,SuperDashing,true
 
 #lvl_03
   69
-   2,R,J
-   7,R,U,X
-  10,U
-   4,D,X
-   7,R
-   3,R,D
+  13,R,Z
    1,L,J
+   1,L
    5,L,D,X
+   1
    1,L,D
-   3
-   1,R,J
-   6,R
-   1,R,J
-   5,R,D,X
-   2
-   4,R,D
-   3,R,U
-   1
-   5,R,D,X
-   1,R,U
    5
-   2,R,D
-   1,R,U
-   2
-   4,D,X
+   1,R,J
+   2,R
+   2,R,J
    1,R
-   1,R
-   7
-   2,R,U
-   2
-   1,R,D
-   2
-   1,R,D
-   3
-  19,R,D
-   1,D
+   5,R,U,X
+   4,U
    1
-   5,R,X
-   2,R,U
-   8,R,D
-   4,D,C
-   1,R
-   5,R,U
-   5,R,D
-   7
-   2,R,U
-  20,L
+   6,R
+   4,R,K,G
    1
    5,R,D,X
-   9,R,U
-   9
-   4,L,D,X
-   1,R,U
-  16
-   1,U
-   1
-   1,J
-   5,R,U,X
-   1
+   2
    3,R,D
    1
-   1,R,D
+   1,R,U
+   1
+   1,R,U
    2
-   1,R,D
-   4
-   1,R,U
-   5,R,D
-   5,R
-   5,U,X
-   4
-   9,L
-   4,R
-   4,D,X
-   6,L
-  11,R,J
    5,R,D,X
-  12,D
-   2,L,D
-   2,D
+   2
+StunPause
+   7
+   5,D
+EndStunPause
+   1,D
+   1,S,N
+   1,J
+   9
+   5,R,D,X
+StunPause
+   2,U
+   1
    2,R,D
-   5,R,D,X
-   4,R,U
+EndStunPause
+   1,S
+   1,J
+   9
+   2,R,D
+StunPause
+   2,R,D
    1
-   1,R,U
-  10
-   3,R,U
-  10,R,D
+EndStunPause
    5,R,D,X
-   6
-   3,R,U
+   1,U
+StunPause
+   1,U
+   1
+EndStunPause
    1
    1,R,D
-   2,R,D,J
-   5,R,U,X
-   6,U
-   5,R
-   7,R,D
-   4,D,X
-   1,R,U
-   3,U
    1
-   1,U
+   2,R,U
    1
-   1,U
-   5,R
-   7,R,D
-   8,R
+   2,R,D
+   1
+   2,R,D
    5,R,D,X
    4,D
-   6,R
+   2
+   2,R,U
+   2
    5,R,D,X
-   6,D
-   8,R
+   2,U
    1
-   1,R
+   1,R,D
    1
+   2,R,D
+   3
    5,R,D,X
-   1,R,U
+   2,U
+   5
+   2,R,D
+   1
+   1,R,D
+   1
+   5,R,U,X
    5
    1,R,D
-   9
-   2,R,D
-   4,D,X
-   1,R,U
-   4,R,D
    4
-   2,R,U
-   1,R,D
-   1
-   5,R,D
-   1,R,U
-   1
-   4,L,D,X
-   1,R,U
-   2
-   3,R,D
-   3,R,U
-   2,R,D
-   4,R,D,X
-   1,R,U
-   2,R,D
-   1
-   8,R,D
-   3,R,U
-   4,L,D,X
-   1,R,U
-   1,R,D
-   4
-   1,R,D
-   1,R,U
-   1,R,D
-   3
-   2,R,D
-   4,D,X
-   1,R,U
-   5,R,D
-   1
-   1,R,U
-   3
-   5,R,D,X
-   6,R,D
-   5,R,U
-   5,R,D,X
-   1,R,U
-   6
-   1,R,U
-   3,R,D
-   5,R,U,X
-  11
-  60,L,X
+  60,L,Z
    1,L,D
   78,L
