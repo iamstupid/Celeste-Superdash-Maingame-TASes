@@ -1,6 +1,6 @@
 console load 4
 Set,SuperDashing,true
-ChapterTime: 2:43.030(9590)
+ChapterTime: 2:42.554(9562)
    1
 
 #Start
@@ -332,63 +332,64 @@ ChapterTime: 2:43.030(9590)
    5,J
    1,R,J
   12,R,K,G
-  11,R,J,G
+   9,R,J,G
    1,K
-   4,L,K
-   2,K
-  18,L,Z
-   5
-   5,L,U,X
-   2,U
-   1
-   3,U
-   1
-   2,L
-   1
-   1,U
-   1,J,G
-   1,R
-  11,L
-   2
-   3,L
-   1,L,G
-   2,L,J,G
-   1,L
-   1,L,J
-  13,L,D
-  11,R,D
-   3,R
-   2
-   5,L,U,X
-   3,U
-  12,L
-   6,L,D
-   5,L,U,Z
-   7,U
-   4
+   7,J,G
+   4,L,J
    1,J
-   6,D
+   1,L,K
+   2,L
+   4,D,X
+   4,L
+   1,U
+   2,L
+  12,U
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R
+   1,K,G
+   4,R,D
+  15,L,D
+   1,L
+   2,L,D
+   1,L
+   1,L,D
+   5,R,Z
+   1,D
+   1,L,J
+   2,D
+  10,L,D
+   6,L,D,J
+   2,L,J
+  12,L,K
+  12,L,J,G
+   4,K,G
+   3,J
+   1
+  20,D,X
+   5,R,D,C
+   1
+   1,J,F,160
+   7,R,J
+   6,R,D
+   1,D
+   1,R,J
+   5,R,D,X
+   5,D
+   1,R
+   1,D
+   6,R
+   1,D
+   1,R
    1,S
    1,D,J
   34
-  21,D
-   2
-   2,R
-   1,R,D
-   1,R
-   4,D,X
-   7,R,J
-   4
+   9,L
    5,R,U,X
    2,U
-   7,R,D
-   1
-   9,R,D
-   6
-   5,R,Z
-   1,R,U
-   1,R,D
-   7
+   5,R
+  11,R,D
    1,R,J
    5,R,D,X
    8,D
@@ -408,8 +409,10 @@ ChapterTime: 2:43.030(9590)
   10
    8,R
    5,U,X
-  14
-   9,R,U,X
+   6
+   4,R
+   5,U,X
+   7,R
   40
 
 #lvl_a-09
@@ -603,34 +606,25 @@ ChapterTime: 2:43.030(9590)
    3
    1,R,J
    5,R
-   3,R,J
-   5,R,U,X
-   7,U
-   2,R
-   3,U
-   1
-   5,U
-   1,L
-   1,L,J,G
-   3,J
+   2,R,J
+   4,D,X
+   1,R,U,X
+  11,U
+   7,R
+   1,L,K,G
+   4,R,K
+   3,R,J,G
+   1,K
   40
 
 #lvl_b-05 (1)
-   1,J
-   5,R
-   5
-   4,D,X
-   1,R
-   1,R,D
-   1,J
-   8,R
-   1,R,J
-   8,R,Z
+   1,R,K,G
+  10,R
+   5,R,D,X
+   5,R,Z
    1,R,D
    1,L,J
-   2,L
-   1,L,J
-   5,L
+   8,L
    1,L,J
    5,L,U,X
    1,U
@@ -752,12 +746,12 @@ ChapterTime: 2:43.030(9590)
    1
    1,U
    1,L
-   1,J
-   6,R,J
-   5,R
+   1,J,G
+   4,J
    1,R,J
-   7,R
-  10,R,Z
+  12,R
+   5,R,Z
+   5,R,D
    5,R,J
    5,R,U,Z
    1,R
@@ -811,41 +805,45 @@ ChapterTime: 2:43.030(9590)
    1,K
    1,J
   10,R,K
-   4,R,J,G
-   7,R
-  10,R,Z
-   2,R,J
+   4,L,J
+   7,L
+   1,L,J
+   5,L,Z
+   1,D
+   1,R,J
+   8,R
+   1,R,J
+   6,R,U,X
   40
 
 #lvl_b-00 (4)
-   1,R,J
-   1,R
-   1,R,J
-   5,R,U,X
-  15,U
-   1,R
-   2,R,J,G
-   7,R
-  14,L,Z
+   1
+   5,U
+   1
+   6,U
+   3,R
+   4,D,X
+  11,L,X
    1,R,J
    5,R,D,X
-   3,R
+   4,R
    1,R,D
-  14
+  13
    5,R,U,X
-   9,U
-   8,R
+   8,U
+   1
+   9,R
    1,J,G
-   6,R
+   7,R
   40
 
 #lvl_b-02 (2)
    5,R,D,X
    5
    7,R,D
-   4,R,U
+   5,R,U
    1,R,D
-   2,R,U
+   1,R,U
    5,R,U,X
    7,R,U
    1
@@ -853,10 +851,9 @@ ChapterTime: 2:43.030(9590)
    5,R,D,X
   
    1,D
+   1,R
    1
    7,R
-   1,R,U
-   1
    4,D,X
    1,R
    1,R,D,J
@@ -1122,16 +1119,20 @@ ChapterTime: 2:43.030(9590)
 #lvl_c-00 (2)
    5,R,D
    5,R,D,X
-   7,R
-   4,D
+   5,D
+   6
+   1,D
+   6
+  11,D
+   8,R,D
+   4,R
    1
-   6,D
-   1
-  17,R,D
-   7,R
+   1,R
    5,R,U,X
-   3,U
-  10,R
+   2,R
+   4,U
+   4,R
+   1,U
    5,R,D,X
    2,D
    1
