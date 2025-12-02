@@ -549,7 +549,7 @@ Set,SuperDashing,true
    2,L
   40
 
-#lvl_e-00y
+#lvl_e-00y (0)
    1,J
    2,R,J
    1,R,K,G
@@ -618,8 +618,8 @@ Set,SuperDashing,true
 #Remembered
   60,L,U,X
   40
- 
-#lvl_e-00y
+
+#lvl_e-00y (1)
   39
    5,L,U,Z
    4,U
@@ -834,7 +834,7 @@ Set,SuperDashing,true
    5,R,U,X
    8,R,D
   40
- 
+
 #lvl_e-03
    2,R,D
    1
@@ -1536,7 +1536,7 @@ EndStunPause
    5,R,D,X
    2,U
   40
- 
+
 #lvl_g-05
    3
   10,R,D
