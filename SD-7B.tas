@@ -1,5 +1,5 @@
 console hard 7
-ChapterTime: 3:35.220(12660)
+ChapterTime: 3:32.976(12528)
 Set,SuperDashing,true
    1
 
@@ -828,25 +828,25 @@ Set,SuperDashing,true
    6,R
    1,R,J
    1
-AutoInput,2
-   1,S,N
-  10,O
-StartAutoInput
    1,R,J
-SkipAutoInput,3,1
    5,R,U,Z
-   2,U
-SkipAutoInput,3,4
-   7,R,D
-   8
-SkipAutoInput,9,2
-   2,R,U
-  10,R
-SkipAutoInput,3,1
-   5,R,U,Z
-   4,U
-EndAutoInput
-  11,U
+   3,U
+   1
+   4,R,D
+   2
+   1,R,D
+   6
+   1,R,D
+   1
+   1,R
+   5,R,Z
+   9
+   7,U
+   1
+   1,U
+   1,J
+  12,R,K
+   5,R,J,G
   40
 
 #lvl_e-02
@@ -1544,8 +1544,8 @@ EndAutoInput
    1,L,J,G
    8,L
 
----
-   1
+# spinner cycle
+   0
 
 
    2,J
