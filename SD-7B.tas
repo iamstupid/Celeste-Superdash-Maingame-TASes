@@ -1,5 +1,5 @@
 console hard 7
-ChapterTime: 3:32.976(12528)
+ChapterTime: 3:32.772(12516)
 Set,SuperDashing,true
    1
 
@@ -112,7 +112,7 @@ Set,SuperDashing,true
   37,L
    5,L,U,X
   10,L,D
-   4,D,X
+   4,L,D,X
    1,L,U
    3,L,D
    8
@@ -123,32 +123,41 @@ Set,SuperDashing,true
 #lvl_b-00
   76
 #500m
-   5,L,D,X
-   3
-   1,U
-   1
-   3,L,J
-   4,L,K,G
-  15,L
-   4,D,X
-   1,L,U
-  21,U
-   1,L
-   1,L,J,G
-  42,L,U,G
-   1,J
+   4,L,Z
+   7,L,J
    1,L,K,G
+   5,L
+   3,L,J
+   6,L
+   5,L,U,X
+   1
+   4,U
+   1
+  16,U
    1,J,G
+   1,L
+   2
+   1,L
+   2
+   1,L
+  24,U,G
+   1
+   2,R
+   1,L
+   1,K,G
+   2,J,G
+   1,K,G
    5,R,U,X
   18,U
-  15,L,J
-   5,U,X
-   7,L
-   5,U
-   1
-   1,R,U
-   4
-   9,J
+  11,L,J
+   2,L
+   5,U,Z
+   7,L,U
+   2
+   7,R,U
+   2
+   7,J
+   3,L,J
    1,K
   40
 
@@ -767,6 +776,9 @@ Set,SuperDashing,true
   78
 #2000m
   14,L,D,X
+# spinner cycle
+   1
+# e-01
    1,R,J
    5,R,D,X
    6,U
@@ -1546,7 +1558,7 @@ Set,SuperDashing,true
 
 # spinner cycle
    0
-
+# CP-9
 
    2,J
    5,D,X
